@@ -1,0 +1,23 @@
+2013-10-02 12:29:17,094 [main                ] INFO             org.jvoicexml.startup.Shutdown (    93) - security manager set to java.rmi.RMISecurityManager@41607b27
+2013-10-02 12:29:17,158 [main                ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-10-02 12:29:18,048 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-10-02 12:29:18,053 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-10-02 12:29:18,083 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-10-02 12:29:18,083 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-10-02 12:29:18,083 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-10-02 12:29:18,084 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-10-02 12:29:18,084 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-10-02 12:29:18,084 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-10-02 12:29:18,191 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j-dd.xml'
+2013-10-02 12:29:18,191 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-10-02 12:29:18,191 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-10-02 12:29:18,192 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-10-02 12:29:18,192 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-10-02 12:29:18,193 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-10-02 12:29:18,195 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-10-02 12:29:18,196 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-10-02 12:29:18,196 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-10-02 12:29:18,197 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-10-02 12:29:18,201 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-10-02 12:29:18,201 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-10-02 12:29:18,434 [main                ] FATAL            org.jvoicexml.startup.Shutdown (   105) - no remote shutdown configured

@@ -1,0 +1,688 @@
+2014-03-17 01:27:40,809 [EventScannerThread  ] WARN  a7cd416d-507d-4083-adf2-659157081222 rg.speechforge.cairo.sip.SipListenerImpl (   306) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2014-03-17 01:27:41,897 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1100'
+2014-03-17 01:27:41,897 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml'...
+2014-03-17 01:27:42,040 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2014-03-17 01:27:42,226 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2014-03-17 01:27:42,235 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2014-03-17 01:27:42,235 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2014-03-17 01:27:42,235 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2014-03-17 01:27:42,253 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2014-03-17 01:27:42,254 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2014-03-17 01:27:42,254 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2014-03-17 01:27:42,254 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 01:27:42,255 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2014-03-17 01:27:42,255 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 01:27:42,255 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2014-03-17 01:27:42,255 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2014-03-17 01:27:42,255 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2014-03-17 01:27:42,255 [EventScannerThread  ] INFO  a7cd416d-507d-4083-adf2-659157081222 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2014-03-17 01:27:42,256 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016              org.jvoicexml.JVoiceXmlMain (   187) - created session 24284ef3-8c79-400b-ba84-963fa425d016
+2014-03-17 01:27:42,256 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml...
+2014-03-17 01:27:42,363 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1100' using protocol 'null' version 'null'...
+2014-03-17 01:27:42,434 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2014-03-17 01:27:42,573 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:27:42,708 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:27:42,738 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2014-03-17 01:27:42,863 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:27:42,965 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:27:42,965 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2014-03-17 01:27:43,087 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:27:43,199 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:27:43,200 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'myForm'
+2014-03-17 01:27:43,200 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2014-03-17 01:27:43,200 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2014-03-17 01:27:43,200 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2014-03-17 01:27:43,313 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:27:43,429 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:27:43,430 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'myForm'...
+2014-03-17 01:27:43,455 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 cexml.interpreter.formitem.BlockFormItem (   146) - initialized block form item 'F144cd6fd9c6S00000d' with 'null'
+2014-03-17 01:27:43,456 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 l.interpreter.formitem.AbstractInputItem (   234) - initialized input form item 'myVar' with 'null'
+2014-03-17 01:27:43,457 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   295) - found 2 form items in dialog 'myForm'...
+2014-03-17 01:27:43,457 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'myForm'...
+2014-03-17 01:27:43,457 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 01:27:43,473 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'F144cd6fd9c6S00000d'
+2014-03-17 01:27:43,482 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 01:27:43,483 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   598) - collecting 'F144cd6fd9c6S00000d'...
+2014-03-17 01:27:43,483 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'anonymous'...
+2014-03-17 01:27:43,485 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 01:27:43,485 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   466) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@c7b0139ttsClientorg.speechforge.cairo.client.SpeechClientImpl@c7b0139]'
+2014-03-17 01:27:43,485 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   302) - borrowed system output of type 'mrcpv2'
+2014-03-17 01:27:43,485 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 01:27:43,485 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   494) - borrowed call control of type 'dummy'
+2014-03-17 01:27:43,486 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   184) - Queue count incremented,,, now 1
+2014-03-17 01:27:43,515 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   201) - temp: <?xml version="1.0" encoding="UTF-8" standalone="no"?><speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xml:lang="en-US" xsi:schemaLocation="http://www.w3.org/2001/10/synthesis http://www.w3.org/TR/speech-synthesis/synthesis.xsd">ask me anything</speak>
+2014-03-17 01:27:43,515 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   224) - Using TTS!: ask me anything
+2014-03-17 01:27:44,062 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'anonymous'...
+2014-03-17 01:27:44,078 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state TRANSITIONING
+2014-03-17 01:27:44,079 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   653) - processing 'F144cd6fd9c6S00000d'...
+2014-03-17 01:27:46,582 [Thread-55           ] INFO  a7cd416d-507d-4083-adf2-659157081222 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   567) - Queue count decremented, now 0
+2014-03-17 01:27:46,641 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 01:27:46,645 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'myVar'
+2014-03-17 01:27:46,645 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 01:27:46,645 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.FormInterpretationAlgorithm (   598) - collecting 'myVar'...
+2014-03-17 01:27:46,748 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 01:27:46,748 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .implementation.mrcpv2.Mrcpv2SpokenInput (   367) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@c7b0139ttsClientorg.speechforge.cairo.client.SpeechClientImpl@c7b0139]'
+2014-03-17 01:27:46,749 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   403) - borrowed user input of type 'mrcpv2'
+2014-03-17 01:27:46,749 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .implementation.mrcpv2.Mrcpv2SpokenInput (   276) - speechClient.recognize is executed
+2014-03-17 01:27:56,823 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.event.JVoiceXmlEventHandler (   532) - notified event 'error.noresource'
+2014-03-17 01:27:56,823 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .interpreter.event.JVoiceXmlEventHandler (   485) - no matching strategy for type 'error.noresource'
+2014-03-17 01:27:56,824 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2014-03-17 01:27:56,824 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2014-03-17 01:27:56,824 [0b-ba84-963fa425d016] ERROR 24284ef3-8c79-400b-ba84-963fa425d016 g.jvoicexml.interpreter.JVoiceXmlSession (   330) - error processing application 'Unknown application'
+org.jvoicexml.event.error.NoresourceError: error.noresource: org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput.startRecognition(Mrcpv2SpokenInput.java:285)
+	at org.jvoicexml.implementation.jvxml.JVoiceXmlUserInput.startRecognition(JVoiceXmlUserInput.java:266)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.visitFieldFormItem(FormInterpretationAlgorithm.java:1160)
+	at org.jvoicexml.interpreter.formitem.FieldFormItem.accept(FieldFormItem.java:122)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.collect(FormInterpretationAlgorithm.java:635)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.mainLoop(FormInterpretationAlgorithm.java:426)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreter.process(VoiceXmlInterpreter.java:272)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.interpret(VoiceXmlInterpreterContext.java:798)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.process(VoiceXmlInterpreterContext.java:484)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.run(JVoiceXmlSession.java:328)
+Caused by: org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.recognize(SpeechClientImpl.java:1184)
+	at org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput.startRecognition(Mrcpv2SpokenInput.java:278)
+	... 9 more
+2014-03-17 01:27:56,825 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2014-03-17 01:27:56,825 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2014-03-17 01:27:56,825 [0b-ba84-963fa425d016] WARN  24284ef3-8c79-400b-ba84-963fa425d016 .implementation.mrcpv2.Mrcpv2SpokenInput (   447) - isBusy check is not implemented.
+2014-03-17 01:27:56,825 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2014-03-17 01:27:56,826 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 01:27:56,826 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput) to pool
+2014-03-17 01:27:56,826 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   337) - returned system output of type 'mrcpv2'
+2014-03-17 01:27:56,826 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 01:27:56,826 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput) to pool
+2014-03-17 01:27:56,826 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   447) - returned user input of type 'mrcpv2'
+2014-03-17 01:27:56,842 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   908) - telephony connection closed
+2014-03-17 01:27:56,842 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 01:27:56,842 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport) to pool
+2014-03-17 01:27:56,842 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   532) - returned call control of type 'dummy'
+2014-03-17 01:27:56,842 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2014-03-17 01:27:56,842 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2014-03-17 01:27:56,843 [0b-ba84-963fa425d016] INFO  24284ef3-8c79-400b-ba84-963fa425d016 g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2014-03-17 01:27:56,941 [EventScannerThread  ] ERROR 24284ef3-8c79-400b-ba84-963fa425d016 icexml.callmanager.mrcpv2.SipCallManager (   168) - MRCP response contains an error code, the request invocation did not complete successfully.
+org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.stopActiveRecognitionRequests(SpeechClientImpl.java:1120)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.cleanupSession(SipCallManager.java:165)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.StopDialog(SipCallManager.java:139)
+	at org.speechforge.zanzibar.sip.SipServer.processByeRequest(SipServer.java:472)
+	at org.speechforge.cairo.sip.SipListenerImpl.processBye(SipListenerImpl.java:646)
+	at org.speechforge.cairo.sip.SipListenerImpl.processRequest(SipListenerImpl.java:127)
+	at gov.nist.javax.sip.EventScanner.deliverEvent(EventScanner.java:223)
+	at gov.nist.javax.sip.EventScanner.run(EventScanner.java:492)
+	at java.lang.Thread.run(Thread.java:722)
+2014-03-17 01:27:57,025 [0b-ba84-963fa425d016] ERROR 24284ef3-8c79-400b-ba84-963fa425d016 icexml.callmanager.mrcpv2.SipCallManager (   168) - MRCP response contains an error code, the request invocation did not complete successfully.
+org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.stopActiveRecognitionRequests(SpeechClientImpl.java:1120)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.cleanupSession(SipCallManager.java:165)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.sessionEnded(SipCallManager.java:448)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.notifySessionEnded(JVoiceXmlSession.java:432)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.cleanup(JVoiceXmlSession.java:372)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.run(JVoiceXmlSession.java:346)
+2014-03-17 01:27:57,191 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 01:28:05,086 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 01:32:15,483 [EventScannerThread  ] WARN  24284ef3-8c79-400b-ba84-963fa425d016 rg.speechforge.cairo.sip.SipListenerImpl (   306) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2014-03-17 01:32:16,308 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1100'
+2014-03-17 01:32:16,308 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml'...
+2014-03-17 01:32:16,487 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2014-03-17 01:32:16,661 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2014-03-17 01:32:16,661 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2014-03-17 01:32:16,662 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2014-03-17 01:32:16,662 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2014-03-17 01:32:16,716 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2014-03-17 01:32:16,719 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2014-03-17 01:32:16,719 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2014-03-17 01:32:16,720 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 01:32:16,720 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2014-03-17 01:32:16,720 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 01:32:16,720 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2014-03-17 01:32:16,720 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2014-03-17 01:32:16,720 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2014-03-17 01:32:16,720 [EventScannerThread  ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2014-03-17 01:32:16,721 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547              org.jvoicexml.JVoiceXmlMain (   187) - created session 2d922d08-0d07-4381-a3aa-46f4a2ed3547
+2014-03-17 01:32:16,721 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml...
+2014-03-17 01:32:16,839 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1100' using protocol 'null' version 'null'...
+2014-03-17 01:32:16,918 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2014-03-17 01:32:17,081 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:32:17,236 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:32:17,266 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2014-03-17 01:32:17,405 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:32:17,599 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:32:17,599 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2014-03-17 01:32:17,718 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:32:17,903 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:32:17,904 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'myForm'
+2014-03-17 01:32:17,904 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2014-03-17 01:32:17,904 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2014-03-17 01:32:17,904 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2014-03-17 01:32:18,163 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:32:18,340 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:32:18,340 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'myForm'...
+2014-03-17 01:32:18,341 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 cexml.interpreter.formitem.BlockFormItem (   146) - initialized block form item 'F144cd740ba4S00000e' with 'null'
+2014-03-17 01:32:18,364 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 l.interpreter.formitem.AbstractInputItem (   234) - initialized input form item 'myVar' with 'null'
+2014-03-17 01:32:18,364 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   295) - found 2 form items in dialog 'myForm'...
+2014-03-17 01:32:18,364 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'myForm'...
+2014-03-17 01:32:18,365 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 01:32:18,366 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'F144cd740ba4S00000e'
+2014-03-17 01:32:18,366 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 01:32:18,366 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   598) - collecting 'F144cd740ba4S00000e'...
+2014-03-17 01:32:18,366 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'anonymous'...
+2014-03-17 01:32:18,393 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 01:32:18,393 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   466) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@3c0bc4fbttsClientorg.speechforge.cairo.client.SpeechClientImpl@3c0bc4fb]'
+2014-03-17 01:32:18,393 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   302) - borrowed system output of type 'mrcpv2'
+2014-03-17 01:32:18,393 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 01:32:18,393 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   494) - borrowed call control of type 'dummy'
+2014-03-17 01:32:18,394 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   184) - Queue count incremented,,, now 1
+2014-03-17 01:32:18,419 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   201) - temp: <?xml version="1.0" encoding="UTF-8" standalone="no"?><speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xml:lang="en-US" xsi:schemaLocation="http://www.w3.org/2001/10/synthesis http://www.w3.org/TR/speech-synthesis/synthesis.xsd">ask me anything</speak>
+2014-03-17 01:32:18,420 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   224) - Using TTS!: ask me anything
+2014-03-17 01:32:18,925 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'anonymous'...
+2014-03-17 01:32:18,950 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state TRANSITIONING
+2014-03-17 01:32:18,951 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   653) - processing 'F144cd740ba4S00000e'...
+2014-03-17 01:32:21,230 [Thread-67           ] INFO  24284ef3-8c79-400b-ba84-963fa425d016 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   567) - Queue count decremented, now 0
+2014-03-17 01:32:21,266 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 01:32:21,270 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'myVar'
+2014-03-17 01:32:21,270 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 01:32:21,270 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.FormInterpretationAlgorithm (   598) - collecting 'myVar'...
+2014-03-17 01:32:21,456 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 01:32:21,459 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .implementation.mrcpv2.Mrcpv2SpokenInput (   367) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@3c0bc4fbttsClientorg.speechforge.cairo.client.SpeechClientImpl@3c0bc4fb]'
+2014-03-17 01:32:21,459 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   403) - borrowed user input of type 'mrcpv2'
+2014-03-17 01:32:21,460 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .implementation.mrcpv2.Mrcpv2SpokenInput (   276) - speechClient.recognize is executed
+2014-03-17 01:32:25,555 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 g.jvoicexml.interpreter.JVoiceXmlSession (   222) - initiating a hangup event
+2014-03-17 01:32:25,593 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.event.JVoiceXmlEventHandler (   532) - notified event 'connection.disconnect.hangup'
+2014-03-17 01:32:31,559 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.event.JVoiceXmlEventHandler (   522) - ignoring second event 'error.noresource' current  event is 'connection.disconnect.hangup'
+2014-03-17 01:32:31,591 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .interpreter.event.JVoiceXmlEventHandler (   485) - no matching strategy for type 'connection.disconnect.hangup'
+2014-03-17 01:32:31,591 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2014-03-17 01:32:31,614 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 l.interpreter.VoiceXmlInterpreterContext (   501) - user hung up. terminating processing
+2014-03-17 01:32:31,615 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2014-03-17 01:32:31,615 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 l.interpreter.VoiceXmlInterpreterContext (   512) - no more documents to process for 'Unknown application'
+2014-03-17 01:32:31,615 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'application'...
+2014-03-17 01:32:31,615 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2014-03-17 01:32:31,615 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2014-03-17 01:32:31,615 [81-a3aa-46f4a2ed3547] WARN  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .implementation.mrcpv2.Mrcpv2SpokenInput (   447) - isBusy check is not implemented.
+2014-03-17 01:32:31,615 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2014-03-17 01:32:31,616 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 01:32:31,616 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput) to pool
+2014-03-17 01:32:31,616 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   337) - returned system output of type 'mrcpv2'
+2014-03-17 01:32:31,616 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 01:32:31,616 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput) to pool
+2014-03-17 01:32:31,616 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   447) - returned user input of type 'mrcpv2'
+2014-03-17 01:32:31,621 [EventScannerThread  ] ERROR 2d922d08-0d07-4381-a3aa-46f4a2ed3547 icexml.callmanager.mrcpv2.SipCallManager (   168) - MRCP response contains an error code, the request invocation did not complete successfully.
+org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.stopActiveRecognitionRequests(SpeechClientImpl.java:1120)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.cleanupSession(SipCallManager.java:165)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.StopDialog(SipCallManager.java:139)
+	at org.speechforge.zanzibar.sip.SipServer.processByeRequest(SipServer.java:472)
+	at org.speechforge.cairo.sip.SipListenerImpl.processBye(SipListenerImpl.java:646)
+	at org.speechforge.cairo.sip.SipListenerImpl.processRequest(SipListenerImpl.java:127)
+	at gov.nist.javax.sip.EventScanner.deliverEvent(EventScanner.java:223)
+	at gov.nist.javax.sip.EventScanner.run(EventScanner.java:492)
+	at java.lang.Thread.run(Thread.java:722)
+2014-03-17 01:32:31,625 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   908) - telephony connection closed
+2014-03-17 01:32:31,660 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 01:32:31,660 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport) to pool
+2014-03-17 01:32:31,660 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   532) - returned call control of type 'dummy'
+2014-03-17 01:32:31,660 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2014-03-17 01:32:31,660 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2014-03-17 01:32:31,660 [81-a3aa-46f4a2ed3547] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2014-03-17 01:32:31,661 [81-a3aa-46f4a2ed3547] ERROR 2d922d08-0d07-4381-a3aa-46f4a2ed3547 icexml.callmanager.mrcpv2.SipCallManager (   150) - no session given. unable to cleanup session
+2014-03-17 01:32:33,708 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 01:32:33,774 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 01:36:22,676 [EventScannerThread  ] WARN  2d922d08-0d07-4381-a3aa-46f4a2ed3547 rg.speechforge.cairo.sip.SipListenerImpl (   306) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2014-03-17 01:36:23,628 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1100'
+2014-03-17 01:36:23,628 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml'...
+2014-03-17 01:36:23,791 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2014-03-17 01:36:24,008 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2014-03-17 01:36:24,008 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2014-03-17 01:36:24,009 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2014-03-17 01:36:24,009 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2014-03-17 01:36:24,009 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2014-03-17 01:36:24,010 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2014-03-17 01:36:24,010 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2014-03-17 01:36:24,070 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 01:36:24,070 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2014-03-17 01:36:24,070 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 01:36:24,071 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2014-03-17 01:36:24,071 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2014-03-17 01:36:24,071 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2014-03-17 01:36:24,071 [EventScannerThread  ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2014-03-17 01:36:24,071 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a              org.jvoicexml.JVoiceXmlMain (   187) - created session a9ad805f-0267-4996-814d-7af574e3d47a
+2014-03-17 01:36:24,072 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml...
+2014-03-17 01:36:24,218 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1100' using protocol 'null' version 'null'...
+2014-03-17 01:36:24,306 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2014-03-17 01:36:24,559 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:36:24,755 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:36:24,771 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2014-03-17 01:36:24,959 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:36:25,106 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:36:25,106 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2014-03-17 01:36:25,327 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:36:25,510 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:36:25,510 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'myForm'
+2014-03-17 01:36:25,510 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2014-03-17 01:36:25,534 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2014-03-17 01:36:25,534 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2014-03-17 01:36:25,690 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:36:25,909 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:36:25,909 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'myForm'...
+2014-03-17 01:36:25,927 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a cexml.interpreter.formitem.BlockFormItem (   146) - initialized block form item 'F144cd77d2b6S00000f' with 'null'
+2014-03-17 01:36:25,928 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a l.interpreter.formitem.AbstractInputItem (   234) - initialized input form item 'myVar' with 'null'
+2014-03-17 01:36:25,929 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   295) - found 2 form items in dialog 'myForm'...
+2014-03-17 01:36:25,929 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'myForm'...
+2014-03-17 01:36:25,929 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 01:36:25,987 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'F144cd77d2b6S00000f'
+2014-03-17 01:36:25,987 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 01:36:25,987 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   598) - collecting 'F144cd77d2b6S00000f'...
+2014-03-17 01:36:25,987 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'anonymous'...
+2014-03-17 01:36:25,990 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 01:36:25,990 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   466) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@1ccd3eb5ttsClientorg.speechforge.cairo.client.SpeechClientImpl@1ccd3eb5]'
+2014-03-17 01:36:25,990 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   302) - borrowed system output of type 'mrcpv2'
+2014-03-17 01:36:25,990 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 01:36:25,990 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   494) - borrowed call control of type 'dummy'
+2014-03-17 01:36:26,026 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   184) - Queue count incremented,,, now 1
+2014-03-17 01:36:26,028 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   201) - temp: <?xml version="1.0" encoding="UTF-8" standalone="no"?><speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xml:lang="en-US" xsi:schemaLocation="http://www.w3.org/2001/10/synthesis http://www.w3.org/TR/speech-synthesis/synthesis.xsd">ask me anything</speak>
+2014-03-17 01:36:26,028 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   224) - Using TTS!: ask me anything
+2014-03-17 01:36:26,583 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'anonymous'...
+2014-03-17 01:36:26,591 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state TRANSITIONING
+2014-03-17 01:36:26,591 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   653) - processing 'F144cd77d2b6S00000f'...
+2014-03-17 01:36:29,060 [Thread-78           ] INFO  2d922d08-0d07-4381-a3aa-46f4a2ed3547 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   567) - Queue count decremented, now 0
+2014-03-17 01:36:29,107 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 01:36:29,110 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'myVar'
+2014-03-17 01:36:29,110 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 01:36:29,110 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.FormInterpretationAlgorithm (   598) - collecting 'myVar'...
+2014-03-17 01:36:29,282 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 01:36:29,282 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .implementation.mrcpv2.Mrcpv2SpokenInput (   367) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@1ccd3eb5ttsClientorg.speechforge.cairo.client.SpeechClientImpl@1ccd3eb5]'
+2014-03-17 01:36:29,283 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   403) - borrowed user input of type 'mrcpv2'
+2014-03-17 01:36:29,283 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .implementation.mrcpv2.Mrcpv2SpokenInput (   276) - speechClient.recognize is executed
+2014-03-17 01:36:39,366 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.event.JVoiceXmlEventHandler (   532) - notified event 'error.noresource'
+2014-03-17 01:36:39,367 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .interpreter.event.JVoiceXmlEventHandler (   485) - no matching strategy for type 'error.noresource'
+2014-03-17 01:36:39,367 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2014-03-17 01:36:39,381 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2014-03-17 01:36:39,381 [96-814d-7af574e3d47a] ERROR a9ad805f-0267-4996-814d-7af574e3d47a g.jvoicexml.interpreter.JVoiceXmlSession (   330) - error processing application 'Unknown application'
+org.jvoicexml.event.error.NoresourceError: error.noresource: org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput.startRecognition(Mrcpv2SpokenInput.java:285)
+	at org.jvoicexml.implementation.jvxml.JVoiceXmlUserInput.startRecognition(JVoiceXmlUserInput.java:266)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.visitFieldFormItem(FormInterpretationAlgorithm.java:1160)
+	at org.jvoicexml.interpreter.formitem.FieldFormItem.accept(FieldFormItem.java:122)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.collect(FormInterpretationAlgorithm.java:635)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.mainLoop(FormInterpretationAlgorithm.java:426)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreter.process(VoiceXmlInterpreter.java:272)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.interpret(VoiceXmlInterpreterContext.java:798)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.process(VoiceXmlInterpreterContext.java:484)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.run(JVoiceXmlSession.java:328)
+Caused by: org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.recognize(SpeechClientImpl.java:1184)
+	at org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput.startRecognition(Mrcpv2SpokenInput.java:278)
+	... 9 more
+2014-03-17 01:36:39,382 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2014-03-17 01:36:39,382 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2014-03-17 01:36:39,382 [96-814d-7af574e3d47a] WARN  a9ad805f-0267-4996-814d-7af574e3d47a .implementation.mrcpv2.Mrcpv2SpokenInput (   447) - isBusy check is not implemented.
+2014-03-17 01:36:39,382 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2014-03-17 01:36:39,382 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 01:36:39,382 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput) to pool
+2014-03-17 01:36:39,382 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   337) - returned system output of type 'mrcpv2'
+2014-03-17 01:36:39,383 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 01:36:39,383 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput) to pool
+2014-03-17 01:36:39,383 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   447) - returned user input of type 'mrcpv2'
+2014-03-17 01:36:39,458 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   908) - telephony connection closed
+2014-03-17 01:36:39,459 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 01:36:39,459 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport) to pool
+2014-03-17 01:36:39,459 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   532) - returned call control of type 'dummy'
+2014-03-17 01:36:39,459 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2014-03-17 01:36:39,459 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2014-03-17 01:36:39,459 [96-814d-7af574e3d47a] INFO  a9ad805f-0267-4996-814d-7af574e3d47a g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2014-03-17 01:36:39,483 [96-814d-7af574e3d47a] ERROR a9ad805f-0267-4996-814d-7af574e3d47a icexml.callmanager.mrcpv2.SipCallManager (   168) - MRCP response contains an error code, the request invocation did not complete successfully.
+org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.stopActiveRecognitionRequests(SpeechClientImpl.java:1120)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.cleanupSession(SipCallManager.java:165)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.sessionEnded(SipCallManager.java:448)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.notifySessionEnded(JVoiceXmlSession.java:432)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.cleanup(JVoiceXmlSession.java:372)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.run(JVoiceXmlSession.java:346)
+2014-03-17 01:36:47,583 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 01:36:47,615 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 01:48:29,599 [EventScannerThread  ] WARN  a9ad805f-0267-4996-814d-7af574e3d47a rg.speechforge.cairo.sip.SipListenerImpl (   306) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2014-03-17 01:48:30,470 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1100'
+2014-03-17 01:48:30,471 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml'...
+2014-03-17 01:48:30,758 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2014-03-17 01:48:31,077 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2014-03-17 01:48:31,077 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2014-03-17 01:48:31,078 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2014-03-17 01:48:31,078 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2014-03-17 01:48:31,115 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2014-03-17 01:48:31,115 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2014-03-17 01:48:31,115 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2014-03-17 01:48:31,116 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 01:48:31,116 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2014-03-17 01:48:31,116 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 01:48:31,116 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2014-03-17 01:48:31,116 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2014-03-17 01:48:31,116 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2014-03-17 01:48:31,117 [EventScannerThread  ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2014-03-17 01:48:31,117 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a              org.jvoicexml.JVoiceXmlMain (   187) - created session 89164a07-bc97-44d7-a7d4-97cc4122706a
+2014-03-17 01:48:31,117 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml...
+2014-03-17 01:48:31,263 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1100' using protocol 'null' version 'null'...
+2014-03-17 01:48:31,390 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2014-03-17 01:48:31,622 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:48:31,822 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:48:31,931 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2014-03-17 01:48:32,104 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:48:32,395 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:48:32,395 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2014-03-17 01:48:32,646 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:48:32,883 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:48:32,883 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'myForm'
+2014-03-17 01:48:32,883 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2014-03-17 01:48:32,884 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2014-03-17 01:48:32,884 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2014-03-17 01:48:33,060 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 01:48:33,230 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 01:48:33,276 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'myForm'...
+2014-03-17 01:48:33,278 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a cexml.interpreter.formitem.BlockFormItem (   146) - initialized block form item 'F144cd82ebfcS000010' with 'null'
+2014-03-17 01:48:33,330 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a l.interpreter.formitem.AbstractInputItem (   234) - initialized input form item 'myVar' with 'null'
+2014-03-17 01:48:33,330 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   295) - found 2 form items in dialog 'myForm'...
+2014-03-17 01:48:33,330 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'myForm'...
+2014-03-17 01:48:33,330 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 01:48:33,345 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'F144cd82ebfcS000010'
+2014-03-17 01:48:33,346 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 01:48:33,346 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   598) - collecting 'F144cd82ebfcS000010'...
+2014-03-17 01:48:33,346 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'anonymous'...
+2014-03-17 01:48:33,361 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 01:48:33,361 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   466) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@6df6e48attsClientorg.speechforge.cairo.client.SpeechClientImpl@6df6e48a]'
+2014-03-17 01:48:33,361 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   302) - borrowed system output of type 'mrcpv2'
+2014-03-17 01:48:33,430 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 01:48:33,430 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   494) - borrowed call control of type 'dummy'
+2014-03-17 01:48:33,467 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   184) - Queue count incremented,,, now 1
+2014-03-17 01:48:33,468 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   201) - temp: <?xml version="1.0" encoding="UTF-8" standalone="no"?><speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xml:lang="en-US" xsi:schemaLocation="http://www.w3.org/2001/10/synthesis http://www.w3.org/TR/speech-synthesis/synthesis.xsd">ask me anything</speak>
+2014-03-17 01:48:33,468 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   224) - Using TTS!: ask me anything
+2014-03-17 01:48:34,071 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'anonymous'...
+2014-03-17 01:48:34,090 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state TRANSITIONING
+2014-03-17 01:48:34,091 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   653) - processing 'F144cd82ebfcS000010'...
+2014-03-17 01:48:36,429 [Thread-88           ] INFO  a9ad805f-0267-4996-814d-7af574e3d47a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   567) - Queue count decremented, now 0
+2014-03-17 01:48:36,507 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 01:48:36,518 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'myVar'
+2014-03-17 01:48:36,519 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 01:48:36,519 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.FormInterpretationAlgorithm (   598) - collecting 'myVar'...
+2014-03-17 01:48:36,749 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 01:48:36,749 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .implementation.mrcpv2.Mrcpv2SpokenInput (   367) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@6df6e48attsClientorg.speechforge.cairo.client.SpeechClientImpl@6df6e48a]'
+2014-03-17 01:48:36,749 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   403) - borrowed user input of type 'mrcpv2'
+2014-03-17 01:48:36,749 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .implementation.mrcpv2.Mrcpv2SpokenInput (   276) - speechClient.recognize is executed
+2014-03-17 01:48:44,326 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a g.jvoicexml.interpreter.JVoiceXmlSession (   222) - initiating a hangup event
+2014-03-17 01:48:44,346 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.event.JVoiceXmlEventHandler (   532) - notified event 'connection.disconnect.hangup'
+2014-03-17 01:48:46,894 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.event.JVoiceXmlEventHandler (   522) - ignoring second event 'error.noresource' current  event is 'connection.disconnect.hangup'
+2014-03-17 01:48:46,940 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .interpreter.event.JVoiceXmlEventHandler (   485) - no matching strategy for type 'connection.disconnect.hangup'
+2014-03-17 01:48:46,940 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2014-03-17 01:48:46,982 [EventScannerThread  ] ERROR 89164a07-bc97-44d7-a7d4-97cc4122706a icexml.callmanager.mrcpv2.SipCallManager (   168) - MRCP response contains an error code, the request invocation did not complete successfully.
+org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.stopActiveRecognitionRequests(SpeechClientImpl.java:1120)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.cleanupSession(SipCallManager.java:165)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.StopDialog(SipCallManager.java:139)
+	at org.speechforge.zanzibar.sip.SipServer.processByeRequest(SipServer.java:472)
+	at org.speechforge.cairo.sip.SipListenerImpl.processBye(SipListenerImpl.java:646)
+	at org.speechforge.cairo.sip.SipListenerImpl.processRequest(SipListenerImpl.java:127)
+	at gov.nist.javax.sip.EventScanner.deliverEvent(EventScanner.java:223)
+	at gov.nist.javax.sip.EventScanner.run(EventScanner.java:492)
+	at java.lang.Thread.run(Thread.java:722)
+2014-03-17 01:48:46,998 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a l.interpreter.VoiceXmlInterpreterContext (   501) - user hung up. terminating processing
+2014-03-17 01:48:46,999 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2014-03-17 01:48:46,999 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a l.interpreter.VoiceXmlInterpreterContext (   512) - no more documents to process for 'Unknown application'
+2014-03-17 01:48:46,999 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'application'...
+2014-03-17 01:48:46,999 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2014-03-17 01:48:46,999 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2014-03-17 01:48:46,999 [d7-a7d4-97cc4122706a] WARN  89164a07-bc97-44d7-a7d4-97cc4122706a .implementation.mrcpv2.Mrcpv2SpokenInput (   447) - isBusy check is not implemented.
+2014-03-17 01:48:46,999 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2014-03-17 01:48:46,999 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 01:48:47,000 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput) to pool
+2014-03-17 01:48:47,000 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   337) - returned system output of type 'mrcpv2'
+2014-03-17 01:48:47,030 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 01:48:47,031 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput) to pool
+2014-03-17 01:48:47,031 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   447) - returned user input of type 'mrcpv2'
+2014-03-17 01:48:47,070 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   908) - telephony connection closed
+2014-03-17 01:48:47,071 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 01:48:47,071 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport) to pool
+2014-03-17 01:48:47,071 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   532) - returned call control of type 'dummy'
+2014-03-17 01:48:47,071 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2014-03-17 01:48:47,071 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2014-03-17 01:48:47,071 [d7-a7d4-97cc4122706a] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2014-03-17 01:48:47,072 [d7-a7d4-97cc4122706a] ERROR 89164a07-bc97-44d7-a7d4-97cc4122706a icexml.callmanager.mrcpv2.SipCallManager (   150) - no session given. unable to cleanup session
+2014-03-17 01:48:52,462 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 01:48:52,558 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 02:06:31,627 [EventScannerThread  ] WARN  89164a07-bc97-44d7-a7d4-97cc4122706a rg.speechforge.cairo.sip.SipListenerImpl (   306) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2014-03-17 02:06:32,618 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1100'
+2014-03-17 02:06:32,619 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml'...
+2014-03-17 02:06:32,870 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2014-03-17 02:06:33,250 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2014-03-17 02:06:33,250 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2014-03-17 02:06:33,303 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2014-03-17 02:06:33,303 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2014-03-17 02:06:33,304 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2014-03-17 02:06:33,307 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2014-03-17 02:06:33,307 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2014-03-17 02:06:33,307 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 02:06:33,308 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2014-03-17 02:06:33,308 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 02:06:33,308 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2014-03-17 02:06:33,308 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2014-03-17 02:06:33,308 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2014-03-17 02:06:33,308 [EventScannerThread  ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2014-03-17 02:06:33,308 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e              org.jvoicexml.JVoiceXmlMain (   187) - created session ae8827b2-5221-45b9-be07-f556be1ed51e
+2014-03-17 02:06:33,309 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml...
+2014-03-17 02:06:33,491 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1100' using protocol 'null' version 'null'...
+2014-03-17 02:06:33,606 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2014-03-17 02:06:33,950 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 02:06:34,165 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 02:06:34,229 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2014-03-17 02:06:34,450 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 02:06:34,689 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 02:06:34,689 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2014-03-17 02:06:34,909 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 02:06:35,146 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 02:06:35,147 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'myForm'
+2014-03-17 02:06:35,147 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2014-03-17 02:06:35,147 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2014-03-17 02:06:35,147 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2014-03-17 02:06:35,404 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 02:06:35,633 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 02:06:35,633 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'myForm'...
+2014-03-17 02:06:35,679 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e cexml.interpreter.formitem.BlockFormItem (   146) - initialized block form item 'F144cd936ff1S000011' with 'null'
+2014-03-17 02:06:35,719 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e l.interpreter.formitem.AbstractInputItem (   234) - initialized input form item 'myVar' with 'null'
+2014-03-17 02:06:35,722 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   295) - found 2 form items in dialog 'myForm'...
+2014-03-17 02:06:35,723 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'myForm'...
+2014-03-17 02:06:35,723 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 02:06:35,724 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'F144cd936ff1S000011'
+2014-03-17 02:06:35,724 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 02:06:35,724 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   598) - collecting 'F144cd936ff1S000011'...
+2014-03-17 02:06:35,724 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'anonymous'...
+2014-03-17 02:06:35,726 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 02:06:35,798 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e mentation.mrcpv2.Mrcpv2SynthesizedOutput (   466) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@4900583fttsClientorg.speechforge.cairo.client.SpeechClientImpl@4900583f]'
+2014-03-17 02:06:35,798 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   302) - borrowed system output of type 'mrcpv2'
+2014-03-17 02:06:35,798 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 02:06:35,801 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   494) - borrowed call control of type 'dummy'
+2014-03-17 02:06:35,801 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e mentation.mrcpv2.Mrcpv2SynthesizedOutput (   184) - Queue count incremented,,, now 1
+2014-03-17 02:06:35,852 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e mentation.mrcpv2.Mrcpv2SynthesizedOutput (   201) - temp: <?xml version="1.0" encoding="UTF-8" standalone="no"?><speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xml:lang="en-US" xsi:schemaLocation="http://www.w3.org/2001/10/synthesis http://www.w3.org/TR/speech-synthesis/synthesis.xsd">ask me anything</speak>
+2014-03-17 02:06:35,853 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e mentation.mrcpv2.Mrcpv2SynthesizedOutput (   224) - Using TTS!: ask me anything
+2014-03-17 02:06:36,436 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'anonymous'...
+2014-03-17 02:06:36,462 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state TRANSITIONING
+2014-03-17 02:06:36,463 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   653) - processing 'F144cd936ff1S000011'...
+2014-03-17 02:06:38,826 [Thread-99           ] INFO  89164a07-bc97-44d7-a7d4-97cc4122706a mentation.mrcpv2.Mrcpv2SynthesizedOutput (   567) - Queue count decremented, now 0
+2014-03-17 02:06:38,931 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 02:06:38,934 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'myVar'
+2014-03-17 02:06:38,934 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 02:06:38,960 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.FormInterpretationAlgorithm (   598) - collecting 'myVar'...
+2014-03-17 02:06:39,316 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 02:06:39,317 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .implementation.mrcpv2.Mrcpv2SpokenInput (   367) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@4900583fttsClientorg.speechforge.cairo.client.SpeechClientImpl@4900583f]'
+2014-03-17 02:06:39,317 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   403) - borrowed user input of type 'mrcpv2'
+2014-03-17 02:06:39,317 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .implementation.mrcpv2.Mrcpv2SpokenInput (   276) - speechClient.recognize is executed
+2014-03-17 02:06:49,498 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.event.JVoiceXmlEventHandler (   532) - notified event 'error.noresource'
+2014-03-17 02:06:49,507 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .interpreter.event.JVoiceXmlEventHandler (   485) - no matching strategy for type 'error.noresource'
+2014-03-17 02:06:49,507 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2014-03-17 02:06:49,586 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2014-03-17 02:06:49,610 [b9-be07-f556be1ed51e] ERROR ae8827b2-5221-45b9-be07-f556be1ed51e g.jvoicexml.interpreter.JVoiceXmlSession (   330) - error processing application 'Unknown application'
+org.jvoicexml.event.error.NoresourceError: error.noresource: org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput.startRecognition(Mrcpv2SpokenInput.java:285)
+	at org.jvoicexml.implementation.jvxml.JVoiceXmlUserInput.startRecognition(JVoiceXmlUserInput.java:266)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.visitFieldFormItem(FormInterpretationAlgorithm.java:1160)
+	at org.jvoicexml.interpreter.formitem.FieldFormItem.accept(FieldFormItem.java:122)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.collect(FormInterpretationAlgorithm.java:635)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.mainLoop(FormInterpretationAlgorithm.java:426)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreter.process(VoiceXmlInterpreter.java:272)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.interpret(VoiceXmlInterpreterContext.java:798)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.process(VoiceXmlInterpreterContext.java:484)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.run(JVoiceXmlSession.java:328)
+Caused by: org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.recognize(SpeechClientImpl.java:1184)
+	at org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput.startRecognition(Mrcpv2SpokenInput.java:278)
+	... 9 more
+2014-03-17 02:06:49,634 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2014-03-17 02:06:49,635 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2014-03-17 02:06:49,635 [b9-be07-f556be1ed51e] WARN  ae8827b2-5221-45b9-be07-f556be1ed51e .implementation.mrcpv2.Mrcpv2SpokenInput (   447) - isBusy check is not implemented.
+2014-03-17 02:06:49,635 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2014-03-17 02:06:49,635 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 02:06:49,635 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput) to pool
+2014-03-17 02:06:49,635 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   337) - returned system output of type 'mrcpv2'
+2014-03-17 02:06:49,636 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 02:06:49,636 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput) to pool
+2014-03-17 02:06:49,636 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   447) - returned user input of type 'mrcpv2'
+2014-03-17 02:06:49,696 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   908) - telephony connection closed
+2014-03-17 02:06:49,696 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 02:06:49,696 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport) to pool
+2014-03-17 02:06:49,696 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   532) - returned call control of type 'dummy'
+2014-03-17 02:06:49,696 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2014-03-17 02:06:49,697 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2014-03-17 02:06:49,697 [b9-be07-f556be1ed51e] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2014-03-17 02:06:49,762 [b9-be07-f556be1ed51e] ERROR ae8827b2-5221-45b9-be07-f556be1ed51e icexml.callmanager.mrcpv2.SipCallManager (   168) - MRCP response contains an error code, the request invocation did not complete successfully.
+org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.stopActiveRecognitionRequests(SpeechClientImpl.java:1120)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.cleanupSession(SipCallManager.java:165)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.sessionEnded(SipCallManager.java:448)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.notifySessionEnded(JVoiceXmlSession.java:432)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.cleanup(JVoiceXmlSession.java:372)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.run(JVoiceXmlSession.java:346)
+2014-03-17 02:06:57,852 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 02:06:57,852 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 02:16:12,535 [EventScannerThread  ] WARN  ae8827b2-5221-45b9-be07-f556be1ed51e rg.speechforge.cairo.sip.SipListenerImpl (   306) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2014-03-17 02:16:13,166 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1100'
+2014-03-17 02:16:13,166 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml'...
+2014-03-17 02:16:13,500 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2014-03-17 02:16:13,964 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2014-03-17 02:16:13,965 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2014-03-17 02:16:13,965 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2014-03-17 02:16:13,966 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2014-03-17 02:16:13,966 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2014-03-17 02:16:14,035 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2014-03-17 02:16:14,035 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2014-03-17 02:16:14,036 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 02:16:14,036 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2014-03-17 02:16:14,036 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2014-03-17 02:16:14,036 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2014-03-17 02:16:14,036 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2014-03-17 02:16:14,036 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2014-03-17 02:16:14,036 [EventScannerThread  ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2014-03-17 02:16:14,037 [EventScannerThread  ] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245              org.jvoicexml.JVoiceXmlMain (   187) - created session 8d7d6143-845b-4b5e-8182-ae1f8b32f245
+2014-03-17 02:16:14,037 [EventScannerThread  ] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://it-tjr7.dhbw-stuttgart.de/patrick/test.vxml...
+2014-03-17 02:16:14,239 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1100' using protocol 'null' version 'null'...
+2014-03-17 02:16:14,411 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2014-03-17 02:16:14,823 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 02:16:15,116 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 02:16:15,178 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2014-03-17 02:16:15,396 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 02:16:15,756 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 02:16:15,757 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2014-03-17 02:16:15,986 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 02:16:16,296 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 02:16:16,297 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'myForm'
+2014-03-17 02:16:16,297 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2014-03-17 02:16:16,297 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2014-03-17 02:16:16,297 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2014-03-17 02:16:16,583 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2014-03-17 02:16:16,883 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2014-03-17 02:16:16,884 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'myForm'...
+2014-03-17 02:16:16,916 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 cexml.interpreter.formitem.BlockFormItem (   146) - initialized block form item 'F144cd9c4e74S000012' with 'null'
+2014-03-17 02:16:16,917 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 l.interpreter.formitem.AbstractInputItem (   234) - initialized input form item 'myVar' with 'null'
+2014-03-17 02:16:16,917 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   295) - found 2 form items in dialog 'myForm'...
+2014-03-17 02:16:16,917 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'myForm'...
+2014-03-17 02:16:16,917 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 02:16:16,981 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'F144cd9c4e74S000012'
+2014-03-17 02:16:16,982 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 02:16:16,982 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   598) - collecting 'F144cd9c4e74S000012'...
+2014-03-17 02:16:16,982 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'anonymous'...
+2014-03-17 02:16:16,984 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 02:16:16,984 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   466) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@4eac3edfttsClientorg.speechforge.cairo.client.SpeechClientImpl@4eac3edf]'
+2014-03-17 02:16:16,984 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   302) - borrowed system output of type 'mrcpv2'
+2014-03-17 02:16:16,984 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 02:16:16,984 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   494) - borrowed call control of type 'dummy'
+2014-03-17 02:16:16,985 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   184) - Queue count incremented,,, now 1
+2014-03-17 02:16:16,986 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   201) - temp: <?xml version="1.0" encoding="UTF-8" standalone="no"?><speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xml:lang="en-US" xsi:schemaLocation="http://www.w3.org/2001/10/synthesis http://www.w3.org/TR/speech-synthesis/synthesis.xsd">ask me anything</speak>
+2014-03-17 02:16:16,986 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   224) - Using TTS!: ask me anything
+2014-03-17 02:16:17,595 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'anonymous'...
+2014-03-17 02:16:17,604 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state TRANSITIONING
+2014-03-17 02:16:17,634 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   653) - processing 'F144cd9c4e74S000012'...
+2014-03-17 02:16:19,894 [Thread-109          ] INFO  ae8827b2-5221-45b9-be07-f556be1ed51e mentation.mrcpv2.Mrcpv2SynthesizedOutput (   567) - Queue count decremented, now 0
+2014-03-17 02:16:20,030 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'myForm'...
+2014-03-17 02:16:20,095 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'myForm' is 'myVar'
+2014-03-17 02:16:20,095 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2014-03-17 02:16:20,095 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.FormInterpretationAlgorithm (   598) - collecting 'myVar'...
+2014-03-17 02:16:20,400 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 02:16:20,401 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .implementation.mrcpv2.Mrcpv2SpokenInput (   367) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1100,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@4eac3edfttsClientorg.speechforge.cairo.client.SpeechClientImpl@4eac3edf]'
+2014-03-17 02:16:20,401 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   403) - borrowed user input of type 'mrcpv2'
+2014-03-17 02:16:20,401 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .implementation.mrcpv2.Mrcpv2SpokenInput (   276) - speechClient.recognize is executed
+2014-03-17 02:16:30,597 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.event.JVoiceXmlEventHandler (   532) - notified event 'error.noresource'
+2014-03-17 02:16:30,597 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .interpreter.event.JVoiceXmlEventHandler (   485) - no matching strategy for type 'error.noresource'
+2014-03-17 02:16:30,598 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2014-03-17 02:16:30,634 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2014-03-17 02:16:30,635 [5e-8182-ae1f8b32f245] ERROR 8d7d6143-845b-4b5e-8182-ae1f8b32f245 g.jvoicexml.interpreter.JVoiceXmlSession (   330) - error processing application 'Unknown application'
+org.jvoicexml.event.error.NoresourceError: error.noresource: org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput.startRecognition(Mrcpv2SpokenInput.java:285)
+	at org.jvoicexml.implementation.jvxml.JVoiceXmlUserInput.startRecognition(JVoiceXmlUserInput.java:266)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.visitFieldFormItem(FormInterpretationAlgorithm.java:1160)
+	at org.jvoicexml.interpreter.formitem.FieldFormItem.accept(FieldFormItem.java:122)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.collect(FormInterpretationAlgorithm.java:635)
+	at org.jvoicexml.interpreter.FormInterpretationAlgorithm.mainLoop(FormInterpretationAlgorithm.java:426)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreter.process(VoiceXmlInterpreter.java:272)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.interpret(VoiceXmlInterpreterContext.java:798)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.process(VoiceXmlInterpreterContext.java:484)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.run(JVoiceXmlSession.java:328)
+Caused by: org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.recognize(SpeechClientImpl.java:1184)
+	at org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput.startRecognition(Mrcpv2SpokenInput.java:278)
+	... 9 more
+2014-03-17 02:16:30,635 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2014-03-17 02:16:30,635 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2014-03-17 02:16:30,635 [5e-8182-ae1f8b32f245] WARN  8d7d6143-845b-4b5e-8182-ae1f8b32f245 .implementation.mrcpv2.Mrcpv2SpokenInput (   447) - isBusy check is not implemented.
+2014-03-17 02:16:30,636 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2014-03-17 02:16:30,636 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2014-03-17 02:16:30,636 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput) to pool
+2014-03-17 02:16:30,636 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   337) - returned system output of type 'mrcpv2'
+2014-03-17 02:16:30,636 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2014-03-17 02:16:30,636 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput) to pool
+2014-03-17 02:16:30,636 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   447) - returned user input of type 'mrcpv2'
+2014-03-17 02:16:30,735 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   908) - telephony connection closed
+2014-03-17 02:16:30,784 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2014-03-17 02:16:30,784 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport) to pool
+2014-03-17 02:16:30,784 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   532) - returned call control of type 'dummy'
+2014-03-17 02:16:30,784 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2014-03-17 02:16:30,784 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2014-03-17 02:16:30,785 [5e-8182-ae1f8b32f245] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2014-03-17 02:16:30,926 [5e-8182-ae1f8b32f245] ERROR 8d7d6143-845b-4b5e-8182-ae1f8b32f245 icexml.callmanager.mrcpv2.SipCallManager (   168) - MRCP response contains an error code, the request invocation did not complete successfully.
+org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.stopActiveRecognitionRequests(SpeechClientImpl.java:1120)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.cleanupSession(SipCallManager.java:165)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.sessionEnded(SipCallManager.java:448)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.notifySessionEnded(JVoiceXmlSession.java:432)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.cleanup(JVoiceXmlSession.java:372)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.run(JVoiceXmlSession.java:346)
+2014-03-17 02:16:38,991 [EventScannerThread  ] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 02:16:39,099 [EventScannerThread  ] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 12:16:55,631 [EventScannerThread  ] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2014-03-17 15:26:37,799 [EventScannerThread  ] INFO  8d7d6143-845b-4b5e-8182-ae1f8b32f245 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event

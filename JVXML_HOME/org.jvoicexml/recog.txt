@@ -1,0 +1,3818 @@
+
+-------------------------------------------------
+Time (2013-06-30-22:36)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-06-30-22:36.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-06-30-22:38)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-06-30-22:38.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-06-30-22:41)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-06-30-22:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-06-30-23:03)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-06-30-23:03.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-06-30-23:05)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-06-30-23:05.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-06-30-23:08)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-06-30-23:08.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+--------------------------------------------------
+
+-------------------------------------------------
+Time (2013-07-01-00:13)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-01-00:13.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-07-05-12:25)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-05-12:25.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-07-05-17:58)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-05-17:58.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-07-05-18:42)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-05-18:42.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-07-07-02:47)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-02:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-07-07-14:55)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-14:55.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-07-07-15:31)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-15:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-07-07-21:53)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-21:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Time (2013-07-07-22:06)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-22:06.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-07-22:35)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-22:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-07-23:06)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-23:06.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-07-23:32)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-23:32.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-07-23:34)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-23:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-07-23:49)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-07-23:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-08-00:05)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-08-00:05.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-08-00:08)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-08-00:08.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a43a848c-bc39-427f-9230-d809a2c46efb
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-08-00:30)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-08-00:30.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+
+-------------------------------------------------
+Session ID:2b50fd70-cd67-4dad-9bd6-ba2704d07554
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-08-00:52)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-08-00:52.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Used Grammar : (http://141.31.8.117/yesno.gram)
+-------------------------------------------------
+Session ID:91ac51da-d10a-461c-ae00-95225505bc21
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-08-01:05)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-08-01:05.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3371f2fd-3c22-440f-a81a-189e04f06bc7
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-08-01:06)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-08-01:06.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3ce8708b-c7e0-4f55-a87c-9e599b010b9b
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-08-01:09)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-08-01:09.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:ec4a0f0f-bde8-4c87-af69-aa03a0542d1b
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-08-01:25)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-08-01:25.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:81c5098b-25a2-4650-be47-85b75b19e465
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-08-11:57)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-08-11:57.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:13bd47ba-e5c3-41ca-aacc-7d22217fc2ab
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-09-18:00)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-09-18:00.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:390ebda6-c6c0-4d43-a3de-bcdc8d71a0d1
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-09-18:09)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-09-18:09.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:0e395652-0761-46d7-a061-9fdb59281d8c
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-09-18:12)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-09-18:12.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:47ff6bfc-9256-42e2-a500-3017521997fd
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-09-18:19)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-09-18:19.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:dbe03f95-43be-4314-997e-46d925f4b765
+Used Grammar : (http://141.31.8.117/yesno.gram)
+Time (2013-07-11-13:19)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-11-13:19.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:d5517a98-157d-4048-9338-dd1d8128439c
+Time (2013-07-11-13:29)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-11-13:29.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a809c2a5-6f73-48f0-bba1-e81959793fe6
+-------------------------------------------------
+Session ID:8ba0a43d-e608-4594-96da-0b4e931884ed
+Time (2013-07-12-15:37)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-12-15:37.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:76c9ff27-e2b1-406c-9b8a-45f91185e9c2
+-------------------------------------------------
+Session ID:f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe
+-------------------------------------------------
+Session ID:34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd
+-------------------------------------------------
+Session ID:b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4
+-------------------------------------------------
+Session ID:b342df28-cbd2-4dd6-a2da-bc5f56df8b19
+Time (2013-07-13-22:38)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-13-22:38.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:aac1ca82-cd17-4d4e-97cf-d21230841678
+Time (2013-07-13-22:42)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-13-22:42.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:69174a78-1575-4f8e-938f-1673870971f4
+-------------------------------------------------
+Session ID:1524d070-d745-40e3-a70f-39db9f7bbf25
+Time (2013-07-15-13:02)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-15-13:02.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:9e728e0d-9f7e-4b20-9301-cfc85df5ccca
+Time (2013-07-19-16:31)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-19-16:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:16b8efed-4e1c-40da-bb13-1b80e0bdc1ac
+Time (2013-07-19-16:37)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-19-16:37.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5268109d-cfe1-4447-8688-703b9d4ed7fc
+Time (2013-07-19-17:24)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-19-17:24.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:eefdfe1f-5680-4bcc-89fe-aa07fc492287
+-------------------------------------------------
+Session ID:49d73ae8-58bc-44fb-9d96-bea2c85be136
+-------------------------------------------------
+Session ID:d095016c-87ac-4e29-87e8-b1a78d55ae1d
+Time (2013-07-22-00:49)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-22-00:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:1d897bc6-7365-4881-afd7-d751f31e1498
+Time (2013-07-25-21:33)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-07-25-21:33.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:581dd2c8-0fe7-4dcb-b1e1-7dcd66478718
+Time (2013-08-03-14:29)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-08-03-14:29.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:4a68f2e6-3521-4380-b448-fe649e02a405
+Time (2013-08-03-14:33)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-08-03-14:33.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3a0d2deb-2ed1-446f-a220-a885136c0fe4
+-------------------------------------------------
+Session ID:5d8d138e-677f-43b8-84df-fdc08144af2e
+-------------------------------------------------
+Session ID:4705f38a-862f-4909-adf3-0ac50581d736
+-------------------------------------------------
+Session ID:c56bbb15-824a-4d07-9afa-fb8957138259
+Time (2013-08-19-12:44)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-08-19-12:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-08-19-12:44)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-08-19-12:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-08-19-12:45)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-08-19-12:45.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-08-19-12:45)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-08-19-12:45.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:23ac721f-0bc5-446d-949f-a81b6290538b
+Time (2013-08-19-12:49)
+Recognized String : ( when was the periodic table discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2013-08-19-12:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:1d49d7e3-d47a-4ec2-9f04-3fff81109f56
+Time (2013-08-19-12:51)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-08-19-12:51.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-08-19-12:51)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2013-08-19-12:51.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:2b3fc69a-80b6-4992-8ca8-a4507eb5b41d
+-------------------------------------------------
+Session ID:8910033f-8e0f-4174-9f5e-80cdab20b3d8
+-------------------------------------------------
+Session ID:a4c1ee1f-32f5-4ed2-b6bc-23fe06bf5274
+-------------------------------------------------
+Session ID:80786649-7f1b-4ecb-b9e3-dc267e7356bf
+-------------------------------------------------
+Session ID:e91431a8-6930-494f-87a3-1d3b04dc2c96
+-------------------------------------------------
+Session ID:978399cf-197d-4dad-8c97-858e44585548
+Time (2013-09-10-11:56)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-09-10-11:56.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-09-10-11:57)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-09-10-11:57.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3254bc78-3ad2-4979-bffc-b06ae1e3fec0
+Time (2013-09-10-11:58)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-09-10-11:58.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-09-10-11:59)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-09-10-11:59.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-09-10-11:59)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-09-10-11:59.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3abb902c-57cc-46a5-8079-7942ccc2ef9d
+Time (2013-09-10-12:01)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-09-10-12:01.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-09-10-12:02)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-09-10-12:02.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:2baadd64-e5e0-445d-bcb4-cbc1b8e91645
+Time (2013-09-10-21:47)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-09-10-21:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:de043ad4-fdf3-4f62-bceb-ca97bc1496dd
+Time (2013-09-10-22:26)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-09-10-22:26.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:b6ff67bb-1ce2-462f-8c50-eda0226ffffc
+-------------------------------------------------
+Session ID:d23a6a83-d6af-40ae-a2dd-3faa981c3bdb
+-------------------------------------------------
+Session ID:cc460493-a9a5-4765-8991-1bd57ffea6b9
+-------------------------------------------------
+Session ID:12108711-499d-4139-aa6f-9a1bbc2fffe8
+-------------------------------------------------
+Session ID:9ea6dffa-b6c1-493b-8cdc-c25a8d324494
+-------------------------------------------------
+Session ID:1ca5eb37-f753-40e6-a5cc-e7e6a9a1fe31
+-------------------------------------------------
+Session ID:b69a67ac-76ea-4837-8a5c-cc1d7301c5fc
+-------------------------------------------------
+Session ID:54a8a3d2-d280-460f-97ce-987977489cc1
+-------------------------------------------------
+Session ID:8d3c9184-f05b-4f9e-a73b-fff87324ce26
+-------------------------------------------------
+Session ID:f6624219-8790-4b0e-bfc3-1db8a6d93629
+-------------------------------------------------
+Session ID:087445b1-c715-4d1c-be63-ee035d147c3f
+-------------------------------------------------
+Session ID:64946a96-4005-44c1-8ca7-c83c58e3ee19
+-------------------------------------------------
+Session ID:7def9313-a090-4214-804d-6310b1d5ea01
+-------------------------------------------------
+Session ID:06f7de37-672e-4318-828a-8224393e674e
+-------------------------------------------------
+Session ID:c77f372a-4486-4b4e-a7bc-985c53a03679
+-------------------------------------------------
+Session ID:4dcc8ecc-dbcd-4cb9-a960-9612d7959c47
+-------------------------------------------------
+Session ID:aed7de22-e2ad-413e-908f-5cd906b87db0
+-------------------------------------------------
+Session ID:240d0ec6-3765-4ae9-917c-b80816402c98
+-------------------------------------------------
+Session ID:49180550-0c59-42d9-bc07-1ba0ca2bfa93
+-------------------------------------------------
+Session ID:11021043-a4c2-40d1-891f-bf3bb29802c9
+-------------------------------------------------
+Session ID:0852eb1d-926c-4bb7-9130-2370d7558fef
+-------------------------------------------------
+Session ID:b7e39c65-e8cb-4965-8ad3-c615082e2594
+-------------------------------------------------
+Session ID:fae2f419-c5f8-4de1-9ced-4e574927bafa
+-------------------------------------------------
+Session ID:497f86ab-dbd7-4cca-ba79-2a0fb7380511
+-------------------------------------------------
+Session ID:da6e3cb6-bfe6-463c-ad6a-afa7ac333c44
+-------------------------------------------------
+Session ID:dafc5b51-2e6a-4869-9602-c125da87d869
+-------------------------------------------------
+Session ID:cd3375cf-24b0-4ac4-9a57-5082482df194
+-------------------------------------------------
+Session ID:a5b5af1e-c6c0-4d7f-9c9b-a345e4af5fa5
+-------------------------------------------------
+Session ID:8dcac213-522d-4f8c-923a-551d10b0427d
+-------------------------------------------------
+Session ID:c9ce8bcf-dc37-4829-8331-971c07e48a34
+-------------------------------------------------
+Session ID:a09d5f3c-4077-4576-bbb7-1c1e712fc64c
+-------------------------------------------------
+Session ID:b0b7abcd-4343-4602-a0a1-e45eae609e45
+-------------------------------------------------
+Session ID:725d91fe-39b2-4b02-a4f1-9483769966c8
+-------------------------------------------------
+Session ID:c8669775-2942-4e11-81f7-dfca292fbf6b
+-------------------------------------------------
+Session ID:57bd46b2-c788-4874-bcfe-557deddb63e0
+-------------------------------------------------
+Session ID:a8a9c145-cc85-44db-bc05-850bfc81bc8b
+-------------------------------------------------
+Session ID:8e869f20-3d48-4d60-bf80-367afd9e4472
+-------------------------------------------------
+Session ID:9a7f5f49-d727-45a0-b30b-2f3b7acc6e35
+-------------------------------------------------
+Session ID:b22a07e1-a00a-4626-b5ed-093aeb0b1887
+-------------------------------------------------
+Session ID:4082cf96-7f89-4bdd-be32-fd86ea4caa97
+-------------------------------------------------
+Session ID:bb5301d5-71d1-498d-a9dd-b1314a4657dc
+-------------------------------------------------
+Session ID:175041b8-6585-4b2b-a98a-d5520cc349cb
+-------------------------------------------------
+Session ID:b41aa402-2ea2-4c26-9d45-05fd0c3b80df
+Time (2013-09-17-15:41)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2013-09-17-15:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:f7344ee8-372f-4499-91a3-71b99e6fe4c5
+-------------------------------------------------
+Session ID:feefb1d6-3e6a-49e0-9c17-7fc8e58044a9
+-------------------------------------------------
+Session ID:443a95c3-263c-4c73-a4fd-0d1b88d4cf7f
+-------------------------------------------------
+Session ID:098bcb16-8a17-467b-a6e3-836c7f3361aa
+-------------------------------------------------
+Session ID:4a173f4a-5dbf-443d-9ccb-3f13f7b2018a
+Time (2013-09-17-17:40)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-09-17-17:40.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:c51ada2d-984b-4e82-b63e-cbe9a2caf80c
+-------------------------------------------------
+Session ID:4ca81d42-6e72-40c3-9cc8-2f401745a309
+Time (2013-09-17-17:54)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-09-17-17:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:0e97b0f3-c1b2-4068-a048-bf8e1f37380e
+-------------------------------------------------
+Session ID:b78011cd-6b54-4859-bcd5-7399950a735f
+-------------------------------------------------
+Session ID:0ece6393-0d36-4d76-bcca-f68687e9f504
+-------------------------------------------------
+Session ID:19043f7b-5e77-4400-bf21-e35e0e340fb0
+-------------------------------------------------
+Session ID:93334a84-30f0-4b19-a7a9-45cce611fe14
+-------------------------------------------------
+Session ID:c2c0b828-546d-4d32-a82f-1008db51dca7
+-------------------------------------------------
+Session ID:2789e4b4-1d54-4f37-b743-f88fa4f24130
+-------------------------------------------------
+Session ID:595fddfd-f5d4-4af9-8c0c-3b91880d7f4a
+-------------------------------------------------
+Session ID:106d0f20-a2c2-4260-b24a-98b1682d7e70
+-------------------------------------------------
+Session ID:cb07f136-b28b-4144-95ee-f2c3065866f3
+-------------------------------------------------
+Session ID:07e0d666-edca-43de-975b-3bb9e895b394
+Time (2013-09-17-19:08)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-09-17-19:08.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:64b82e87-b556-4bfe-b35f-3af97af14393
+Time (2013-09-17-19:10)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-09-17-19:10.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:f8e6af64-79d3-4738-9c51-897f08017b30
+Time (2013-09-17-19:11)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2013-09-17-19:11.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:01113dbc-dcab-40e8-bf92-00d2d4c71ec9
+Time (2013-09-17-19:12)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-09-17-19:12.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-09-17-19:12)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-09-17-19:12.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-09-17-19:12)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-09-17-19:12.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:4eca2061-817f-48a7-8779-d735dc040394
+Time (2013-09-17-19:18)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-09-17-19:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:9405a92f-a6fb-4981-9030-7f059fbcfac3
+-------------------------------------------------
+Session ID:a56271ea-305e-4578-a04d-86fe8b51518a
+Time (2013-10-01-12:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-10-01-12:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-10-01-12:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-10-01-12:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:24cf6089-8d63-4c04-ae7c-7d1f1ed607de
+-------------------------------------------------
+Session ID:56d55abd-0c50-42c8-9d2f-89cf5b10a0eb
+-------------------------------------------------
+Session ID:b865ce32-3ad8-4ec7-bf65-9a7e686d4a29
+Time (2013-10-01-16:12)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-10-01-16:12.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:c4ab217e-f5d6-4260-ae92-2a0d14d75b7d
+-------------------------------------------------
+Session ID:cc7101fc-b1f7-4f84-8e0b-0151ada2fad6
+-------------------------------------------------
+Session ID:f5a18692-52fb-4027-8575-f553ec6e7276
+-------------------------------------------------
+Session ID:b6fc9375-66f6-4a17-b80e-7b147cc742a0
+Time (2013-10-01-17:18)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-10-01-17:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:7afb6dab-dc2d-4844-b3dc-54bb509d0253
+-------------------------------------------------
+Session ID:8ff8c5f7-d960-48a1-86ad-d5b307127076
+-------------------------------------------------
+Session ID:bec6faa8-c169-4e11-9511-fe6f224e1094
+Time (2013-10-01-18:48)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-10-01-18:48.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:1f6236c8-2036-4035-816e-8c25de89dd4a
+Time (2013-10-02-12:30)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-10-02-12:30.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-10-02-12:30)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2013-10-02-12:30.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:dc785cde-59fe-4b07-aa04-375183d7d0b0
+-------------------------------------------------
+Session ID:0852b30f-24c5-4ab8-a906-b3f06b43cce9
+-------------------------------------------------
+Session ID:7db650aa-b7a9-4c85-a22d-3dfe333587e4
+Time (2013-10-07-12:51)
+Recognized String : ( who discovered radioactivity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-10-07-12:51.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:fa391d4d-0cbd-45e9-825e-09fdc307c8a1
+-------------------------------------------------
+Session ID:0a2de96d-247a-4654-a32b-8135cf04f9f5
+-------------------------------------------------
+Session ID:6670af3d-742a-47f9-bc38-272400b02db6
+-------------------------------------------------
+Session ID:a15a74ab-3188-4b5f-9553-ad94d32003c8
+-------------------------------------------------
+Session ID:d1dbb54c-c86f-4019-b338-ba24928e42c8
+-------------------------------------------------
+Session ID:d719cab5-1322-4cd3-b79b-5561bfc710f5
+-------------------------------------------------
+Session ID:0ecaba09-43ba-41f4-a687-0b45a49a5ced
+-------------------------------------------------
+Session ID:450445be-5fce-448e-bdaa-92b1c73e98fa
+-------------------------------------------------
+Session ID:34060351-c316-4da1-b1da-3d9f17cb6c65
+-------------------------------------------------
+Session ID:1e2b23e9-9d52-4afc-be56-07231f943594
+Time (2013-11-19-16:27)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-11-19-16:27.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:f6b83e5b-b7ff-44d7-a93c-31a5ab9c04f0
+-------------------------------------------------
+Session ID:b6181e93-397e-4814-a2fb-20a4452db962
+-------------------------------------------------
+Session ID:26c3ae28-df0d-4d99-8605-b92a8f1d98ac
+-------------------------------------------------
+Session ID:4e9e9785-81cf-4f84-8802-794bd3cf2c30
+-------------------------------------------------
+Session ID:4314cac0-a5ae-4ca2-af3e-3168663cfa71
+Time (2013-11-25-17:36)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-17:36.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-17:36)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-25-17:36.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:21ffd02a-9d72-426e-bdcd-72af8d63c43b
+Time (2013-11-25-17:38)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-17:38.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-17:38)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2013-11-25-17:38.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:44b429f5-45c5-4da3-bbde-8d92c4ac6133
+Time (2013-11-25-17:38)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-17:38.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-17:39)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-25-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:7fd30067-682c-45fe-8768-51560a17a619
+Time (2013-11-25-17:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-17:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-17:40)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-25-17:40.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a8dde85a-b48a-4f95-805e-019ccff94ea7
+-------------------------------------------------
+Session ID:da08acca-659c-4e62-9501-4e70eacdd157
+-------------------------------------------------
+Session ID:6bee702c-37a7-454f-91d5-8ea3a5f2e31e
+-------------------------------------------------
+Session ID:a7557930-01a5-43bf-a890-76d61cb4572f
+-------------------------------------------------
+Session ID:f603aeea-f54e-48bf-a40d-2dd417bfdbf4
+-------------------------------------------------
+Session ID:52fef3e9-9b82-4187-a7d2-d8c7ccc78601
+-------------------------------------------------
+Session ID:59d14e0d-4eae-42fd-bfbb-5968898c3206
+-------------------------------------------------
+Session ID:51cb39fc-c499-4de6-8489-d75130992358
+-------------------------------------------------
+Session ID:d5729f47-345e-46b4-a616-6137c07a5474
+-------------------------------------------------
+Session ID:8207df62-868a-4dc0-86ac-bdd6ba1f450c
+-------------------------------------------------
+Session ID:b792647d-2633-48f0-b1e5-b6214f68b586
+-------------------------------------------------
+Session ID:da4f0449-7118-47d7-a8eb-7f8140b8f55c
+-------------------------------------------------
+Session ID:99c9ca84-1b28-4932-b261-48851d13c5ea
+-------------------------------------------------
+Session ID:bc2185a1-fe80-48dc-b141-6b2887baf086
+-------------------------------------------------
+Session ID:14b45dd1-d687-41b4-85e9-8e45d61efcac
+Time (2013-11-25-23:19)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:19.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:6bc56f62-7e63-4aa9-bb2f-aad9b23907ad
+Time (2013-11-25-23:23)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:23.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:23)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:23.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:23)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-25-23:23.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:999a88ec-9a29-4e48-9ea2-f02434b9797b
+Time (2013-11-25-23:25)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2013-11-25-23:25.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5dfa4a13-11d5-45b8-b244-70935e638374
+Time (2013-11-25-23:44)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:44)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:44)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:44)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:44)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-25-23:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:53d2c8d5-0ba7-4147-b003-f60e65f4994f
+Time (2013-11-25-23:49)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:49)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-11-25-23:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:b46a7b81-3f39-4dc2-a607-53f9b9f214df
+Time (2013-11-25-23:50)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:50.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:50)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2013-11-25-23:50.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:563150f2-690d-46c7-978f-5864730031db
+Time (2013-11-25-23:50)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:50.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:50)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2013-11-25-23:50.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5945ae35-b9f2-47e7-82f6-5e5855e0f269
+Time (2013-11-25-23:51)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:51.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:51)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:51.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:51)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:51.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:51)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:51.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:52)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:52.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:52)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-11-25-23:52.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:7eea67ec-fe25-43c5-87ad-6cb24b6eda7a
+Time (2013-11-25-23:52)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-25-23:52.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:d83ca66c-84b4-4c56-81f5-d54f002fdae1
+Time (2013-11-25-23:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:54)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:54)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:54)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-11-25-23:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:8ae432cf-4e81-41b8-a4e9-06f6e77f6f8e
+Time (2013-11-25-23:56)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-25-23:56.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a863a0c0-d4e2-4ef2-8d9d-1a02e99070c7
+Time (2013-11-25-23:57)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-25-23:57.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:e0bb44b6-6078-4840-a1a1-af7e0780c591
+Time (2013-11-25-23:57)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2013-11-25-23:57.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:7c99e890-9cc8-4f93-9bde-454a03e51237
+Time (2013-11-25-23:58)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-25-23:58.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-25-23:58)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-25-23:58.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:f0f13b83-fd83-4df1-9e84-2df4787094d8
+Time (2013-11-26-08:11)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:11.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:1a0c8609-d505-4485-8170-145bf39d40cf
+Time (2013-11-26-08:12)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-26-08:12.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:e59e8f55-17b9-4fc7-8504-0b3f7749369a
+Time (2013-11-26-08:16)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-11-26-08:16.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:9194ec4e-0a27-4ac6-98a8-459155268163
+Time (2013-11-26-08:18)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:18)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:18)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:19)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-11-26-08:19.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:61d61d39-a538-481a-aad4-76e3da6516ed
+Time (2013-11-26-08:20)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:20)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:20)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:20)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2013-11-26-08:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:21ca553b-b8b4-42d8-b1f6-7932accb0a01
+-------------------------------------------------
+Session ID:e50661e3-dab9-4403-b733-118518ffca93
+-------------------------------------------------
+Session ID:883e9b61-0009-4f32-8295-1373d3ebbaaf
+-------------------------------------------------
+Session ID:14fe287f-ddab-4b87-9adf-0074a2918be9
+-------------------------------------------------
+Session ID:5b317895-139d-4ded-b040-816208549fef
+Time (2013-11-26-08:31)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:31)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:31)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:31)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:32)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2013-11-26-08:32.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:dddcf33e-0936-4881-99f7-177c6382ba8f
+Time (2013-11-26-08:38)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:38.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-11-26-08:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-11-26-08:39)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-11-26-08:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:4c297d27-8bf4-4607-a653-884a73f8eb5c
+Time (2013-11-26-08:41)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-11-26-08:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:15700f1c-c96c-4a3d-b2c9-84cfba825d09
+Time (2013-11-27-17:07)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-11-27-17:07.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:2f954feb-2901-4581-96a1-2d741abdd9a1
+Time (2013-11-29-15:20)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-11-29-15:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a39e5191-bb29-4fbb-aad6-2be6d37488f4
+Time (2013-12-02-10:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-12-02-10:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-12-02-10:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-12-02-10:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-12-02-10:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-12-02-10:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-12-02-10:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-12-02-10:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-12-02-10:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-12-02-10:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-12-02-10:54)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-12-02-10:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-12-02-10:54)
+Recognized String : ( who discovered radioactivity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2013-12-02-10:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:0dfeba62-5fa0-40fe-a714-017df674a6c9
+-------------------------------------------------
+Session ID:b9ccd7ef-3d42-43ba-8920-befaa16aed6b
+-------------------------------------------------
+Session ID:2bb8f356-4a4b-445d-9058-4fa79d1898a8
+Time (2013-12-06-11:27)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-12-06-11:27.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-12-06-11:27)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2013-12-06-11:27.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:172069e1-7485-4be7-b714-80c757c9de61
+Time (2013-12-06-11:43)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-12-06-11:43.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a47f4a12-2565-4e23-9343-180df783197c
+Time (2013-12-09-14:50)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-12-09-14:50.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-12-09-14:51)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2013-12-09-14:51.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2013-12-09-14:51)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2013-12-09-14:51.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:ebbef42c-2e79-4653-bcc4-209c3b687c42
+Time (2014-01-22-22:57)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-01-22-22:57.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-01-22-22:57)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-01-22-22:57.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-01-22-22:57)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-01-22-22:57.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:2fcb0184-27ba-4454-bf19-0267d55d9dd7
+Time (2014-01-22-23:31)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-01-22-23:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-01-22-23:31)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-01-22-23:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-01-22-23:31)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-01-22-23:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:ddc31e69-f972-42e4-9ec2-ceb6456e836b
+Time (2014-01-26-16:34)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-01-26-16:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-01-26-16:34)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-01-26-16:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:1f31e8d6-72d0-4365-8c93-d503d7fd2306
+Time (2014-01-26-17:33)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-01-26-17:33.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:33f6739f-f191-49af-bd72-cf606742f2cf
+-------------------------------------------------
+Session ID:7cd8c685-b6cd-4a75-b7d4-40432925ded0
+-------------------------------------------------
+Session ID:338bcf52-03a3-442c-87ac-9c27c02ae49e
+-------------------------------------------------
+Session ID:70b5ae5d-06f7-46c8-8a47-08227dc85cc9
+-------------------------------------------------
+Session ID:bd1fcbea-3561-497f-9d65-c0500617ad43
+-------------------------------------------------
+Session ID:f1918668-6cff-40e2-95d0-3a70a742e1a2
+-------------------------------------------------
+Session ID:7865e0e7-8ba9-46fd-887f-25729d0ef44f
+-------------------------------------------------
+Session ID:b999c35d-5d7c-4d20-9491-6adaa729d06d
+-------------------------------------------------
+Session ID:20f0b91c-6791-41d4-96b7-501bd1cb6141
+-------------------------------------------------
+Session ID:d5c21a90-0ddf-4cea-9399-9796b5ae085b
+-------------------------------------------------
+Session ID:18d8ff7f-3b8f-420f-be3d-44b9b7f316a1
+-------------------------------------------------
+Session ID:19be67fb-6607-4e79-b8ae-e62a61d0e359
+-------------------------------------------------
+Session ID:29490d59-fd77-43d7-ae18-a5f82592310d
+-------------------------------------------------
+Session ID:f093d4bf-8758-471d-adf9-7ff7be952480
+-------------------------------------------------
+Session ID:3222dc0d-3632-4738-b008-d732ac1bfd3f
+-------------------------------------------------
+Session ID:7d607f41-0115-45dd-a220-979d70dafa40
+-------------------------------------------------
+Session ID:39d36d67-81eb-45f4-a45c-33015c8d6aa5
+-------------------------------------------------
+Session ID:6da47db0-a079-45c9-a77c-6128f005fc29
+-------------------------------------------------
+Session ID:7fefa8bd-f6d1-416c-94d6-b4c6b39d66fb
+-------------------------------------------------
+Session ID:2c047d86-d442-4915-9758-a5a277116af5
+-------------------------------------------------
+Session ID:5f838c2f-01f8-4a8a-bcb7-a6575d8ba595
+-------------------------------------------------
+Session ID:61f988b6-43fb-4618-9fd8-23ba74fda95e
+-------------------------------------------------
+Session ID:b0e66676-21f4-4f1d-a18e-f2a66460bd34
+-------------------------------------------------
+Session ID:5e568a8b-07c7-437c-bda6-143bd7d2de34
+-------------------------------------------------
+Session ID:de06b22f-0f70-4423-a730-35414d9ac708
+-------------------------------------------------
+Session ID:2fd52823-b3d6-425c-b02a-d84f04922eda
+-------------------------------------------------
+Session ID:88942955-9ff9-4152-92e3-8beb5929ee41
+Time (2014-02-02-16:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:40)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-16:40.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:f76e905b-172a-460e-ab4a-adab0ed0056d
+Time (2014-02-02-16:42)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:42.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:42)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:42.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:42)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:42.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:42)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-16:42.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:59113069-a9db-45c5-9cd2-0b5d0985c472
+Time (2014-02-02-16:47)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-02-02-16:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:e0590b7d-227c-4a56-90a8-714b1d4d3db3
+Time (2014-02-02-16:49)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-16:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:97304996-56e4-4156-8ceb-84992926a14f
+Time (2014-02-02-16:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:53)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:54)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:54)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a0675865-43b0-4a28-88ab-b0a25effd523
+Time (2014-02-02-16:55)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:55.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:55)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:55.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:55)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:55.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:55)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-02-02-16:55.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:14233b8b-5926-48a2-a7b6-1b23530bd3c5
+Time (2014-02-02-16:59)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:59.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:59)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:59.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:59)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:59.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:59)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:59.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:59)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:59.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:59)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:59.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-16:59)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-16:59.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:fd20cb3f-c253-4adf-8628-d04b64428071
+Time (2014-02-02-17:00)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-02-02-17:00.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:38700a7f-835d-4c7e-81be-da087521c86e
+Time (2014-02-02-17:02)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:02.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:02)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:02.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:02)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:02.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:02)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:02.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:03)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:03.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:312a8499-87d7-48c7-bbc4-54015b62a62e
+Time (2014-02-02-17:03)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:03.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:04)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:04.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:04)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:04.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:559d9cde-7300-4279-94be-d4821e236a3f
+-------------------------------------------------
+Session ID:ae06f9fc-0733-43cd-9bd8-3172f286099d
+-------------------------------------------------
+Session ID:4968ea8c-031b-42de-9ab0-4059c2c0630c
+-------------------------------------------------
+Session ID:1f4c9282-09ea-447f-9d07-5bc0a1aaea1f
+-------------------------------------------------
+Session ID:54909bfc-08af-45f8-a18b-37b9521083bf
+Time (2014-02-02-17:09)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:09.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:09)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:09.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:10)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:10.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:10)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:10.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:10)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:10.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:10)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:10.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:10)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:10.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:10)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-02-02-17:10.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:737ebd95-f2ec-4029-89ea-3a9c7fef071b
+-------------------------------------------------
+Session ID:2aaf27ad-d27d-43d6-868c-bd97822bbcc5
+-------------------------------------------------
+Session ID:d0297450-f4d5-4d8f-9260-5e96b04b4026
+Time (2014-02-02-17:14)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-02-02-17:14.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:f7c3fd28-2fac-4cce-b0e9-4d2c1797fca1
+Time (2014-02-02-17:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:21)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-17:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:9c7cb438-55e3-4b54-9bc0-7db65f038454
+Time (2014-02-02-17:22)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:22.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:22)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:22.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:22)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:22.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:22)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:22.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:22)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:22.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:22)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:22.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:22)
+Recognized String : ( when was the periodic table discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-02-02-17:22.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3c0760f4-bd49-4d0b-b700-018a4cc42105
+Time (2014-02-02-17:25)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-17:25.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a88fe5a7-b21a-4d37-b7e0-8434f46d0145
+Time (2014-02-02-17:28)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:28.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:28)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:28.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:28)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:28.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:29)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:29.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:29)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:29.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:29)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:29.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:1d4a3722-4d91-4614-91c1-807238431c42
+-------------------------------------------------
+Session ID:7d2b06bc-3c59-43af-956a-cd7328499604
+-------------------------------------------------
+Session ID:171caf2e-9437-4c58-a12e-5e801ca841eb
+Time (2014-02-02-17:35)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:35)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5069efa1-ad78-448d-8ff3-3272abcf1e16
+Time (2014-02-02-17:37)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-17:37.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:37fb5db1-a287-4656-b9ad-26542212dcfb
+Time (2014-02-02-17:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:39)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-02-02-17:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3de3c4ad-a786-48a9-98c9-ad071b3a84ce
+Time (2014-02-02-17:41)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:41)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:41)
+Recognized String : ( who discovered the the big bang theory )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 7 )
+ Saved wav File : ( 2014-02-02-17:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a62e1025-d80b-4858-ac18-0953798edf39
+Time (2014-02-02-17:44)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:0541751f-2685-4de5-82ba-5f7fef976f4d
+Time (2014-02-02-17:47)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:47)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:47)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:47)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:47)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:48)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:48.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:48)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:48.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:48)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-17:48.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-17:48)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-02-02-17:48.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:ff761610-6d52-400a-afcf-de52e03d353a
+-------------------------------------------------
+Session ID:df1ee1ee-d21c-412c-85d6-a6aff474c03c
+-------------------------------------------------
+Session ID:9219ae62-cb8f-47ed-9f60-bf26d35e5152
+-------------------------------------------------
+Session ID:709f823e-a447-4e4b-b682-74152ac9ff10
+-------------------------------------------------
+Session ID:4214ce65-64a9-4469-a6b4-c6f52524289b
+Time (2014-02-02-18:02)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:02.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:02)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-02-02-18:02.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:43201b9b-186d-434c-864d-c1997e0d5065
+Time (2014-02-02-18:08)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:08.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:08)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:08.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:08)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-02-02-18:08.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:fff5317c-3a54-4458-92fa-d09538e2511f
+-------------------------------------------------
+Session ID:1c5b46ef-6186-416d-bf1c-88c9eb0a597e
+-------------------------------------------------
+Session ID:fb1ef4f8-3a91-4cd8-bb5c-2bd80ef5bae3
+-------------------------------------------------
+Session ID:bd4583e1-e18a-4454-a2bc-6902aa2d8cb4
+-------------------------------------------------
+Session ID:9ad053a0-4884-4e67-8ed1-7683b643ae02
+Time (2014-02-02-18:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:21)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:21)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-18:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:840925d2-147a-4cf5-8b17-5eccf5d09363
+-------------------------------------------------
+Session ID:f26b7264-ef67-4187-b2a7-05a2854962a6
+-------------------------------------------------
+Session ID:821c4458-a9a9-45fd-8537-218e21af0bcb
+-------------------------------------------------
+Session ID:70b4a219-47f0-4942-a544-85b012771378
+Time (2014-02-02-18:31)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:31)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-02-02-18:31.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:6ef78b3c-d4be-43a8-9bc7-667cd997683a
+Time (2014-02-02-18:34)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-18:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:aac53dd9-6591-4713-b0f0-069210ee6ea4
+Time (2014-02-02-18:34)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:35)
+Recognized String : ( who discovered radioactivity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-02-02-18:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:c5635bc7-2f82-4d9a-a746-485854f20f5e
+Time (2014-02-02-18:37)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:37.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:37)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:37.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:37)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-18:37.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:8b60c464-1da6-40cc-94a2-46907b6af335
+Time (2014-02-02-18:39)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:39)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-18:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:137474f4-1f57-4ed0-98f8-dad1e18d9416
+Time (2014-02-02-18:40)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-18:40.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:970800e7-4d07-4d20-ab7a-733d2a1a5be6
+Time (2014-02-02-18:48)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:48.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:48)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-18:48.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:41bd69f1-9bda-42dc-ac94-7ce7f6af2284
+Time (2014-02-02-18:49)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-02-18:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-02-18:49)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-02-18:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:51ad186c-70d0-4411-bc78-d18292047151
+Time (2014-02-03-19:34)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-03-19:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-03-19:34)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-03-19:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:0645fece-4147-47fc-9cb3-e027a6824d07
+Time (2014-02-03-19:35)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-03-19:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-03-19:35)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-03-19:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-03-19:35)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-03-19:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-03-19:35)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-03-19:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-03-19:35)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-03-19:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-03-19:35)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-03-19:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:98bd76f5-c835-4e48-a5ec-2d18637c7327
+Time (2014-02-04-08:41)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-04-08:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:c663eda5-c75e-4fdb-8c32-81e8a86e3ba2
+Time (2014-02-04-17:19)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-02-04-17:19.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:491bbf0e-21c0-4d09-a38e-2af903db35de
+Time (2014-02-10-12:45)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-10-12:45.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a2ad74a6-bdc5-4130-9924-f11c6ed375fe
+Time (2014-02-19-22:00)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-19-22:00.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:fd637985-061c-47e8-b194-49784b1e07f3
+Time (2014-02-24-16:18)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-24-16:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-24-16:18)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-02-24-16:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-02-24-16:18)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-02-24-16:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:f3c64ec2-e56e-4647-86c0-e2b73b9b9d02
+Time (2014-03-07-21:55)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-07-21:55.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-07-21:55)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-07-21:55.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3c0f6024-93ec-48b8-bf2a-2725fc1dc870
+Time (2014-03-12-00:17)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-12-00:17.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:d65eb6dc-667d-45f4-92c5-d50da8c81a99
+Time (2014-03-12-00:17)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-12-00:17.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-12-00:18)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-12-00:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:7c0b4b8b-a060-4357-9996-56f3b2610833
+Time (2014-03-12-00:23)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-12-00:23.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:d00498f1-fd06-451d-89b9-660a3df99b09
+Time (2014-03-12-00:25)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-03-12-00:25.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:f7d07c15-8d92-4f19-8fbc-0da3bf2116c7
+-------------------------------------------------
+Session ID:7671cb55-01bd-4c60-90d6-8b874f116718
+Time (2014-03-12-00:38)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-12-00:38.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-12-00:38)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-12-00:38.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:cc16e5ac-4132-40d7-a0b5-df359e2717c6
+Time (2014-03-12-00:39)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-12-00:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:25c8e25d-2782-4949-9d51-974a292870b6
+Time (2014-03-12-00:40)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-12-00:40.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:b256c9ab-a4fc-420c-9742-bf2524789c68
+-------------------------------------------------
+Session ID:666f9fc6-1a55-418a-9727-3abec87b47be
+-------------------------------------------------
+Session ID:a684813d-83db-4878-92ac-eb2010c46661
+-------------------------------------------------
+Session ID:3f252834-4be0-4564-b282-46f89225e5e4
+Time (2014-03-12-00:46)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-12-00:46.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:7cc7f0a5-61f4-4ecb-8966-a75824e2d8d4
+-------------------------------------------------
+Session ID:e8301afb-8f3a-4e13-9a32-adaf9274f293
+-------------------------------------------------
+Session ID:2b50daf4-1d10-4311-ac26-63b4016c6493
+Time (2014-03-12-00:48)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-12-00:48.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5ba98014-a22f-4ce3-bc62-6d221e40a564
+Time (2014-03-12-11:56)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-12-11:56.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a7cd416d-507d-4083-adf2-659157081222
+Time (2014-03-14-09:58)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-14-09:58.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:24284ef3-8c79-400b-ba84-963fa425d016
+-------------------------------------------------
+Session ID:2d922d08-0d07-4381-a3aa-46f4a2ed3547
+-------------------------------------------------
+Session ID:a9ad805f-0267-4996-814d-7af574e3d47a
+-------------------------------------------------
+Session ID:89164a07-bc97-44d7-a7d4-97cc4122706a
+-------------------------------------------------
+Session ID:ae8827b2-5221-45b9-be07-f556be1ed51e
+-------------------------------------------------
+Session ID:8d7d6143-845b-4b5e-8182-ae1f8b32f245
+-------------------------------------------------
+Session ID:4b2c6335-c97a-4967-95ff-bc4bf3ae5483
+-------------------------------------------------
+Session ID:b61703ca-43a6-445e-8ea2-1bdf7a89c25a
+-------------------------------------------------
+Session ID:81192aae-f0f7-43ee-b6ea-c67f1254a32b
+-------------------------------------------------
+Session ID:a9a141c1-d3e2-4193-829c-4738da3561d4
+-------------------------------------------------
+Session ID:8b46186d-5d9d-4ee9-afd1-f2c8221e0e12
+-------------------------------------------------
+Session ID:0bd60a3c-dc20-4339-a3be-33b30bd78ab4
+-------------------------------------------------
+Session ID:2acdc059-1195-4dbc-989c-b0cf716cdfc5
+-------------------------------------------------
+Session ID:8a763f72-a41a-4999-9903-8ae425f65495
+-------------------------------------------------
+Session ID:49045f4b-2235-4b99-8c03-4594ccff3cc4
+Time (2014-03-18-18:54)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-18-18:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-18-18:54)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-18-18:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-18-18:55)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-03-18-18:55.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:e64404b2-31b5-4c1d-bb53-ce673945ad80
+-------------------------------------------------
+Session ID:11177cd6-3e29-453f-95c2-a0240346af75
+-------------------------------------------------
+Session ID:654f489c-604c-42c0-b220-b377bffa4237
+-------------------------------------------------
+Session ID:650cc8aa-7a6d-40ed-b5e2-436f9664eb5e
+Time (2014-03-18-19:00)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-03-18-19:00.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:290faa9d-b3a1-4002-af4f-b0c917a5a809
+Time (2014-03-18-19:01)
+Recognized String : ( when was quantum theory discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-18-19:01.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:b2aa0687-bb97-4b7f-a767-7a69fc1673e4
+Time (2014-03-18-19:08)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-03-18-19:08.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3ec2db0e-cbad-46d1-b5f3-3db0ffd2ebbd
+Time (2014-03-18-19:10)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-03-18-19:10.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:0d13c675-a161-49e3-a3ba-decd5030a182
+Time (2014-03-18-19:46)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-18-19:46.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-18-19:46)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-18-19:46.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5331093c-9b52-4ff8-8b3c-7ca5d1181bb8
+Time (2014-03-18-23:57)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-18-23:57.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:af2ef902-d528-493b-9c3d-b33bfc61bf30
+Time (2014-03-19-08:14)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-19-08:14.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:98a201ec-adb1-4fc8-b162-6af8f99c3f62
+-------------------------------------------------
+Session ID:4b63961d-7eca-4c25-856b-317689001727
+Time (2014-03-19-23:15)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:15.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-19-23:15)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:15.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-19-23:16)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:16.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-19-23:16)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:16.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:10fb095e-b229-479b-8991-565c987e0a15
+Time (2014-03-19-23:17)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-19-23:17.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:e8cf078b-28fa-4159-979c-968f0a93fa14
+Time (2014-03-19-23:20)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-19-23:20)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-19-23:20)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-19-23:20)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-19-23:20)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-03-19-23:20)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-03-19-23:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:4e2473c3-da8f-493a-81de-1b3b8ce91aa0
+Time (2014-03-20-13:41)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-03-20-13:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:b7ac4fe9-241b-42d9-876b-180f77d47efc
+Time (2014-04-10-12:45)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-10-12:45.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:cf5c2bf3-4bfd-48db-b378-49b0a28484cf
+Time (2014-04-13-18:33)
+Recognized String : ( who discovered the neutron )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-13-18:33.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:44ead968-c376-4c9b-9580-61b3aa56292a
+-------------------------------------------------
+Session ID:913f7aca-7e4f-4945-8331-f3b66e089fbf
+-------------------------------------------------
+Session ID:96b5c166-96e6-4d53-9f9a-9bd5af675735
+-------------------------------------------------
+Session ID:69be4877-ef3f-48bd-8446-35bbbb41948a
+-------------------------------------------------
+Session ID:6591dd92-c14b-4488-949f-5d092c137d5b
+-------------------------------------------------
+Session ID:631b829d-61f9-493f-80f0-260edfc992da
+-------------------------------------------------
+Session ID:579598f6-76e4-40bc-a9b4-30f02bcb84de
+-------------------------------------------------
+Session ID:645463d0-6526-494d-8214-6036b50d1dcc
+-------------------------------------------------
+Session ID:3b1dddec-0dd1-43c8-8b44-922ec1f010d0
+-------------------------------------------------
+Session ID:58b7fb1b-3ae7-4773-8473-205da6616689
+-------------------------------------------------
+Session ID:888d0e88-06da-4a9e-85e4-8cbdbbb73a2a
+-------------------------------------------------
+Session ID:1c3e94e8-825c-4b91-b745-c394dfc7a8d7
+-------------------------------------------------
+Session ID:77f539a2-c41e-472a-8e3f-db378a2142aa
+Time (2014-04-13-19:35)
+Recognized String : ( who was the first man in space )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 7 )
+ Saved wav File : ( 2014-04-13-19:35.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:817454b5-8ae4-4999-8b23-697137d84b71
+Time (2014-04-13-19:40)
+Recognized String : ( who discovered gravity )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-04-13-19:40.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5015f3cc-518a-4f4b-8130-9366d5f5d835
+Time (2014-04-13-19:41)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-13-19:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:900ba9b0-029b-4312-b79e-b8dc01e49791
+-------------------------------------------------
+Session ID:d8c08b0a-c25e-49a4-978f-b125b1cff346
+Time (2014-04-13-19:44)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-13-19:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:436c5363-5fee-4a34-8905-6c2e17159d4e
+-------------------------------------------------
+Session ID:10afa892-5905-44cd-b421-ab6d738ff8db
+Time (2014-04-14-11:03)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-14-11:03.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:fedf2ac9-fe3f-41f6-8713-18eee49dc8aa
+Time (2014-04-14-11:09)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-14-11:09.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:9b17cb32-7d24-47b7-b60b-128393f4b637
+Time (2014-04-14-11:11)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-11:11.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-11:11)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-04-14-11:11.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:2f9bdd83-4cdd-4740-a5b5-b4a9803379d8
+Time (2014-04-14-11:20)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-14-11:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:e7d62913-5ed0-4cff-9e97-e71497174b68
+Time (2014-04-14-13:03)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-14-13:03.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a64da085-ba44-402b-881d-71a4aa61c2d0
+Time (2014-04-14-13:04)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-04-14-13:04.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:437ee7d6-3af8-4f85-a485-fce31eee749b
+Time (2014-04-14-22:54)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-22:54.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:9044a2b6-fb72-4bc8-8877-779cffc29eba
+Time (2014-04-14-23:12)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:12.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-23:13)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:13.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:72565e35-7be3-46e1-9c76-007a69b2f6ae
+Time (2014-04-14-23:15)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:15.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:80598b3d-cf27-42d2-b23e-e7818a32eaa3
+-------------------------------------------------
+Session ID:d0f369f4-e29a-4eca-8d21-0b101eae26a6
+-------------------------------------------------
+Session ID:0a6bebcf-4596-46ad-b125-899ad1fbeb3b
+Time (2014-04-14-23:34)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-23:34)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:0c6be966-75af-4639-a1d2-010041e704d0
+-------------------------------------------------
+Session ID:54be4a47-6677-4872-9393-bfe7f307c547
+-------------------------------------------------
+Session ID:c177be24-0a13-4b2a-ac70-2cfb7dc985a4
+Time (2014-04-14-23:40)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:40.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-23:41)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-23:41)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:41.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:ef20ba48-bf3e-4a2d-8956-2ab51b037fe9
+Time (2014-04-14-23:44)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:44.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-23:45)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:45.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-23:46)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:46.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-23:48)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:48.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:1fe1f97f-70bc-4f60-99af-c47037b2bb93
+Time (2014-04-14-23:49)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-23:49)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3a49c836-f1d0-4110-b669-5f07684f9600
+Time (2014-04-14-23:55)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:55.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-14-23:56)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-14-23:56.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:cdd39a06-2c18-47f5-b6ab-89b890b21d19
+-------------------------------------------------
+Session ID:39790f9e-c63d-444f-b6d7-caded3fb65d2
+-------------------------------------------------
+Session ID:a2b2d17d-c241-4563-bb24-c3701b4aee37
+-------------------------------------------------
+Session ID:6a6ca4de-211c-4047-8e80-54cbed0468c1
+-------------------------------------------------
+Session ID:938d7117-0809-4ef8-98d7-5c567dab6073
+Time (2014-04-15-00:06)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-04-15-00:06.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:2d2b3316-c97c-4220-8650-4a0fcc6b0b41
+Time (2014-04-15-00:07)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-15-00:07.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-15-00:07)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-15-00:07.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5c947a40-f3a8-4851-bb25-0a621975bb90
+Time (2014-04-15-00:08)
+Recognized String : ( when was the atomic number discovered )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-04-15-00:08.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:9190a84b-45ec-4398-b8b4-0c2f2c2a68b1
+Time (2014-04-15-00:09)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-15-00:09.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:0fc84405-b645-4fd6-8ade-12695da08b4f
+Time (2014-04-15-00:10)
+Recognized String : ( when will be the next eclipse )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-04-15-00:10.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:ecdea6b7-aa1e-4d32-8683-eaea222262ba
+Time (2014-04-15-00:11)
+Recognized String : ( when will be the next eclipse )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-04-15-00:11.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:4dc5fe66-edeb-4267-953b-b904dd11e413
+Time (2014-04-15-00:19)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-04-15-00:19.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:9b1efc08-709c-461d-98b7-5db68574cbbe
+Time (2014-04-15-00:20)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-15-00:20.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5534c09a-c6d3-4ac2-8f16-47dc912fceba
+Time (2014-04-15-00:21)
+Recognized String : ( who discovered electromagnetism )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 3 )
+ Saved wav File : ( 2014-04-15-00:21.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:5002d1a5-fa06-4d61-b758-7de395cfd686
+Time (2014-04-15-00:22)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-15-00:22.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:bca23854-64b1-4e9a-9ed6-5f92fc6e1188
+Time (2014-04-15-16:07)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-15-16:07.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:27f559e8-dd7c-47b1-98e0-a5295f45e6e0
+Time (2014-04-28-12:39)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-04-28-12:39.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:e2dc385a-e59f-42ad-90e4-a68f421518cc
+-------------------------------------------------
+Session ID:4267fb15-b1e9-41df-bfe3-692c21ea6776
+-------------------------------------------------
+Session ID:0ccc4aa2-7cdc-475a-a1bf-0f159fec2890
+-------------------------------------------------
+Session ID:cb364ce3-85c1-418f-94f7-3d485a85526b
+-------------------------------------------------
+Session ID:e421b8a0-08ef-4d2c-a057-11628cede5b9
+-------------------------------------------------
+Session ID:57cd7051-0e89-4639-9b93-d2b1c3cd62de
+Time (2014-04-28-13:26)
+Recognized String : ( when will be the next eclipse )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-04-28-13:26.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:d35d8e6d-24c2-45f7-8b3c-2678388410dd
+Time (2014-04-28-13:27)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-28-13:27.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-28-13:27)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-28-13:27.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:96afcd1d-46b5-4bcb-b94a-a0ed3bc519a4
+Time (2014-04-29-00:38)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-04-29-00:38.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:d6cd91a9-7117-48a0-8d1f-ae7a09d2f85e
+Time (2014-04-29-10:47)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-04-29-10:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:78ecc7ab-2d37-408a-bb01-48c09165e524
+-------------------------------------------------
+Session ID:0c13e44c-4e15-4c2d-aa77-8ec94d8e4101
+-------------------------------------------------
+Session ID:d22b8a10-e359-4d22-afa5-4fd24cf5188a
+-------------------------------------------------
+Session ID:ab2736ed-36c7-44e0-b65a-93508b642c7b
+-------------------------------------------------
+Session ID:e444dc15-586d-41e1-a3e0-34be57c87ff0
+-------------------------------------------------
+Session ID:afe6c208-0563-416f-9a38-9aa10ffac19d
+-------------------------------------------------
+Session ID:df00bd73-8ed5-463b-87fb-923e9da1d2a1
+Time (2014-04-29-21:01)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-29-21:01.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:ff5e6635-8382-44d2-bdd0-04fce703d04d
+Time (2014-04-29-21:03)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-29-21:03.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-29-21:04)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-04-29-21:04.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-04-29-21:04)
+Recognized String : ( who invented the automobile )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 4 )
+ Saved wav File : ( 2014-04-29-21:04.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:6055f7cd-f874-42b4-a733-48523b4d44f3
+-------------------------------------------------
+Session ID:0b577c73-2051-407c-b0e0-962808d570b9
+-------------------------------------------------
+Session ID:41936d95-d48a-4c13-9ff6-c6b3a19b5aa9
+-------------------------------------------------
+Session ID:e3f28488-5c81-431f-b127-0d0842c7835a
+Time (2014-04-29-21:49)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-04-29-21:49.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:3eeb2d58-c576-4e51-8492-0aa3d4726531
+Time (2014-04-29-21:53)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-04-29-21:53.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:bfc7d258-e883-4a60-bed6-d3e474af838b
+Time (2014-05-07-03:24)
+Recognized String : ( when was albert einstein born )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-05-07-03:24.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:c152f6ed-b3c3-4ac3-ba32-e49f47eb8c7e
+-------------------------------------------------
+Session ID:f51d7880-69b8-4245-b8cb-91455e87c346
+-------------------------------------------------
+Session ID:49038a5e-7a25-4da1-9b0b-5a10ecac6388
+-------------------------------------------------
+Session ID:36d97653-c416-4859-bb1f-2f6f83bcca12
+-------------------------------------------------
+Session ID:b0b0a14b-d74e-41db-9d0c-4717e41b1b9d
+Time (2014-05-12-18:30)
+Recognized String : ( null )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 0 )
+ Saved wav File : ( 2014-05-12-18:30.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-12-18:30)
+Recognized String : ( i would like the weather )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 5 )
+ Saved wav File : ( 2014-05-12-18:30.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:9b50b21d-c0d8-4a46-be42-77c9c2738b34
+Time (2014-05-12-18:32)
+Recognized String : ( i would like to hear stocks )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 6 )
+ Saved wav File : ( 2014-05-12-18:32.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:d7ea30e8-2f5f-4920-bdac-1bbd92b409e3
+-------------------------------------------------
+Session ID:b7a6ddc2-f707-4dfc-bcf1-79b8912662df
+-------------------------------------------------
+Session ID:f01015d4-ef22-4199-bec4-dda0b15f6034
+-------------------------------------------------
+Session ID:6618f16a-d102-4d50-a787-b993f6e94e70
+-------------------------------------------------
+Session ID:712cced4-6349-4dbf-8ae5-2a61f368ac6c
+-------------------------------------------------
+Session ID:e1514c46-d41e-4194-beb0-0655d5913c17
+-------------------------------------------------
+Session ID:7f2e18e0-2499-4c2d-92b9-72b1a0b6187d
+Time (2014-05-13-01:04)
+Recognized String : ( sports news )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-01:04.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-01:04)
+Recognized String : ( get weather )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-01:04.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-01:04)
+Recognized String : ( the weather )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-01:04.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:de6fb5cf-d256-4c79-8bdb-2585b1b7cf1f
+Time (2014-05-13-01:18)
+Recognized String : ( city center )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-01:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-01:18)
+Recognized String : ( city center )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-01:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-01:18)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2014-05-13-01:18.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-01:19)
+Recognized String : ( city center )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-01:19.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-01:19)
+Recognized String : ( main station )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-01:19.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-01:19)
+Recognized String : ( no )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2014-05-13-01:19.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:b6a5d9de-4617-4e91-a90a-1e524c6b46e2
+Time (2014-05-13-13:33)
+Recognized String : ( main station )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-13:33.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-13:34)
+Recognized String : ( city center )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-13:34.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:91aab810-4e2b-4cd4-86c3-85bd631cbec3
+Time (2014-05-13-15:07)
+Recognized String : ( city center )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-15:07.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-15:08)
+Recognized String : ( city center )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-15:08.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-15:09)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2014-05-13-15:09.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+-------------------------------------------------
+Session ID:a0a568f9-fe40-414d-bd98-38ee64c45def
+-------------------------------------------------
+Session ID:d740b846-d550-4941-81fa-ffd9b154f5c8
+Time (2014-05-13-15:47)
+Recognized String : ( main station )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-15:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-15:47)
+Recognized String : ( city center )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-15:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-15:47)
+Recognized String : ( yes )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 1 )
+ Saved wav File : ( 2014-05-13-15:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-15:47)
+Recognized String : ( main station )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-15:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------
+Time (2014-05-13-15:47)
+Recognized String : ( main station )
+Confidence Score : ( 1.0 )
+Mode : ( VOICE )
+Number of Recog. Words: ( 2 )
+ Saved wav File : ( 2014-05-13-15:47.wav ) in tjr@it-tjr13.dhbw-stuttgart.de/zanzibar-SNAPSHOT/bin/cairo/c:/temp/
+-------------------------------------------------

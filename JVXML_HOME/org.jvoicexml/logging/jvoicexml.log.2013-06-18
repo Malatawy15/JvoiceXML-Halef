@@ -1,0 +1,431 @@
+2013-06-18 14:52:23,305 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   103) - ----------------------------------------------------
+2013-06-18 14:52:23,311 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   104) - starting VoiceXML interpreter 0.7.6.EA...
+2013-06-18 14:52:23,324 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-06-18 14:52:24,030 [JVoiceXmlMain       ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   135) - default fetch timeout: 5000
+2013-06-18 14:52:24,031 [JVoiceXmlMain       ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   146) - serializer: 'class org.jvoicexml.documentserver.schemestrategy.scriptableobjectserializer.KeyValueSerializer'
+2013-06-18 14:52:24,039 [JVoiceXmlMain       ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   135) - default fetch timeout: 5000
+2013-06-18 14:52:24,040 [JVoiceXmlMain       ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   146) - serializer: 'class org.jvoicexml.documentserver.schemestrategy.scriptableobjectserializer.KeyValueSerializer'
+2013-06-18 14:52:24,056 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-06-18 14:52:24,056 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-06-18 14:52:24,092 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-06-18 14:52:24,092 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-06-18 14:52:24,092 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-06-18 14:52:24,093 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-06-18 14:52:24,093 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-06-18 14:52:24,093 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-06-18 14:52:24,131 [JVoiceXmlMain       ] DEBUG  nterpreter.dialog.JVoiceXmlDialogFactory (    84) - added dialog template 'class org.jvoicexml.interpreter.dialog.ExecutablePlainForm' to handle tag 'form'
+2013-06-18 14:52:24,135 [JVoiceXmlMain       ] DEBUG  nterpreter.dialog.JVoiceXmlDialogFactory (    84) - added dialog template 'class org.jvoicexml.interpreter.dialog.ExecutableMenuForm' to handle tag 'menu'
+2013-06-18 14:52:24,159 [JVoiceXmlMain       ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.DataStrategy' for tag 'data'
+2013-06-18 14:52:24,159 [JVoiceXmlMain       ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.GrammarStrategy' for tag 'grammar'
+2013-06-18 14:52:24,160 [JVoiceXmlMain       ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.MetaStrategy' for tag 'meta'
+2013-06-18 14:52:24,160 [JVoiceXmlMain       ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.PropertyStrategy' for tag 'property'
+2013-06-18 14:52:24,160 [JVoiceXmlMain       ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.ScriptStrategy' for tag 'script'
+2013-06-18 14:52:24,160 [JVoiceXmlMain       ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.TextStrategy' for tag '#text'
+2013-06-18 14:52:24,161 [JVoiceXmlMain       ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.VarStrategy' for tag 'var'
+2013-06-18 14:52:24,190 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   116) - scanning configuration folder '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-06-18 14:52:24,191 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-06-18 14:52:24,192 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-06-18 14:52:24,198 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-06-18 14:52:24,198 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-06-18 14:52:24,199 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 14:52:24,199 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 14:52:24,199 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-06-18 14:52:24,199 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-06-18 14:52:24,200 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-06-18 14:52:24,200 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-06-18 14:52:24,200 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-06-18 14:52:24,201 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-06-18 14:52:24,201 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-06-18 14:52:24,201 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-06-18 14:52:24,201 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-06-18 14:52:24,202 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-06-18 14:52:24,202 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 14:52:24,206 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 14:52:24,207 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 14:52:24,207 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 14:52:24,207 [Thread-1            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 14:52:24,207 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 14:52:24,208 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   296) - using configuration 'org.jvoicexml.config.JVoiceXmlConfiguration'
+2013-06-18 14:52:24,208 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   298) - testingggggg Logger info
+2013-06-18 14:52:24,210 [JVoiceXmlMain       ] DEBUG               org.jvoicexml.JVoiceXmlMain (   468) - added shutdown hook
+2013-06-18 14:52:24,210 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   400) - loading bean with id 'org.jvoicexml.DocumentServer'
+2013-06-18 14:52:24,210 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   400) - loading bean with id 'org.jvoicexml.ImplementationPlatformFactory'
+2013-06-18 14:52:24,211 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   271) - looking for configurations 'implementation'
+2013-06-18 14:52:24,211 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   140) - looking for configurations 'implementation'
+2013-06-18 14:52:24,289 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 14:52:24,339 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 14:52:24,374 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 14:52:24,391 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 14:52:24,391 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-06-18 14:52:24,595 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-06-18 14:52:24,597 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   177) - using loader repository 'mrcpv2'
+2013-06-18 14:52:24,597 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-mrcpv2.jar'
+2013-06-18 14:52:24,598 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/cairo/lib/cairo-sip-SNAPSHOT.jar'
+2013-06-18 14:52:24,598 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/cairo/lib/cairo-client-SNAPSHOT.jar'
+2013-06-18 14:52:24,598 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/cairo/lib/cairo-rtp-SNAPSHOT.jar'
+2013-06-18 14:52:24,598 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/jain-sip-ri-1.2.jar'
+2013-06-18 14:52:24,598 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/nist-sdp-1.0.jar'
+2013-06-18 14:52:24,598 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/jain-sip-api-1.2.jar'
+2013-06-18 14:52:24,599 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/concurrent-1.3.4.jar'
+2013-06-18 14:52:24,599 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/mrcp4j/lib/mrcp4j-0.2.jar'
+2013-06-18 14:52:24,599 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/speechcloud/lib/speechcloud-client.jar'
+2013-06-18 14:52:24,599 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/commons-lang2.3/lib/commons-lang-2.3.jar'
+2013-06-18 14:52:24,599 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/jmf2.1.1e/lib/jmf.jar'
+2013-06-18 14:52:24,608 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 14:52:24,609 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-06-18 14:52:24,690 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   177) - using loader repository 'jsapi'
+2013-06-18 14:52:24,698 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/org.jvoicexml.implementation.jsapi10.jar'
+2013-06-18 14:52:24,699 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/org.jvoicexml.implementation.jsapi10-impl.jar'
+2013-06-18 14:52:24,699 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.jsapi10/3rdparty/jsapi1.0/lib/jsapi.jar'
+2013-06-18 14:52:24,699 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.jsapi10/3rdparty/freetts1.2/lib/freetts-jsapi10.jar'
+2013-06-18 14:52:24,699 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.jsapi10/3rdparty/sphinx4/lib/jsapi-1.0-base.jar'
+2013-06-18 14:52:24,699 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/freetts1.2/lib/freetts.jar'
+2013-06-18 14:52:24,699 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/freetts1.2/lib/cmu_us_kal.jar'
+2013-06-18 14:52:24,699 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/freetts1.2/lib/cmulex.jar'
+2013-06-18 14:52:24,700 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/freetts1.2/lib/en_us.jar'
+2013-06-18 14:52:24,700 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/sphinx4/lib/sphinx4.jar'
+2013-06-18 14:52:24,700 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/sphinx4/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar'
+2013-06-18 14:52:24,710 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 14:52:24,711 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-06-18 14:52:24,798 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   177) - using loader repository 'text'
+2013-06-18 14:52:24,798 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/org.jvoicexml.implementation.text.jar'
+2013-06-18 14:52:24,798 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-client-text.jar'
+2013-06-18 14:52:24,798 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/org.jvoicexml.processor.srgs.jar'
+2013-06-18 14:52:24,800 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.text.TextPlatformFactory#0'
+2013-06-18 14:52:24,819 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-06-18 14:52:24,878 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 14:52:24,900 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    91) - loading resources of type 'text'...
+2013-06-18 14:52:24,903 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSynthesizedOutput)
+2013-06-18 14:52:24,904 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    97) - ...resources loaded.
+2013-06-18 14:52:24,904 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.text.TextSynthesizedOutputFactory for type 'text'
+2013-06-18 14:52:24,904 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    91) - loading resources of type 'text'...
+2013-06-18 14:52:24,917 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSpokenInput)
+2013-06-18 14:52:24,917 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    97) - ...resources loaded.
+2013-06-18 14:52:24,918 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.text.TextSpokenInputFactory for type 'text'
+2013-06-18 14:52:24,918 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    91) - loading resources of type 'text'...
+2013-06-18 14:52:24,925 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextTelephony)
+2013-06-18 14:52:24,925 [JVoiceXmlMain       ] DEBUG  icexml.implementation.text.TextTelephony (   373) - passivating...
+2013-06-18 14:52:24,925 [JVoiceXmlMain       ] DEBUG  icexml.implementation.text.TextTelephony (   398) - ...passivated
+2013-06-18 14:52:24,925 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    97) - ...resources loaded.
+2013-06-18 14:52:24,925 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.text.TextTelephonyFactory for type 'text'
+2013-06-18 14:52:24,926 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   271) - looking for configurations 'implementation'
+2013-06-18 14:52:24,926 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   140) - looking for configurations 'implementation'
+2013-06-18 14:52:25,002 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 14:52:25,054 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 14:52:25,089 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 14:52:25,132 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 14:52:25,132 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-06-18 14:52:25,274 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-06-18 14:52:25,278 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   177) - using loader repository 'mrcpv2'
+2013-06-18 14:52:25,279 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-mrcpv2.jar'
+2013-06-18 14:52:25,279 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/cairo/lib/cairo-sip-SNAPSHOT.jar'
+2013-06-18 14:52:25,279 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/cairo/lib/cairo-client-SNAPSHOT.jar'
+2013-06-18 14:52:25,279 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/cairo/lib/cairo-rtp-SNAPSHOT.jar'
+2013-06-18 14:52:25,279 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/jain-sip-ri-1.2.jar'
+2013-06-18 14:52:25,280 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/nist-sdp-1.0.jar'
+2013-06-18 14:52:25,280 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/jain-sip-api-1.2.jar'
+2013-06-18 14:52:25,280 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/concurrent-1.3.4.jar'
+2013-06-18 14:52:25,280 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/mrcp4j/lib/mrcp4j-0.2.jar'
+2013-06-18 14:52:25,280 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/speechcloud/lib/speechcloud-client.jar'
+2013-06-18 14:52:25,281 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/commons-lang2.3/lib/commons-lang-2.3.jar'
+2013-06-18 14:52:25,281 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/jmf2.1.1e/lib/jmf.jar'
+2013-06-18 14:52:25,281 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory#0'
+2013-06-18 14:52:25,320 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory#0'
+2013-06-18 14:52:25,359 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-06-18 14:52:25,501 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   177) - using loader repository 'jsapi'
+2013-06-18 14:52:25,501 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/org.jvoicexml.implementation.jsapi10.jar'
+2013-06-18 14:52:25,501 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/org.jvoicexml.implementation.jsapi10-impl.jar'
+2013-06-18 14:52:25,502 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.jsapi10/3rdparty/jsapi1.0/lib/jsapi.jar'
+2013-06-18 14:52:25,502 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.jsapi10/3rdparty/freetts1.2/lib/freetts-jsapi10.jar'
+2013-06-18 14:52:25,502 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.jsapi10/3rdparty/sphinx4/lib/jsapi-1.0-base.jar'
+2013-06-18 14:52:25,506 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/freetts1.2/lib/freetts.jar'
+2013-06-18 14:52:25,506 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/freetts1.2/lib/cmu_us_kal.jar'
+2013-06-18 14:52:25,506 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/freetts1.2/lib/cmulex.jar'
+2013-06-18 14:52:25,506 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/freetts1.2/lib/en_us.jar'
+2013-06-18 14:52:25,507 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/sphinx4/lib/sphinx4.jar'
+2013-06-18 14:52:25,507 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/3rdparty/sphinx4/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar'
+2013-06-18 14:52:25,508 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory#0'
+2013-06-18 14:52:25,510 [JVoiceXmlMain       ] DEBUG  10.jvxml.FreeTTSSynthesizedOutputFactory (    71) - registering FreeTTS engine central...
+2013-06-18 14:52:25,538 [JVoiceXmlMain       ] DEBUG  10.jvxml.FreeTTSSynthesizedOutputFactory (    75) - ...registered FreeTTS engine central
+2013-06-18 14:52:25,687 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory#0'
+2013-06-18 14:52:25,687 [JVoiceXmlMain       ] DEBUG  .jsapi10.jvxml.Sphinx4SpokenInputFactory (    72) - registering sphinx4 engine central...
+2013-06-18 14:52:25,695 [JVoiceXmlMain       ] DEBUG  .jsapi10.jvxml.Sphinx4SpokenInputFactory (    76) - ...registered sphinx4 engine central
+2013-06-18 14:52:25,742 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory#0'
+2013-06-18 14:52:25,777 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-06-18 14:52:25,857 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   177) - using loader repository 'text'
+2013-06-18 14:52:25,857 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/org.jvoicexml.implementation.text.jar'
+2013-06-18 14:52:25,857 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-client-text.jar'
+2013-06-18 14:52:25,857 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/org.jvoicexml.processor.srgs.jar'
+2013-06-18 14:52:25,858 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.ResourceFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 14:52:25,858 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-06-18 14:52:25,890 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory#0'
+2013-06-18 14:52:25,898 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    91) - loading resources of type 'mrcpv2'...
+2013-06-18 14:52:25,910 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2013-06-18 14:52:25,915 [JVoiceXmlMain       ] DEBUG  mentation.mrcpv2.Mrcpv2SynthesizedOutput (   418) - passivating output...
+2013-06-18 14:52:25,915 [JVoiceXmlMain       ] DEBUG  mentation.mrcpv2.Mrcpv2SynthesizedOutput (   424) - ...passivated output
+2013-06-18 14:52:25,915 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    97) - ...resources loaded.
+2013-06-18 14:52:25,915 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory for type 'mrcpv2'
+2013-06-18 14:52:25,916 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    91) - loading resources of type 'mrcpv2'...
+2013-06-18 14:52:25,917 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2013-06-18 14:52:25,918 [JVoiceXmlMain       ] INFO   .implementation.mrcpv2.Mrcpv2SpokenInput (   132) - Opening mrcpv2 spoken input.
+2013-06-18 14:52:25,918 [JVoiceXmlMain       ] DEBUG  .implementation.mrcpv2.Mrcpv2SpokenInput (   356) - passivating input...
+2013-06-18 14:52:25,918 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    97) - ...resources loaded.
+2013-06-18 14:52:25,918 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory for type 'mrcpv2'
+2013-06-18 14:52:25,918 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    91) - loading resources of type 'jsapi10'...
+2013-06-18 14:52:25,919 [JVoiceXmlMain       ] DEBUG  pi10.JVoiceXmlSynthesizerModeDescFactory (    73) - creating synthesizer mode desc (null, null, en_US)
+2013-06-18 14:52:25,934 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SynthesizedOutput)
+2013-06-18 14:52:25,994 [JVoiceXmlMain       ] DEBUG  ntation.jsapi10.Jsapi10SynthesizedOutput (   216) - allocating synthesizer...
+2013-06-18 14:52:26,727 [JVoiceXmlMain       ] DEBUG  ntation.jsapi10.Jsapi10SynthesizedOutput (   223) - ...synthesizer allocated
+2013-06-18 14:52:26,727 [JVoiceXmlMain       ] DEBUG  ntation.jsapi10.Jsapi10SynthesizedOutput (   724) - passivating output...
+2013-06-18 14:52:26,727 [JVoiceXmlMain       ] DEBUG  ntation.jsapi10.Jsapi10SynthesizedOutput (   736) - ...passivated output
+2013-06-18 14:52:26,728 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    97) - ...resources loaded.
+2013-06-18 14:52:26,728 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory for type 'jsapi10'
+2013-06-18 14:52:26,728 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    91) - loading resources of type 'jsapi10'...
+2013-06-18 14:52:26,733 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SpokenInput)
+2013-06-18 14:52:27,067 [JVoiceXmlMain       ] DEBUG  mplementation.jsapi10.Jsapi10SpokenInput (   142) - allocating JSAPI 1.0 recognizer...
+2013-06-18 14:52:30,463 [JVoiceXmlMain       ] DEBUG  mplementation.jsapi10.Jsapi10SpokenInput (   148) - ...JSAPI 1.0  recognizer allocated
+2013-06-18 14:52:30,463 [JVoiceXmlMain       ] DEBUG  mplementation.jsapi10.Jsapi10SpokenInput (   260) - no loaded grammars
+2013-06-18 14:52:30,463 [JVoiceXmlMain       ] INFO   mplementation.jsapi10.Jsapi10SpokenInput (   530) - passivated spoken input
+2013-06-18 14:52:30,464 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    97) - ...resources loaded.
+2013-06-18 14:52:30,464 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory for type 'jsapi10'
+2013-06-18 14:52:30,464 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    91) - loading resources of type 'jsapi10'...
+2013-06-18 14:52:30,465 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10TelephonySupport)
+2013-06-18 14:52:30,465 [JVoiceXmlMain       ] DEBUG  entation.jsapi10.Jsapi10TelephonySupport (   126) - passivated telephony
+2013-06-18 14:52:30,465 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    97) - ...resources loaded.
+2013-06-18 14:52:30,465 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory for type 'jsapi10'
+2013-06-18 14:52:30,465 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    91) - loading resources of type 'dummy'...
+2013-06-18 14:52:30,466 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2013-06-18 14:52:30,467 [JVoiceXmlMain       ] DEBUG  plementation.jvxml.DummyTelephonySupport (   136) - passivated telephony
+2013-06-18 14:52:30,467 [JVoiceXmlMain       ] DEBUG  ml.implementation.pool.KeyedResourcePool (    97) - ...resources loaded.
+2013-06-18 14:52:30,467 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory for type 'dummy'
+2013-06-18 14:52:30,467 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   160) - available synthesizers:
+2013-06-18 14:52:30,467 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'text'
+2013-06-18 14:52:30,467 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'mrcpv2'
+2013-06-18 14:52:30,467 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'jsapi10'
+2013-06-18 14:52:30,467 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   171) - available recognizers:
+2013-06-18 14:52:30,468 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'text'
+2013-06-18 14:52:30,468 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'mrcpv2'
+2013-06-18 14:52:30,468 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'jsapi10'
+2013-06-18 14:52:30,468 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   182) - available telephones:
+2013-06-18 14:52:30,468 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'text'
+2013-06-18 14:52:30,468 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'dummy'
+2013-06-18 14:52:30,468 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'jsapi10'
+2013-06-18 14:52:30,468 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   400) - loading bean with id 'org.jvoicexml.interpreter.GrammarProcessor'
+2013-06-18 14:52:30,469 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   271) - looking for configurations 'jvxmlgrammar'
+2013-06-18 14:52:30,469 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   140) - looking for configurations 'jvxmlgrammar'
+2013-06-18 14:52:30,533 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-06-18 14:52:30,539 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-06-18 14:52:30,597 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier#0'
+2013-06-18 14:52:30,598 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier#0'
+2013-06-18 14:52:30,599 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier#0'
+2013-06-18 14:52:30,599 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier#0'
+2013-06-18 14:52:30,600 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier#0'
+2013-06-18 14:52:30,601 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier for type 'application/srgs+xml'
+2013-06-18 14:52:30,601 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier for type 'application/srgs'
+2013-06-18 14:52:30,601 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier for type 'application/x-jsgf'
+2013-06-18 14:52:30,601 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier for type 'application/x-nuance-dynagram-binary'
+2013-06-18 14:52:30,602 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier for type 'application/x-nuance-gsl'
+2013-06-18 14:52:30,602 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   271) - looking for configurations 'callmanager'
+2013-06-18 14:52:30,602 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   140) - looking for configurations 'callmanager'
+2013-06-18 14:52:30,646 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   186) - inspecting file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-06-18 14:52:30,662 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'...
+2013-06-18 14:52:30,826 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-client-mrcpv2.jar' does not exist
+2013-06-18 14:52:30,839 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   177) - using loader repository 'mrcpv2'
+2013-06-18 14:52:30,840 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-mrcpv2.jar'
+2013-06-18 14:52:30,840 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/cairo/lib/cairo-sip-SNAPSHOT.jar'
+2013-06-18 14:52:30,840 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/cairo/lib/cairo-client-SNAPSHOT.jar'
+2013-06-18 14:52:30,840 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/cairo/lib/cairo-rtp-SNAPSHOT.jar'
+2013-06-18 14:52:30,840 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/jain-sip-ri-1.2.jar'
+2013-06-18 14:52:30,840 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/nist-sdp-1.0.jar'
+2013-06-18 14:52:30,840 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/jain-sip-api-1.2.jar'
+2013-06-18 14:52:30,841 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/jainsip1.2/lib/concurrent-1.3.4.jar'
+2013-06-18 14:52:30,841 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/mrcp4j/lib/mrcp4j-0.2.jar'
+2013-06-18 14:52:30,841 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar-SNAPSHOT.jar'
+2013-06-18 14:52:30,841 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/speechcloud/lib/speechcloud-client.jar'
+2013-06-18 14:52:30,841 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   348) - using classpath entry 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/commons-lang2.3/lib/commons-lang-2.3.jar'
+2013-06-18 14:52:30,858 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'callmanager'
+2013-06-18 14:52:31,208 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   124) - loaded applications:
+2013-06-18 14:52:31,209 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 1000: http://141.31.8.117/test2.vxml
+2013-06-18 14:52:31,209 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 2000: file:///work/zanzibar/src/main/voicexml/hello.vxml
+2013-06-18 14:52:31,209 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 3000: file:///work/zanzibar/src/main/voicexml/test.vxml
+2013-06-18 14:52:31,209 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   397) - startup mrcp sip callManager
+2013-06-18 14:52:31,209 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   391) - started call manager 'org.jvoicexml.callmanager.mrcpv2.SipCallManager@2d8436a2'
+2013-06-18 14:52:31,210 [JVoiceXmlMain       ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   271) - looking for configurations 'jndi'
+2013-06-18 14:52:31,210 [JVoiceXmlMain       ] DEBUG  jvoicexml.config.ConfigurationRepository (   140) - looking for configurations 'jndi'
+2013-06-18 14:52:31,273 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   347) - VoiceXML interpreter 0.7.6.EA startedddddddddddddd !!.
+2013-06-18 14:52:31,273 [ShutdownWaiter      ] DEBUG              org.jvoicexml.ShutdownWaiter (    65) - initialized shutdown sequence
+2013-06-18 14:53:41,944 [ShutdownHook        ] INFO        org.jvoicexml.JVoiceXmlShutdownHook (    66) - JVoiceXML interrupted! Shutting down...
+2013-06-18 14:53:41,944 [ShutdownHook        ] INFO                org.jvoicexml.JVoiceXmlMain (   415) - received shutdown request
+2013-06-18 14:53:41,945 [ShutdownWaiter      ] INFO                org.jvoicexml.JVoiceXmlMain (   424) - shutting down JVoiceXml...
+2013-06-18 14:54:43,204 [main                ] INFO             org.jvoicexml.startup.Shutdown (    93) - security manager set to java.rmi.RMISecurityManager@4a41cd79
+2013-06-18 14:54:43,260 [main                ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-06-18 14:54:44,017 [main                ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   135) - default fetch timeout: 5000
+2013-06-18 14:54:44,018 [main                ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   146) - serializer: 'class org.jvoicexml.documentserver.schemestrategy.scriptableobjectserializer.KeyValueSerializer'
+2013-06-18 14:54:44,028 [main                ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   135) - default fetch timeout: 5000
+2013-06-18 14:54:44,029 [main                ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   146) - serializer: 'class org.jvoicexml.documentserver.schemestrategy.scriptableobjectserializer.KeyValueSerializer'
+2013-06-18 14:54:44,059 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-06-18 14:54:44,059 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-06-18 14:54:44,081 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-06-18 14:54:44,081 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-06-18 14:54:44,082 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-06-18 14:54:44,082 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-06-18 14:54:44,082 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-06-18 14:54:44,082 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-06-18 14:54:44,108 [main                ] DEBUG  nterpreter.dialog.JVoiceXmlDialogFactory (    84) - added dialog template 'class org.jvoicexml.interpreter.dialog.ExecutablePlainForm' to handle tag 'form'
+2013-06-18 14:54:44,108 [main                ] DEBUG  nterpreter.dialog.JVoiceXmlDialogFactory (    84) - added dialog template 'class org.jvoicexml.interpreter.dialog.ExecutableMenuForm' to handle tag 'menu'
+2013-06-18 14:54:44,162 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.DataStrategy' for tag 'data'
+2013-06-18 14:54:44,162 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.GrammarStrategy' for tag 'grammar'
+2013-06-18 14:54:44,162 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.MetaStrategy' for tag 'meta'
+2013-06-18 14:54:44,163 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.PropertyStrategy' for tag 'property'
+2013-06-18 14:54:44,163 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.ScriptStrategy' for tag 'script'
+2013-06-18 14:54:44,163 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.TextStrategy' for tag '#text'
+2013-06-18 14:54:44,163 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.VarStrategy' for tag 'var'
+2013-06-18 14:54:44,189 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   116) - scanning configuration folder '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-06-18 14:54:44,190 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-06-18 14:54:44,191 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-06-18 14:54:44,191 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-06-18 14:54:44,194 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-06-18 14:54:44,194 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 14:54:44,195 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 14:54:44,195 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-06-18 14:54:44,195 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-06-18 14:54:44,195 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-06-18 14:54:44,196 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-06-18 14:54:44,196 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-06-18 14:54:44,196 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-06-18 14:54:44,196 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-06-18 14:54:44,197 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-06-18 14:54:44,197 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-06-18 14:54:44,197 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-06-18 14:54:44,197 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 14:54:44,198 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 14:54:44,198 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 14:54:44,202 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 14:54:44,203 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 14:54:44,203 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 14:54:44,207 [main                ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   271) - looking for configurations 'jndi'
+2013-06-18 14:54:44,207 [main                ] DEBUG  jvoicexml.config.ConfigurationRepository (   140) - looking for configurations 'jndi'
+2013-06-18 14:54:44,369 [main                ] FATAL            org.jvoicexml.startup.Shutdown (   105) - no remote shutdown configured
+2013-06-18 15:43:36,214 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   103) - ----------------------------------------------------
+2013-06-18 15:43:36,219 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   104) - starting VoiceXML interpreter 0.7.6.EA...
+2013-06-18 15:43:36,232 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-06-18 15:43:36,982 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-06-18 15:43:36,982 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-06-18 15:43:37,022 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-06-18 15:43:37,023 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-06-18 15:43:37,023 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-06-18 15:43:37,023 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-06-18 15:43:37,024 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-06-18 15:43:37,024 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-06-18 15:43:37,095 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-06-18 15:43:37,096 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-06-18 15:43:37,096 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 15:43:37,097 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-06-18 15:43:37,097 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-06-18 15:43:37,100 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-06-18 15:43:37,100 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-06-18 15:43:37,101 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-06-18 15:43:37,101 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 15:43:37,101 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 15:43:37,102 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 15:43:37,102 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   296) - using configuration 'org.jvoicexml.config.JVoiceXmlConfiguration'
+2013-06-18 15:43:37,105 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   298) - testingggggg Logger info
+2013-06-18 15:43:37,255 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-06-18 15:43:37,441 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-06-18 15:43:37,447 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 15:43:37,447 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-06-18 15:43:37,542 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 15:43:37,542 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-06-18 15:43:37,618 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.text.TextPlatformFactory#0'
+2013-06-18 15:43:37,635 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-06-18 15:43:37,685 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 15:43:37,709 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSynthesizedOutput)
+2013-06-18 15:43:37,709 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.text.TextSynthesizedOutputFactory for type 'text'
+2013-06-18 15:43:37,722 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSpokenInput)
+2013-06-18 15:43:37,723 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.text.TextSpokenInputFactory for type 'text'
+2013-06-18 15:43:37,725 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextTelephony)
+2013-06-18 15:43:37,725 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.text.TextTelephonyFactory for type 'text'
+2013-06-18 15:43:37,883 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-06-18 15:43:37,989 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-06-18 15:43:37,999 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory#0'
+2013-06-18 15:43:38,026 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory#0'
+2013-06-18 15:43:38,058 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-06-18 15:43:38,163 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory#0'
+2013-06-18 15:43:38,321 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory#0'
+2013-06-18 15:43:38,362 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory#0'
+2013-06-18 15:43:38,382 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-06-18 15:43:38,446 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.ResourceFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 15:43:38,447 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-06-18 15:43:38,473 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory#0'
+2013-06-18 15:43:38,488 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2013-06-18 15:43:38,492 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory for type 'mrcpv2'
+2013-06-18 15:43:38,493 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2013-06-18 15:43:38,493 [JVoiceXmlMain       ] INFO   .implementation.mrcpv2.Mrcpv2SpokenInput (   132) - Opening mrcpv2 spoken input.
+2013-06-18 15:43:38,494 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory for type 'mrcpv2'
+2013-06-18 15:43:38,501 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SynthesizedOutput)
+2013-06-18 15:43:39,140 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory for type 'jsapi10'
+2013-06-18 15:43:39,142 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SpokenInput)
+2013-06-18 15:43:42,746 [JVoiceXmlMain       ] INFO   mplementation.jsapi10.Jsapi10SpokenInput (   530) - passivated spoken input
+2013-06-18 15:43:42,746 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory for type 'jsapi10'
+2013-06-18 15:43:42,747 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10TelephonySupport)
+2013-06-18 15:43:42,747 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory for type 'jsapi10'
+2013-06-18 15:43:42,748 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2013-06-18 15:43:42,749 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory for type 'dummy'
+2013-06-18 15:43:42,749 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   160) - available synthesizers:
+2013-06-18 15:43:42,749 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'text'
+2013-06-18 15:43:42,749 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'mrcpv2'
+2013-06-18 15:43:42,749 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'jsapi10'
+2013-06-18 15:43:42,749 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   171) - available recognizers:
+2013-06-18 15:43:42,750 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'text'
+2013-06-18 15:43:42,750 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'mrcpv2'
+2013-06-18 15:43:42,750 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'jsapi10'
+2013-06-18 15:43:42,750 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   182) - available telephones:
+2013-06-18 15:43:42,750 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'text'
+2013-06-18 15:43:42,750 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'dummy'
+2013-06-18 15:43:42,750 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'jsapi10'
+2013-06-18 15:43:42,818 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-06-18 15:43:42,876 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier#0'
+2013-06-18 15:43:42,877 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier#0'
+2013-06-18 15:43:42,878 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier#0'
+2013-06-18 15:43:42,878 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier#0'
+2013-06-18 15:43:42,879 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier#0'
+2013-06-18 15:43:42,879 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier for type 'application/srgs+xml'
+2013-06-18 15:43:42,879 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier for type 'application/srgs'
+2013-06-18 15:43:42,880 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier for type 'application/x-jsgf'
+2013-06-18 15:43:42,880 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier for type 'application/x-nuance-dynagram-binary'
+2013-06-18 15:43:42,880 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier for type 'application/x-nuance-gsl'
+2013-06-18 15:43:42,943 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'...
+2013-06-18 15:43:42,977 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-client-mrcpv2.jar' does not exist
+2013-06-18 15:43:42,994 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'callmanager'
+2013-06-18 15:43:43,448 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   124) - loaded applications:
+2013-06-18 15:43:43,448 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 1000: http://141.31.8.117/test2.vxml
+2013-06-18 15:43:43,448 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 2000: file:///work/zanzibar/src/main/voicexml/hello.vxml
+2013-06-18 15:43:43,449 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 3000: file:///work/zanzibar/src/main/voicexml/test.vxml
+2013-06-18 15:43:43,449 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   397) - startup mrcp sip callManager
+2013-06-18 15:43:43,449 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   391) - started call manager 'org.jvoicexml.callmanager.mrcpv2.SipCallManager@5ce9f026'
+2013-06-18 15:43:43,511 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   347) - VoiceXML interpreter 0.7.6.EA startedddddddddddddd !!.
+2013-06-18 15:47:47,098 [ShutdownHook        ] INFO        org.jvoicexml.JVoiceXmlShutdownHook (    66) - JVoiceXML interrupted! Shutting down...
+2013-06-18 15:47:47,098 [ShutdownHook        ] INFO                org.jvoicexml.JVoiceXmlMain (   415) - received shutdown request
+2013-06-18 15:47:47,099 [ShutdownWaiter      ] INFO                org.jvoicexml.JVoiceXmlMain (   424) - shutting down JVoiceXml...
+2013-06-18 15:48:21,206 [main                ] INFO             org.jvoicexml.startup.Shutdown (    93) - security manager set to java.rmi.RMISecurityManager@4a41cd79
+2013-06-18 15:48:21,261 [main                ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-06-18 15:48:22,096 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-06-18 15:48:22,097 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-06-18 15:48:22,125 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-06-18 15:48:22,126 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-06-18 15:48:22,126 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-06-18 15:48:22,126 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-06-18 15:48:22,126 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-06-18 15:48:22,127 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-06-18 15:48:22,236 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-06-18 15:48:22,236 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-06-18 15:48:22,237 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-06-18 15:48:22,237 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-06-18 15:48:22,237 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-06-18 15:48:22,238 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-06-18 15:48:22,241 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-06-18 15:48:22,241 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-06-18 15:48:22,241 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-06-18 15:48:22,242 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-06-18 15:48:22,242 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-06-18 15:48:22,397 [main                ] FATAL            org.jvoicexml.startup.Shutdown (   105) - no remote shutdown configured

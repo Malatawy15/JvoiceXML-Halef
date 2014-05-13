@@ -1,0 +1,3 @@
+2013-11-08 03:10:55,600 [EventScannerThread  ] WARN  6670af3d-742a-47f9-bc38-272400b02db6 rg.speechforge.cairo.sip.SipListenerImpl (   306) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2013-11-08 03:11:03,705 [EventScannerThread  ] INFO  6670af3d-742a-47f9-bc38-272400b02db6 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-11-08 03:11:30,291 [EventScannerThread  ] INFO  6670af3d-742a-47f9-bc38-272400b02db6 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event

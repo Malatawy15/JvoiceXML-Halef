@@ -1,0 +1,858 @@
+2013-07-13 16:10:49,505 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/.mrcpv2-callmanager.xml.swp'
+2013-07-13 16:12:26,513 [main                ] INFO             org.jvoicexml.startup.Shutdown (    93) - security manager set to java.rmi.RMISecurityManager@41607b27
+2013-07-13 16:12:26,641 [main                ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-07-13 16:12:28,386 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-07-13 16:12:28,394 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-07-13 16:12:28,459 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-07-13 16:12:28,459 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-07-13 16:12:28,460 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 16:12:28,460 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 16:12:28,460 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-07-13 16:12:28,460 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-07-13 16:12:28,665 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j-dd.xml'
+2013-07-13 16:12:28,665 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-07-13 16:12:28,666 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-07-13 16:12:28,666 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 16:12:28,670 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-07-13 16:12:28,671 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-07-13 16:12:28,673 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 16:12:28,674 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-07-13 16:12:28,678 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-07-13 16:12:28,678 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 16:12:28,679 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 16:12:28,686 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 16:12:29,009 [main                ] FATAL            org.jvoicexml.startup.Shutdown (   105) - no remote shutdown configured
+2013-07-13 16:12:30,000 [ShutdownHook        ] INFO        org.jvoicexml.JVoiceXmlShutdownHook (    66) - JVoiceXML interrupted! Shutting down...
+2013-07-13 16:12:30,006 [ShutdownHook        ] INFO                org.jvoicexml.JVoiceXmlMain (   425) - received shutdown request
+2013-07-13 16:12:30,006 [ShutdownWaiter      ] INFO                org.jvoicexml.JVoiceXmlMain (   434) - shutting down JVoiceXml...
+2013-07-13 16:13:42,705 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   103) - ----------------------------------------------------
+2013-07-13 16:13:42,710 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   104) - starting VoiceXML interpreter 0.7.6.EA...
+2013-07-13 16:13:42,723 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-07-13 16:13:43,463 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-07-13 16:13:43,464 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-07-13 16:13:43,485 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-07-13 16:13:43,485 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-07-13 16:13:43,485 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 16:13:43,486 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 16:13:43,486 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-07-13 16:13:43,486 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-07-13 16:13:43,548 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j-dd.xml'
+2013-07-13 16:13:43,548 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-07-13 16:13:43,548 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-07-13 16:13:43,549 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 16:13:43,549 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-07-13 16:13:43,552 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-07-13 16:13:43,552 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 16:13:43,552 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-07-13 16:13:43,553 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-07-13 16:13:43,553 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 16:13:43,570 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 16:13:43,570 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 16:13:43,571 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   306) - using configuration 'org.jvoicexml.config.JVoiceXmlConfiguration'
+2013-07-13 16:13:43,571 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   308) - testingggggg Logger info
+2013-07-13 16:13:43,742 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-07-13 16:13:43,906 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-07-13 16:13:43,917 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 16:13:43,917 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-07-13 16:13:43,988 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 16:13:43,988 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-07-13 16:13:44,052 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.text.TextPlatformFactory#0'
+2013-07-13 16:13:44,067 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-07-13 16:13:44,119 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 16:13:44,137 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSynthesizedOutput)
+2013-07-13 16:13:44,137 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.text.TextSynthesizedOutputFactory for type 'text'
+2013-07-13 16:13:44,146 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSpokenInput)
+2013-07-13 16:13:44,146 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.text.TextSpokenInputFactory for type 'text'
+2013-07-13 16:13:44,152 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextTelephony)
+2013-07-13 16:13:44,153 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.text.TextTelephonyFactory for type 'text'
+2013-07-13 16:13:44,336 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-07-13 16:13:44,450 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-07-13 16:13:44,455 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory#0'
+2013-07-13 16:13:44,485 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory#0'
+2013-07-13 16:13:44,505 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-07-13 16:13:44,627 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory#0'
+2013-07-13 16:13:44,781 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory#0'
+2013-07-13 16:13:44,844 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory#0'
+2013-07-13 16:13:44,864 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-07-13 16:13:44,919 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.ResourceFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 16:13:44,920 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-07-13 16:13:44,945 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory#0'
+2013-07-13 16:13:44,961 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2013-07-13 16:13:44,974 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory for type 'mrcpv2'
+2013-07-13 16:13:44,976 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2013-07-13 16:13:44,976 [JVoiceXmlMain       ] INFO   .implementation.mrcpv2.Mrcpv2SpokenInput (   132) - Opening mrcpv2 spoken input.
+2013-07-13 16:13:44,976 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory for type 'mrcpv2'
+2013-07-13 16:13:44,984 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SynthesizedOutput)
+2013-07-13 16:13:45,661 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory for type 'jsapi10'
+2013-07-13 16:13:45,663 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SpokenInput)
+2013-07-13 16:13:49,154 [JVoiceXmlMain       ] INFO   mplementation.jsapi10.Jsapi10SpokenInput (   530) - passivated spoken input
+2013-07-13 16:13:49,154 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory for type 'jsapi10'
+2013-07-13 16:13:49,155 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10TelephonySupport)
+2013-07-13 16:13:49,156 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory for type 'jsapi10'
+2013-07-13 16:13:49,156 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2013-07-13 16:13:49,157 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory for type 'dummy'
+2013-07-13 16:13:49,157 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   160) - available synthesizers:
+2013-07-13 16:13:49,157 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'text'
+2013-07-13 16:13:49,157 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'mrcpv2'
+2013-07-13 16:13:49,157 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'jsapi10'
+2013-07-13 16:13:49,157 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   171) - available recognizers:
+2013-07-13 16:13:49,157 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'text'
+2013-07-13 16:13:49,157 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'mrcpv2'
+2013-07-13 16:13:49,157 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'jsapi10'
+2013-07-13 16:13:49,158 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   182) - available telephones:
+2013-07-13 16:13:49,158 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'text'
+2013-07-13 16:13:49,158 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'dummy'
+2013-07-13 16:13:49,158 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'jsapi10'
+2013-07-13 16:13:49,231 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-07-13 16:13:49,294 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier#0'
+2013-07-13 16:13:49,295 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier#0'
+2013-07-13 16:13:49,295 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier#0'
+2013-07-13 16:13:49,296 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier#0'
+2013-07-13 16:13:49,296 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier#0'
+2013-07-13 16:13:49,296 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier for type 'application/srgs+xml'
+2013-07-13 16:13:49,297 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier for type 'application/srgs'
+2013-07-13 16:13:49,297 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier for type 'application/x-jsgf'
+2013-07-13 16:13:49,297 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier for type 'application/x-nuance-dynagram-binary'
+2013-07-13 16:13:49,297 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier for type 'application/x-nuance-gsl'
+2013-07-13 16:13:49,347 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'...
+2013-07-13 16:13:49,400 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-client-mrcpv2.jar' does not exist
+2013-07-13 16:13:49,425 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'callmanager'
+2013-07-13 16:13:49,682 [JVoiceXmlMain       ] INFO         org.speechforge.cairo.sip.SipAgent (   248) - Create Lisenting point: 141.31.8.125 5090 UDP
+2013-07-13 16:13:49,928 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   124) - loaded applications:
+2013-07-13 16:13:49,928 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 1000: http://141.31.8.117/test3.vxml
+2013-07-13 16:13:49,928 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 2000: file:///work/zanzibar/src/main/voicexml/hello.vxml
+2013-07-13 16:13:49,929 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 3000: file:///work/zanzibar/src/main/voicexml/test.vxml
+2013-07-13 16:13:49,929 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   397) - startup mrcp sip callManager
+2013-07-13 16:13:49,929 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   401) - started call manager 'org.jvoicexml.callmanager.mrcpv2.SipCallManager@791f2f08'
+2013-07-13 16:13:50,006 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   357) - VoiceXML interpreter 0.7.6.EA startedddddddddddddd !!.
+2013-07-13 16:14:36,812 [EventScannerThread  ] WARN   rg.speechforge.cairo.sip.SipListenerImpl (   298) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2013-07-13 16:14:37,812 [EventScannerThread  ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1000'
+2013-07-13 16:14:37,816 [EventScannerThread  ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://141.31.8.117/test3.vxml'...
+2013-07-13 16:14:37,919 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-07-13 16:14:37,997 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2013-07-13 16:14:37,998 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2013-07-13 16:14:38,005 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2013-07-13 16:14:38,005 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2013-07-13 16:14:38,006 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2013-07-13 16:14:38,014 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2013-07-13 16:14:38,015 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2013-07-13 16:14:38,016 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 16:14:38,016 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2013-07-13 16:14:38,016 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 16:14:38,016 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2013-07-13 16:14:38,016 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2013-07-13 16:14:38,016 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2013-07-13 16:14:38,017 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2013-07-13 16:14:38,043 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2              org.jvoicexml.JVoiceXmlMain (   187) - created session 76c9ff27-e2b1-406c-9b8a-45f91185e9c2
+2013-07-13 16:14:38,045 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://141.31.8.117/test3.vxml...
+2013-07-13 16:14:38,293 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1000' using protocol 'null' version 'null'...
+2013-07-13 16:14:38,474 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2013-07-13 16:14:38,668 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 16:14:38,723 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 16:14:38,723 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2013-07-13 16:14:38,819 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 16:14:38,879 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 16:14:38,880 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2013-07-13 16:14:38,956 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 16:14:39,006 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 16:14:39,008 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'D13fd86228a0S000001'
+2013-07-13 16:14:39,008 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2013-07-13 16:14:39,009 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2013-07-13 16:14:39,009 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2013-07-13 16:14:39,046 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 16:14:39,088 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 16:14:39,164 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'...
+2013-07-13 16:14:39,211 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.TagStrategyFactory'
+2013-07-13 16:14:39,228 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 gstrategy.JVoiceXmlTagStrategyRepository (    97) - added tag strategy factory 'class org.jvoicexml.interpreter.tagstrategy.JVoiceXmlTagStrategyFactory' for namespace 'http://www.w3.org/2001/vxml'
+2013-07-13 16:14:39,228 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'D13fd86228a0S000001'...
+2013-07-13 16:14:39,236 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .interpreter.FormInterpretationAlgorithm (   295) - found 0 form items in dialog 'D13fd86228a0S000001'...
+2013-07-13 16:14:39,236 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'D13fd86228a0S000001'...
+2013-07-13 16:14:39,236 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'D13fd86228a0S000001'...
+2013-07-13 16:14:39,236 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .interpreter.FormInterpretationAlgorithm (   463) - no next element in dialog 'D13fd86228a0S000001'. Exiting mainLoop...
+2013-07-13 16:14:39,236 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2013-07-13 16:14:39,237 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2013-07-13 16:14:39,237 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 l.interpreter.VoiceXmlInterpreterContext (   512) - no more documents to process for 'Unknown application'
+2013-07-13 16:14:39,237 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'application'...
+2013-07-13 16:14:39,237 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2013-07-13 16:14:39,237 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2013-07-13 16:14:39,237 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2013-07-13 16:14:39,237 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2013-07-13 16:14:39,238 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2013-07-13 16:14:39,238 [6c-9b8a-45f91185e9c2] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2013-07-13 16:14:47,247 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 16:15:19,249 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 16:28:09,821 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   269) - removed config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/.mrcpv2-callmanager.xml.swp'
+2013-07-13 22:28:01,001 [EventScannerThread  ] WARN  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 rg.speechforge.cairo.sip.SipListenerImpl (   298) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2013-07-13 22:28:01,211 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1000'
+2013-07-13 22:28:01,211 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://141.31.8.117/test3.vxml'...
+2013-07-13 22:28:01,324 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-07-13 22:28:01,373 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2013-07-13 22:28:01,373 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:28:01,374 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:28:01,374 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2013-07-13 22:28:01,375 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2013-07-13 22:28:01,375 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2013-07-13 22:28:01,375 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2013-07-13 22:28:01,376 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:28:01,376 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2013-07-13 22:28:01,376 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:28:01,376 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2013-07-13 22:28:01,376 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2013-07-13 22:28:01,377 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2013-07-13 22:28:01,377 [EventScannerThread  ] INFO  76c9ff27-e2b1-406c-9b8a-45f91185e9c2 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2013-07-13 22:28:01,377 [EventScannerThread  ] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe              org.jvoicexml.JVoiceXmlMain (   187) - created session f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe
+2013-07-13 22:28:01,377 [EventScannerThread  ] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://141.31.8.117/test3.vxml...
+2013-07-13 22:28:01,456 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1000' using protocol 'null' version 'null'...
+2013-07-13 22:28:01,458 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2013-07-13 22:28:01,494 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:28:01,535 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:28:01,535 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2013-07-13 22:28:01,611 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:28:01,662 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:28:01,667 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2013-07-13 22:28:01,721 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:28:01,767 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:28:01,768 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'D13fd9b7ff68S000002'
+2013-07-13 22:28:01,768 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2013-07-13 22:28:01,774 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2013-07-13 22:28:01,775 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2013-07-13 22:28:01,830 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:28:01,877 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:28:01,877 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'D13fd9b7ff68S000002'...
+2013-07-13 22:28:01,886 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .interpreter.FormInterpretationAlgorithm (   295) - found 0 form items in dialog 'D13fd9b7ff68S000002'...
+2013-07-13 22:28:01,886 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'D13fd9b7ff68S000002'...
+2013-07-13 22:28:01,886 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'D13fd9b7ff68S000002'...
+2013-07-13 22:28:01,886 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe .interpreter.FormInterpretationAlgorithm (   463) - no next element in dialog 'D13fd9b7ff68S000002'. Exiting mainLoop...
+2013-07-13 22:28:01,887 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2013-07-13 22:28:01,890 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2013-07-13 22:28:01,890 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe l.interpreter.VoiceXmlInterpreterContext (   512) - no more documents to process for 'Unknown application'
+2013-07-13 22:28:01,890 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'application'...
+2013-07-13 22:28:01,891 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2013-07-13 22:28:01,891 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2013-07-13 22:28:01,892 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2013-07-13 22:28:01,892 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2013-07-13 22:28:01,892 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2013-07-13 22:28:01,892 [0b-bd3f-381a9ddfc3fe] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2013-07-13 22:28:09,906 [EventScannerThread  ] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 22:28:41,903 [EventScannerThread  ] INFO  f0edc040-55bd-4e0b-bd3f-381a9ddfc3fe rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 22:34:31,162 [main                ] INFO             org.jvoicexml.startup.Shutdown (    93) - security manager set to java.rmi.RMISecurityManager@41607b27
+2013-07-13 22:34:31,300 [main                ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-07-13 22:34:33,081 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-07-13 22:34:33,096 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-07-13 22:34:33,145 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-07-13 22:34:33,146 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-07-13 22:34:33,146 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:34:33,146 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:34:33,146 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-07-13 22:34:33,147 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-07-13 22:34:33,375 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j-dd.xml'
+2013-07-13 22:34:33,376 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-07-13 22:34:33,376 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-07-13 22:34:33,377 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 22:34:33,377 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-07-13 22:34:33,377 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-07-13 22:34:33,389 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:34:33,389 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-07-13 22:34:33,390 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-07-13 22:34:33,397 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 22:34:33,397 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 22:34:33,406 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 22:34:33,761 [main                ] FATAL            org.jvoicexml.startup.Shutdown (   105) - no remote shutdown configured
+2013-07-13 22:34:34,827 [ShutdownHook        ] INFO        org.jvoicexml.JVoiceXmlShutdownHook (    66) - JVoiceXML interrupted! Shutting down...
+2013-07-13 22:34:34,830 [ShutdownHook        ] INFO                org.jvoicexml.JVoiceXmlMain (   425) - received shutdown request
+2013-07-13 22:34:34,831 [ShutdownWaiter      ] INFO                org.jvoicexml.JVoiceXmlMain (   434) - shutting down JVoiceXml...
+2013-07-13 22:35:57,950 [main                ] INFO             org.jvoicexml.startup.Shutdown (    93) - security manager set to java.rmi.RMISecurityManager@41607b27
+2013-07-13 22:35:58,008 [main                ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-07-13 22:35:58,840 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-07-13 22:35:58,841 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-07-13 22:35:58,866 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-07-13 22:35:58,866 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-07-13 22:35:58,866 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:35:58,866 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:35:58,867 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-07-13 22:35:58,867 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-07-13 22:35:58,975 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j-dd.xml'
+2013-07-13 22:35:58,975 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-07-13 22:35:58,976 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-07-13 22:35:58,976 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 22:35:58,976 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-07-13 22:35:58,977 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-07-13 22:35:58,979 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:35:58,980 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-07-13 22:35:58,980 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-07-13 22:35:58,980 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 22:35:58,981 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 22:35:58,986 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 22:35:59,148 [main                ] FATAL            org.jvoicexml.startup.Shutdown (   105) - no remote shutdown configured
+2013-07-13 22:36:39,362 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   103) - ----------------------------------------------------
+2013-07-13 22:36:39,368 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   104) - starting VoiceXML interpreter 0.7.6.EA...
+2013-07-13 22:36:39,380 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-07-13 22:36:40,094 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-07-13 22:36:40,095 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-07-13 22:36:40,123 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-07-13 22:36:40,124 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-07-13 22:36:40,124 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:36:40,124 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:36:40,125 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-07-13 22:36:40,125 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-07-13 22:36:40,201 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j-dd.xml'
+2013-07-13 22:36:40,202 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-07-13 22:36:40,202 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-07-13 22:36:40,202 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 22:36:40,203 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-07-13 22:36:40,205 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-07-13 22:36:40,206 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:36:40,206 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-07-13 22:36:40,206 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-07-13 22:36:40,207 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 22:36:40,212 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 22:36:40,212 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 22:36:40,214 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   306) - using configuration 'org.jvoicexml.config.JVoiceXmlConfiguration'
+2013-07-13 22:36:40,214 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   308) - testingggggg Logger info
+2013-07-13 22:36:40,376 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-07-13 22:36:40,552 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-07-13 22:36:40,562 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 22:36:40,563 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-07-13 22:36:40,632 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 22:36:40,633 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-07-13 22:36:40,698 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.text.TextPlatformFactory#0'
+2013-07-13 22:36:40,718 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-07-13 22:36:40,764 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 22:36:40,783 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSynthesizedOutput)
+2013-07-13 22:36:40,784 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.text.TextSynthesizedOutputFactory for type 'text'
+2013-07-13 22:36:40,793 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSpokenInput)
+2013-07-13 22:36:40,793 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.text.TextSpokenInputFactory for type 'text'
+2013-07-13 22:36:40,802 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextTelephony)
+2013-07-13 22:36:40,803 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.text.TextTelephonyFactory for type 'text'
+2013-07-13 22:36:40,984 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-07-13 22:36:41,100 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-07-13 22:36:41,111 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory#0'
+2013-07-13 22:36:41,139 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory#0'
+2013-07-13 22:36:41,165 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-07-13 22:36:41,289 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory#0'
+2013-07-13 22:36:41,446 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory#0'
+2013-07-13 22:36:41,505 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory#0'
+2013-07-13 22:36:41,523 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-07-13 22:36:41,582 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.ResourceFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 22:36:41,583 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-07-13 22:36:41,609 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory#0'
+2013-07-13 22:36:41,634 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2013-07-13 22:36:41,640 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory for type 'mrcpv2'
+2013-07-13 22:36:41,642 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2013-07-13 22:36:41,642 [JVoiceXmlMain       ] INFO   .implementation.mrcpv2.Mrcpv2SpokenInput (   132) - Opening mrcpv2 spoken input.
+2013-07-13 22:36:41,642 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory for type 'mrcpv2'
+2013-07-13 22:36:41,650 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SynthesizedOutput)
+2013-07-13 22:36:42,380 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory for type 'jsapi10'
+2013-07-13 22:36:42,383 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SpokenInput)
+2013-07-13 22:36:46,616 [JVoiceXmlMain       ] INFO   mplementation.jsapi10.Jsapi10SpokenInput (   530) - passivated spoken input
+2013-07-13 22:36:46,616 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory for type 'jsapi10'
+2013-07-13 22:36:46,617 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10TelephonySupport)
+2013-07-13 22:36:46,617 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory for type 'jsapi10'
+2013-07-13 22:36:46,618 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2013-07-13 22:36:46,618 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory for type 'dummy'
+2013-07-13 22:36:46,618 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   160) - available synthesizers:
+2013-07-13 22:36:46,619 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'text'
+2013-07-13 22:36:46,619 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'mrcpv2'
+2013-07-13 22:36:46,619 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'jsapi10'
+2013-07-13 22:36:46,619 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   171) - available recognizers:
+2013-07-13 22:36:46,619 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'text'
+2013-07-13 22:36:46,619 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'mrcpv2'
+2013-07-13 22:36:46,619 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'jsapi10'
+2013-07-13 22:36:46,619 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   182) - available telephones:
+2013-07-13 22:36:46,620 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'text'
+2013-07-13 22:36:46,620 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'dummy'
+2013-07-13 22:36:46,620 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'jsapi10'
+2013-07-13 22:36:46,696 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-07-13 22:36:46,762 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier#0'
+2013-07-13 22:36:46,763 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier#0'
+2013-07-13 22:36:46,763 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier#0'
+2013-07-13 22:36:46,764 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier#0'
+2013-07-13 22:36:46,764 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier#0'
+2013-07-13 22:36:46,765 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier for type 'application/srgs+xml'
+2013-07-13 22:36:46,765 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier for type 'application/srgs'
+2013-07-13 22:36:46,765 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier for type 'application/x-jsgf'
+2013-07-13 22:36:46,765 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier for type 'application/x-nuance-dynagram-binary'
+2013-07-13 22:36:46,765 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier for type 'application/x-nuance-gsl'
+2013-07-13 22:36:46,819 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'...
+2013-07-13 22:36:46,874 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-client-mrcpv2.jar' does not exist
+2013-07-13 22:36:46,896 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'callmanager'
+2013-07-13 22:36:47,144 [JVoiceXmlMain       ] INFO         org.speechforge.cairo.sip.SipAgent (   248) - Create Lisenting point: 141.31.8.125 5090 UDP
+2013-07-13 22:36:47,517 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   124) - loaded applications:
+2013-07-13 22:36:47,517 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 1000: http://141.31.8.117/test-working.vxml
+2013-07-13 22:36:47,517 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 2000: file:///work/zanzibar/src/main/voicexml/hello.vxml
+2013-07-13 22:36:47,518 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 3000: file:///work/zanzibar/src/main/voicexml/test.vxml
+2013-07-13 22:36:47,518 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   397) - startup mrcp sip callManager
+2013-07-13 22:36:47,518 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   401) - started call manager 'org.jvoicexml.callmanager.mrcpv2.SipCallManager@453e22ee'
+2013-07-13 22:36:47,602 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   357) - VoiceXML interpreter 0.7.6.EA startedddddddddddddd !!.
+2013-07-13 22:36:57,371 [EventScannerThread  ] WARN   rg.speechforge.cairo.sip.SipListenerImpl (   298) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2013-07-13 22:36:58,028 [EventScannerThread  ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1000'
+2013-07-13 22:36:58,029 [EventScannerThread  ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://141.31.8.117/test-working.vxml'...
+2013-07-13 22:36:58,126 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-07-13 22:36:58,203 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2013-07-13 22:36:58,204 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:36:58,205 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:36:58,205 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2013-07-13 22:36:58,206 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2013-07-13 22:36:58,214 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2013-07-13 22:36:58,215 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2013-07-13 22:36:58,215 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:36:58,215 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2013-07-13 22:36:58,216 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:36:58,216 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2013-07-13 22:36:58,216 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2013-07-13 22:36:58,216 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2013-07-13 22:36:58,216 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2013-07-13 22:36:58,244 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd              org.jvoicexml.JVoiceXmlMain (   187) - created session 34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd
+2013-07-13 22:36:58,246 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://141.31.8.117/test-working.vxml...
+2013-07-13 22:36:58,479 [EventScannerThread  ] ERROR 34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd g.jvoicexml.interpreter.JVoiceXmlSession (   207) - error while calling 'http://141.31.8.117/test-working.vxml'
+org.jvoicexml.event.error.BadFetchError: error.badfetch: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.readDocument(JVoiceXmlDocumentServer.java:181)
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.getDocument(JVoiceXmlDocumentServer.java:207)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.acquireVoiceXmlDocument(VoiceXmlInterpreterContext.java:722)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.loadDocument(VoiceXmlInterpreterContext.java:678)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.call(JVoiceXmlSession.java:196)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.startNewMrcpDialog(SipCallManager.java:267)
+	at org.speechforge.zanzibar.sip.SipServer.startupSpeechlet(SipServer.java:434)
+	at org.speechforge.zanzibar.sip.SipServer.processInviteResponse(SipServer.java:386)
+	at org.speechforge.cairo.sip.SipListenerImpl.processResponse(SipListenerImpl.java:264)
+	at gov.nist.javax.sip.EventScanner.deliverEvent(EventScanner.java:290)
+	at gov.nist.javax.sip.EventScanner.run(EventScanner.java:492)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:251)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:300)
+	at org.jvoicexml.xml.XmlDocument.<init>(XmlDocument.java:172)
+	at org.jvoicexml.xml.vxml.VoiceXmlDocument.<init>(VoiceXmlDocument.java:124)
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.readDocument(JVoiceXmlDocumentServer.java:177)
+	... 11 more
+2013-07-13 22:36:58,482 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2013-07-13 22:36:58,482 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2013-07-13 22:36:58,482 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2013-07-13 22:36:58,482 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2013-07-13 22:36:58,483 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2013-07-13 22:36:58,483 [EventScannerThread  ] WARN  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd voicexml.interpreter.scope.ScopeObserver (   110) - mismatched scope order. cannot exit 'session'
+2013-07-13 22:36:58,483 [EventScannerThread  ] WARN  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd voicexml.interpreter.scope.ScopeObserver (   112) - current scope stack: []
+2013-07-13 22:36:58,483 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2013-07-13 22:36:58,531 [EventScannerThread  ] ERROR 34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd icexml.callmanager.mrcpv2.SipCallManager (   272) - error.badfetch: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+org.jvoicexml.event.error.BadFetchError: error.badfetch: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.readDocument(JVoiceXmlDocumentServer.java:181)
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.getDocument(JVoiceXmlDocumentServer.java:207)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.acquireVoiceXmlDocument(VoiceXmlInterpreterContext.java:722)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.loadDocument(VoiceXmlInterpreterContext.java:678)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.call(JVoiceXmlSession.java:196)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.startNewMrcpDialog(SipCallManager.java:267)
+	at org.speechforge.zanzibar.sip.SipServer.startupSpeechlet(SipServer.java:434)
+	at org.speechforge.zanzibar.sip.SipServer.processInviteResponse(SipServer.java:386)
+	at org.speechforge.cairo.sip.SipListenerImpl.processResponse(SipListenerImpl.java:264)
+	at gov.nist.javax.sip.EventScanner.deliverEvent(EventScanner.java:290)
+	at gov.nist.javax.sip.EventScanner.run(EventScanner.java:492)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:251)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:300)
+	at org.jvoicexml.xml.XmlDocument.<init>(XmlDocument.java:172)
+	at org.jvoicexml.xml.vxml.VoiceXmlDocument.<init>(VoiceXmlDocument.java:124)
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.readDocument(JVoiceXmlDocumentServer.java:177)
+	... 11 more
+2013-07-13 22:37:06,503 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 22:37:19,306 [EventScannerThread  ] WARN  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd rg.speechforge.cairo.sip.SipListenerImpl (   298) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2013-07-13 22:37:19,451 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1000'
+2013-07-13 22:37:19,451 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://141.31.8.117/test-working.vxml'...
+2013-07-13 22:37:19,559 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-07-13 22:37:19,614 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2013-07-13 22:37:19,615 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:37:19,615 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:37:19,615 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2013-07-13 22:37:19,616 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2013-07-13 22:37:19,616 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2013-07-13 22:37:19,617 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2013-07-13 22:37:19,617 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:37:19,617 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2013-07-13 22:37:19,617 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:37:19,617 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2013-07-13 22:37:19,618 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2013-07-13 22:37:19,618 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2013-07-13 22:37:19,618 [EventScannerThread  ] INFO  34dc0fbe-0bbe-4fc1-8fbd-a3ec974588bd tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2013-07-13 22:37:19,622 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4              org.jvoicexml.JVoiceXmlMain (   187) - created session b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4
+2013-07-13 22:37:19,623 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://141.31.8.117/test-working.vxml...
+2013-07-13 22:37:19,633 [EventScannerThread  ] ERROR b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 g.jvoicexml.interpreter.JVoiceXmlSession (   207) - error while calling 'http://141.31.8.117/test-working.vxml'
+org.jvoicexml.event.error.BadFetchError: error.badfetch: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.readDocument(JVoiceXmlDocumentServer.java:181)
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.getDocument(JVoiceXmlDocumentServer.java:207)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.acquireVoiceXmlDocument(VoiceXmlInterpreterContext.java:722)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.loadDocument(VoiceXmlInterpreterContext.java:678)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.call(JVoiceXmlSession.java:196)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.startNewMrcpDialog(SipCallManager.java:267)
+	at org.speechforge.zanzibar.sip.SipServer.startupSpeechlet(SipServer.java:434)
+	at org.speechforge.zanzibar.sip.SipServer.processInviteResponse(SipServer.java:386)
+	at org.speechforge.cairo.sip.SipListenerImpl.processResponse(SipListenerImpl.java:264)
+	at gov.nist.javax.sip.EventScanner.deliverEvent(EventScanner.java:290)
+	at gov.nist.javax.sip.EventScanner.run(EventScanner.java:492)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:251)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:300)
+	at org.jvoicexml.xml.XmlDocument.<init>(XmlDocument.java:172)
+	at org.jvoicexml.xml.vxml.VoiceXmlDocument.<init>(VoiceXmlDocument.java:124)
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.readDocument(JVoiceXmlDocumentServer.java:177)
+	... 11 more
+2013-07-13 22:37:19,634 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2013-07-13 22:37:19,634 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2013-07-13 22:37:19,634 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2013-07-13 22:37:19,634 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2013-07-13 22:37:19,634 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2013-07-13 22:37:19,634 [EventScannerThread  ] WARN  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 voicexml.interpreter.scope.ScopeObserver (   110) - mismatched scope order. cannot exit 'session'
+2013-07-13 22:37:19,635 [EventScannerThread  ] WARN  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 voicexml.interpreter.scope.ScopeObserver (   112) - current scope stack: []
+2013-07-13 22:37:19,635 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2013-07-13 22:37:19,649 [EventScannerThread  ] ERROR b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 icexml.callmanager.mrcpv2.SipCallManager (   272) - error.badfetch: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+org.jvoicexml.event.error.BadFetchError: error.badfetch: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.readDocument(JVoiceXmlDocumentServer.java:181)
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.getDocument(JVoiceXmlDocumentServer.java:207)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.acquireVoiceXmlDocument(VoiceXmlInterpreterContext.java:722)
+	at org.jvoicexml.interpreter.VoiceXmlInterpreterContext.loadDocument(VoiceXmlInterpreterContext.java:678)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.call(JVoiceXmlSession.java:196)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.startNewMrcpDialog(SipCallManager.java:267)
+	at org.speechforge.zanzibar.sip.SipServer.startupSpeechlet(SipServer.java:434)
+	at org.speechforge.zanzibar.sip.SipServer.processInviteResponse(SipServer.java:386)
+	at org.speechforge.cairo.sip.SipListenerImpl.processResponse(SipListenerImpl.java:264)
+	at gov.nist.javax.sip.EventScanner.deliverEvent(EventScanner.java:290)
+	at gov.nist.javax.sip.EventScanner.run(EventScanner.java:492)
+	at java.lang.Thread.run(Thread.java:722)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 10; The string "--" is not permitted within comments.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:251)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:300)
+	at org.jvoicexml.xml.XmlDocument.<init>(XmlDocument.java:172)
+	at org.jvoicexml.xml.vxml.VoiceXmlDocument.<init>(VoiceXmlDocument.java:124)
+	at org.jvoicexml.documentserver.JVoiceXmlDocumentServer.readDocument(JVoiceXmlDocumentServer.java:177)
+	... 11 more
+2013-07-13 22:37:27,639 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 22:37:38,493 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 22:37:59,649 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 22:38:40,944 [EventScannerThread  ] WARN  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 rg.speechforge.cairo.sip.SipListenerImpl (   298) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2013-07-13 22:38:41,050 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1000'
+2013-07-13 22:38:41,051 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://141.31.8.117/test-working.vxml'...
+2013-07-13 22:38:41,137 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-07-13 22:38:41,177 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2013-07-13 22:38:41,178 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:38:41,178 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:38:41,179 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2013-07-13 22:38:41,179 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2013-07-13 22:38:41,179 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2013-07-13 22:38:41,180 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2013-07-13 22:38:41,180 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:38:41,180 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2013-07-13 22:38:41,181 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:38:41,181 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2013-07-13 22:38:41,181 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2013-07-13 22:38:41,181 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2013-07-13 22:38:41,181 [EventScannerThread  ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2013-07-13 22:38:41,181 [EventScannerThread  ] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19              org.jvoicexml.JVoiceXmlMain (   187) - created session b342df28-cbd2-4dd6-a2da-bc5f56df8b19
+2013-07-13 22:38:41,182 [EventScannerThread  ] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://141.31.8.117/test-working.vxml...
+2013-07-13 22:38:41,193 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1000' using protocol 'null' version 'null'...
+2013-07-13 22:38:41,271 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2013-07-13 22:38:41,317 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:38:41,355 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:38:41,356 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2013-07-13 22:38:41,387 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:38:41,420 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:38:41,420 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2013-07-13 22:38:41,503 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:38:41,566 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:38:41,568 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'D13fd9c1c2a0S000001'
+2013-07-13 22:38:41,568 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2013-07-13 22:38:41,569 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2013-07-13 22:38:41,569 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2013-07-13 22:38:41,660 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:38:41,721 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:38:41,816 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'...
+2013-07-13 22:38:41,882 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.TagStrategyFactory'
+2013-07-13 22:38:41,899 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 gstrategy.JVoiceXmlTagStrategyRepository (    97) - added tag strategy factory 'class org.jvoicexml.interpreter.tagstrategy.JVoiceXmlTagStrategyFactory' for namespace 'http://www.w3.org/2001/vxml'
+2013-07-13 22:38:41,899 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'D13fd9c1c2a0S000001'...
+2013-07-13 22:38:41,974 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 l.interpreter.formitem.AbstractInputItem (   234) - initialized input form item 'answer' with 'null'
+2013-07-13 22:38:41,974 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .interpreter.FormInterpretationAlgorithm (   295) - found 1 form items in dialog 'D13fd9c1c2a0S000001'...
+2013-07-13 22:38:41,975 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'D13fd9c1c2a0S000001'...
+2013-07-13 22:38:41,975 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'D13fd9c1c2a0S000001'...
+2013-07-13 22:38:41,977 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'D13fd9c1c2a0S000001' is 'answer'
+2013-07-13 22:38:41,978 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2013-07-13 22:38:41,978 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .interpreter.FormInterpretationAlgorithm (   598) - collecting 'answer'...
+2013-07-13 22:38:41,993 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2013-07-13 22:38:41,993 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   436) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1000,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@15320ddcttsClientorg.speechforge.cairo.client.SpeechClientImpl@15320ddc]'
+2013-07-13 22:38:41,994 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   302) - borrowed system output of type 'mrcpv2'
+2013-07-13 22:38:41,994 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2013-07-13 22:38:41,996 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   494) - borrowed call control of type 'dummy'
+2013-07-13 22:38:41,996 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   183) - Queue count incremented,, now 1
+2013-07-13 22:38:42,674 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2013-07-13 22:38:42,675 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .implementation.mrcpv2.Mrcpv2SpokenInput (   366) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1000,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@15320ddcttsClientorg.speechforge.cairo.client.SpeechClientImpl@15320ddc]'
+2013-07-13 22:38:42,676 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   403) - borrowed user input of type 'mrcpv2'
+2013-07-13 22:38:50,384 [Thread-37           ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   537) - Queue count decremented, now 0
+2013-07-13 22:38:50,385 [Thread-37           ] WARN  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .implementation.mrcpv2.Mrcpv2SpokenInput (   526) - Speech Synth event received not implemented in SpokenInput: SPEAK_COMPLETE
+2013-07-13 22:38:50,511 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 lementation.jvxml.BufferedCharacterInput (   189) - started DTMF recognition
+2013-07-13 22:38:50,512 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state TRANSITIONING
+2013-07-13 22:38:50,512 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .interpreter.FormInterpretationAlgorithm (   653) - processing 'answer'...
+2013-07-13 22:38:50,512 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2013-07-13 22:38:51,404 [Thread-38           ] WARN  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   558) - mrcpv2synthesized output received a recog event.Discarding it.
+2013-07-13 22:38:51,420 [Thread-38           ] WARN  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 plementation.jvxml.JVoiceXmlSystemOutput (    97) - implementation platform does not support barge-in
+2013-07-13 22:38:52,833 [Thread-38           ] WARN  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   558) - mrcpv2synthesized output received a recog event.Discarding it.
+2013-07-13 22:38:52,835 [Thread-38           ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 on.jvxml.JVoiceXmlImplementationPlatform (   666) - accepted recognition 'no'
+2013-07-13 22:38:52,836 [Thread-38           ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .interpreter.event.JVoiceXmlEventHandler (   532) - notified event 'org.jvoicexml.event.plain.jvxml.RecognitionEvent'
+2013-07-13 22:38:52,839 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 lementation.jvxml.BufferedCharacterInput (   222) - stopped DTMF recognition
+2013-07-13 22:38:52,847 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 ter.event.AbstractInputItemEventStrategy (   210) - all input items of 'answer' are filled
+2013-07-13 22:38:52,851 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   183) - Queue count incremented,, now 1
+2013-07-13 22:38:52,886 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'D13fd9c1c2a0S000001'...
+2013-07-13 22:38:52,895 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .interpreter.FormInterpretationAlgorithm (   463) - no next element in dialog 'D13fd9c1c2a0S000001'. Exiting mainLoop...
+2013-07-13 22:38:52,895 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2013-07-13 22:38:52,896 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2013-07-13 22:38:52,896 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 l.interpreter.VoiceXmlInterpreterContext (   512) - no more documents to process for 'Unknown application'
+2013-07-13 22:38:52,896 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'application'...
+2013-07-13 22:38:52,896 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2013-07-13 22:38:52,896 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2013-07-13 22:38:54,033 [Thread-37           ] INFO  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   537) - Queue count decremented, now 0
+2013-07-13 22:38:54,033 [Thread-37           ] WARN  b36f96fb-0ab4-48ea-8eb1-2c4315a4ead4 .implementation.mrcpv2.Mrcpv2SpokenInput (   526) - Speech Synth event received not implemented in SpokenInput: SPEAK_COMPLETE
+2013-07-13 22:38:54,033 [d6-a2da-bc5f56df8b19] WARN  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 .implementation.mrcpv2.Mrcpv2SpokenInput (   446) - isBusy check is not implemented.
+2013-07-13 22:38:54,034 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2013-07-13 22:38:54,034 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2013-07-13 22:38:54,034 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput) to pool
+2013-07-13 22:38:54,034 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   337) - returned system output of type 'mrcpv2'
+2013-07-13 22:38:54,034 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2013-07-13 22:38:54,034 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput) to pool
+2013-07-13 22:38:54,034 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   447) - returned user input of type 'mrcpv2'
+2013-07-13 22:38:54,035 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   908) - telephony connection closed
+2013-07-13 22:38:54,035 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2013-07-13 22:38:54,035 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport) to pool
+2013-07-13 22:38:54,035 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   532) - returned call control of type 'dummy'
+2013-07-13 22:38:54,038 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2013-07-13 22:38:54,038 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2013-07-13 22:38:54,038 [d6-a2da-bc5f56df8b19] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2013-07-13 22:38:54,063 [d6-a2da-bc5f56df8b19] ERROR b342df28-cbd2-4dd6-a2da-bc5f56df8b19 icexml.callmanager.mrcpv2.SipCallManager (   168) - MRCP response contains an error code, the request invocation did not complete successfully.
+org.mrcp4j.client.MrcpInvocationException: MRCP response contains an error code, the request invocation did not complete successfully.
+	at org.mrcp4j.client.MrcpChannel.sendRequest(MrcpChannel.java:143)
+	at org.speechforge.cairo.client.SpeechClientImpl.stopActiveRecognitionRequests(SpeechClientImpl.java:1120)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.cleanupSession(SipCallManager.java:165)
+	at org.jvoicexml.callmanager.mrcpv2.SipCallManager.sessionEnded(SipCallManager.java:448)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.notifySessionEnded(JVoiceXmlSession.java:432)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.cleanup(JVoiceXmlSession.java:372)
+	at org.jvoicexml.interpreter.JVoiceXmlSession.run(JVoiceXmlSession.java:346)
+2013-07-13 22:39:02,050 [EventScannerThread  ] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 22:39:02,067 [EventScannerThread  ] INFO  b342df28-cbd2-4dd6-a2da-bc5f56df8b19 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 22:41:44,340 [main                ] INFO             org.jvoicexml.startup.Shutdown (    93) - security manager set to java.rmi.RMISecurityManager@41607b27
+2013-07-13 22:41:44,399 [main                ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-07-13 22:41:45,250 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-07-13 22:41:45,253 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-07-13 22:41:45,275 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-07-13 22:41:45,276 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-07-13 22:41:45,276 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:41:45,276 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:41:45,277 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-07-13 22:41:45,277 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-07-13 22:41:45,387 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j-dd.xml'
+2013-07-13 22:41:45,387 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-07-13 22:41:45,388 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-07-13 22:41:45,388 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 22:41:45,389 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-07-13 22:41:45,389 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-07-13 22:41:45,392 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:41:45,392 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-07-13 22:41:45,392 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-07-13 22:41:45,393 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 22:41:45,393 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 22:41:45,398 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 22:41:45,561 [main                ] FATAL            org.jvoicexml.startup.Shutdown (   105) - no remote shutdown configured
+2013-07-13 22:41:46,511 [ShutdownHook        ] INFO        org.jvoicexml.JVoiceXmlShutdownHook (    66) - JVoiceXML interrupted! Shutting down...
+2013-07-13 22:41:46,511 [ShutdownHook        ] INFO                org.jvoicexml.JVoiceXmlMain (   425) - received shutdown request
+2013-07-13 22:41:46,511 [ShutdownWaiter      ] INFO                org.jvoicexml.JVoiceXmlMain (   434) - shutting down JVoiceXml...
+2013-07-13 22:42:28,652 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   103) - ----------------------------------------------------
+2013-07-13 22:42:28,657 [main                ] INFO                org.jvoicexml.JVoiceXmlMain (   104) - starting VoiceXML interpreter 0.7.6.EA...
+2013-07-13 22:42:28,670 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-07-13 22:42:29,391 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-07-13 22:42:29,391 [JVoiceXmlMain       ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-07-13 22:42:29,428 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-07-13 22:42:29,428 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-07-13 22:42:29,428 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:42:29,429 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-13 22:42:29,429 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-07-13 22:42:29,429 [JVoiceXmlMain       ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-07-13 22:42:29,498 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j-dd.xml'
+2013-07-13 22:42:29,498 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-07-13 22:42:29,498 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-07-13 22:42:29,499 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 22:42:29,499 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-07-13 22:42:29,501 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-07-13 22:42:29,502 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:42:29,502 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-07-13 22:42:29,502 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-07-13 22:42:29,503 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 22:42:29,506 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 22:42:29,506 [Thread-1            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 22:42:29,510 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   306) - using configuration 'org.jvoicexml.config.JVoiceXmlConfiguration'
+2013-07-13 22:42:29,510 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   308) - testingggggg Logger info
+2013-07-13 22:42:29,674 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-07-13 22:42:29,834 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-07-13 22:42:29,845 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-13 22:42:29,845 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-07-13 22:42:29,916 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-13 22:42:29,916 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-07-13 22:42:29,981 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.text.TextPlatformFactory#0'
+2013-07-13 22:42:29,995 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-07-13 22:42:30,049 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.PlatformFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-13 22:42:30,068 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSynthesizedOutput)
+2013-07-13 22:42:30,069 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.text.TextSynthesizedOutputFactory for type 'text'
+2013-07-13 22:42:30,077 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextSpokenInput)
+2013-07-13 22:42:30,078 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.text.TextSpokenInputFactory for type 'text'
+2013-07-13 22:42:30,084 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.text.TextTelephony)
+2013-07-13 22:42:30,084 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.text.TextTelephonyFactory for type 'text'
+2013-07-13 22:42:30,263 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'...
+2013-07-13 22:42:30,381 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml.implementation.mrcpv2/3rdparty/zanzibar/lib/zanzibar.jar' does not exist
+2013-07-13 22:42:30,391 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory#0'
+2013-07-13 22:42:30,417 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory#0'
+2013-07-13 22:42:30,448 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'...
+2013-07-13 22:42:30,561 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory#0'
+2013-07-13 22:42:30,727 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory#0'
+2013-07-13 22:42:30,785 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory#0'
+2013-07-13 22:42:30,810 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'...
+2013-07-13 22:42:30,861 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'interface org.jvoicexml.implementation.ResourceFactory' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-13 22:42:30,861 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'...
+2013-07-13 22:42:30,888 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory#0'
+2013-07-13 22:42:30,904 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2013-07-13 22:42:30,917 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutputFactory for type 'mrcpv2'
+2013-07-13 22:42:30,919 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2013-07-13 22:42:30,919 [JVoiceXmlMain       ] INFO   .implementation.mrcpv2.Mrcpv2SpokenInput (   132) - Opening mrcpv2 spoken input.
+2013-07-13 22:42:30,919 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInputFactory for type 'mrcpv2'
+2013-07-13 22:42:30,927 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SynthesizedOutput)
+2013-07-13 22:42:31,610 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   251) - added synthesized output factory class org.jvoicexml.implementation.jsapi10.jvxml.FreeTTSSynthesizedOutputFactory for type 'jsapi10'
+2013-07-13 22:42:31,612 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10SpokenInput)
+2013-07-13 22:42:35,002 [JVoiceXmlMain       ] INFO   mplementation.jsapi10.Jsapi10SpokenInput (   530) - passivated spoken input
+2013-07-13 22:42:35,002 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   269) - added user input factory class org.jvoicexml.implementation.jsapi10.jvxml.Sphinx4SpokenInputFactory for type 'jsapi10'
+2013-07-13 22:42:35,003 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jsapi10.Jsapi10TelephonySupport)
+2013-07-13 22:42:35,003 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jsapi10.Jsapi10TelephonyFactory for type 'jsapi10'
+2013-07-13 22:42:35,004 [JVoiceXmlMain       ] INFO   lementation.pool.PoolableResourceFactory (    74) - created a new resource of type (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2013-07-13 22:42:35,005 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   286) - added telephony factory class org.jvoicexml.implementation.jvxml.DummyTelephonySupportFactory for type 'dummy'
+2013-07-13 22:42:35,005 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   160) - available synthesizers:
+2013-07-13 22:42:35,005 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'text'
+2013-07-13 22:42:35,005 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'mrcpv2'
+2013-07-13 22:42:35,005 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   163) - - 1 instance(s) of type 'jsapi10'
+2013-07-13 22:42:35,005 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   171) - available recognizers:
+2013-07-13 22:42:35,005 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'text'
+2013-07-13 22:42:35,005 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'mrcpv2'
+2013-07-13 22:42:35,005 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   174) - - 1 instance(s) of type 'jsapi10'
+2013-07-13 22:42:35,006 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   182) - available telephones:
+2013-07-13 22:42:35,006 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'text'
+2013-07-13 22:42:35,006 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'dummy'
+2013-07-13 22:42:35,006 [JVoiceXmlMain       ] INFO   l.JVoiceXmlImplementationPlatformFactory (   185) - - 1 instance(s) of type 'jsapi10'
+2013-07-13 22:42:35,081 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-07-13 22:42:35,173 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier#0'
+2013-07-13 22:42:35,174 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier#0'
+2013-07-13 22:42:35,175 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier#0'
+2013-07-13 22:42:35,176 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier#0'
+2013-07-13 22:42:35,176 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier#0'
+2013-07-13 22:42:35,177 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsXmlGrammarIdentifier for type 'application/srgs+xml'
+2013-07-13 22:42:35,177 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.SrgsAbnfGrammarIdentifier for type 'application/srgs'
+2013-07-13 22:42:35,177 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.JsgfGrammarIdentifier for type 'application/x-jsgf'
+2013-07-13 22:42:35,177 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.NuanceDynagramBinaryGrammarIdentifier for type 'application/x-nuance-dynagram-binary'
+2013-07-13 22:42:35,177 [JVoiceXmlMain       ] INFO   rpreter.grammar.GrammarIdentifierCentral (   208) - added grammar identifier class org.jvoicexml.interpreter.grammar.identifier.GslGrammarIdentifier for type 'application/x-nuance-gsl'
+2013-07-13 22:42:35,245 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'...
+2013-07-13 22:42:35,297 [JVoiceXmlMain       ] WARN    org.jvoicexml.config.ClasspathExtractor (   118) - 'file:/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/dist/jvxml-client-mrcpv2.jar' does not exist
+2013-07-13 22:42:35,318 [JVoiceXmlMain       ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'callmanager'
+2013-07-13 22:42:35,825 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   124) - loaded applications:
+2013-07-13 22:42:35,826 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 1000: http://141.31.8.117/test-working.vxml
+2013-07-13 22:42:35,826 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 2000: file:///work/zanzibar/src/main/voicexml/hello.vxml
+2013-07-13 22:42:35,826 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   127) -  - 3000: file:///work/zanzibar/src/main/voicexml/test.vxml
+2013-07-13 22:42:35,826 [JVoiceXmlMain       ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   397) - startup mrcp sip callManager
+2013-07-13 22:42:35,826 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   401) - started call manager 'org.jvoicexml.callmanager.mrcpv2.SipCallManager@6bd0757e'
+2013-07-13 22:42:35,902 [JVoiceXmlMain       ] INFO                org.jvoicexml.JVoiceXmlMain (   357) - VoiceXML interpreter 0.7.6.EA startedddddddddddddd !!.
+2013-07-13 22:42:44,907 [EventScannerThread  ] WARN   rg.speechforge.cairo.sip.SipListenerImpl (   304) - Received an unhandled SIP response status code (ignoring it): 183 : Session progress
+2013-07-13 22:42:45,563 [EventScannerThread  ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   225) - called number: '1000'
+2013-07-13 22:42:45,566 [EventScannerThread  ] INFO   icexml.callmanager.mrcpv2.SipCallManager (   226) - calling application 'http://141.31.8.117/test-working.vxml'...
+2013-07-13 22:42:45,648 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'...
+2013-07-13 22:42:45,728 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer#0'
+2013-07-13 22:42:45,729 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:42:45,730 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer#0'
+2013-07-13 22:42:45,743 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer#0'
+2013-07-13 22:42:45,743 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer#0'
+2013-07-13 22:42:45,744 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer#0'
+2013-07-13 22:42:45,744 [EventScannerThread  ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer#0'
+2013-07-13 22:42:45,745 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsXmlGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:42:45,745 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs'
+2013-07-13 22:42:45,745 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsAbnf2SrgsAbnfGrammarTransformer for type 'application/srgs+xml' to 'application/srgs+xml'
+2013-07-13 22:42:45,745 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Jsgf2JsgfGrammarTransformer for type 'application/x-jsgf' to 'application/x-jsgf'
+2013-07-13 22:42:45,745 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.SrgsXml2JsgfGrammarTransformer for type 'application/srgs+xml' to 'application/x-jsgf'
+2013-07-13 22:42:45,745 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.NuanceDynagramBinaryGrammarTransformer for type 'application/x-nuance-dynagram-binary' to 'application/x-nuance-dynagram-binary'
+2013-07-13 22:42:45,746 [EventScannerThread  ] INFO   tation.grammar.GrammarTransformerCentral (   224) - added grammar transformer class org.jvoicexml.implementation.grammar.transformer.Gsl2GslGrammarTransformer for type 'application/x-nuance-gsl' to 'application/x-nuance-gsl'
+2013-07-13 22:42:45,770 [EventScannerThread  ] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678              org.jvoicexml.JVoiceXmlMain (   187) - created session aac1ca82-cd17-4d4e-97cf-d21230841678
+2013-07-13 22:42:45,772 [EventScannerThread  ] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 l.documentserver.JVoiceXmlDocumentServer (   201) - loading document with URI 'http://141.31.8.117/test-working.vxml...
+2013-07-13 22:42:46,002 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 g.jvoicexml.interpreter.JVoiceXmlSession (   300) - start processing application 'Unknown application' called from 'null' to '1000' using protocol 'null' version 'null'...
+2013-07-13 22:42:46,183 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'session'...
+2013-07-13 22:42:46,373 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:42:46,425 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:42:46,429 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'application'...
+2013-07-13 22:42:46,514 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:42:46,578 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:42:46,579 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'document'...
+2013-07-13 22:42:46,652 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:42:46,696 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:42:46,697 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.VoiceXmlInterpreter (   201) - interpreter starts with dialog 'D13fd9c58029S000001'
+2013-07-13 22:42:46,697 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 l.interpreter.VoiceXmlInterpreterContext (   832) - initializing document...
+2013-07-13 22:42:46,698 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 l.interpreter.VoiceXmlInterpreterContext (   861) - ...done initializing document
+2013-07-13 22:42:46,699 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.scope.ScopeObserver (    81) - entering new scope 'dialog'...
+2013-07-13 22:42:46,734 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'...
+2013-07-13 22:42:46,776 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   355) - no loadable objects of type 'class org.jvoicexml.interpreter.variables.VariableProviders' in file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-13 22:42:46,847 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   326) - loading configuration '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'...
+2013-07-13 22:42:46,893 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .jvoicexml.config.JVoiceXmlConfiguration (   360) - loading 'org.jvoicexml.interpreter.TagStrategyFactory'
+2013-07-13 22:42:46,909 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 gstrategy.JVoiceXmlTagStrategyRepository (    97) - added tag strategy factory 'class org.jvoicexml.interpreter.tagstrategy.JVoiceXmlTagStrategyFactory' for namespace 'http://www.w3.org/2001/vxml'
+2013-07-13 22:42:46,910 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .interpreter.FormInterpretationAlgorithm (   254) - initializing FIA for dialog 'D13fd9c58029S000001'...
+2013-07-13 22:42:46,978 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 l.interpreter.formitem.AbstractInputItem (   234) - initialized input form item 'answer' with 'null'
+2013-07-13 22:42:46,980 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .interpreter.FormInterpretationAlgorithm (   295) - found 1 form items in dialog 'D13fd9c58029S000001'...
+2013-07-13 22:42:46,980 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .interpreter.FormInterpretationAlgorithm (   399) - starting main loop for form 'D13fd9c58029S000001'...
+2013-07-13 22:42:46,980 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'D13fd9c58029S000001'...
+2013-07-13 22:42:46,982 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .interpreter.FormInterpretationAlgorithm (   418) - next form item in form 'D13fd9c58029S000001' is 'answer'
+2013-07-13 22:42:46,983 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2013-07-13 22:42:46,983 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .interpreter.FormInterpretationAlgorithm (   598) - collecting 'answer'...
+2013-07-13 22:42:47,004 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2013-07-13 22:42:47,004 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   436) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1000,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@1d6c530attsClientorg.speechforge.cairo.client.SpeechClientImpl@1d6c530a]'
+2013-07-13 22:42:47,005 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   302) - borrowed system output of type 'mrcpv2'
+2013-07-13 22:42:47,006 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2013-07-13 22:42:47,007 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   494) - borrowed call control of type 'dummy'
+2013-07-13 22:42:47,007 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   183) - Queue count incremented,, now 1
+2013-07-13 22:42:47,702 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 ml.implementation.pool.KeyedResourcePool (   125) - borrowed object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2013-07-13 22:42:47,702 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .implementation.mrcpv2.Mrcpv2SpokenInput (   366) - connecting to 'org.jvoicexml.client.mrcpv2.Mrcpv2ConnectionInformation[dummy,mrcpv2,mrcpv2,null,1000,null,nullclientPort0clientAddressnullserverPort0serverAddressnullasrClientorg.speechforge.cairo.client.SpeechClientImpl@1d6c530attsClientorg.speechforge.cairo.client.SpeechClientImpl@1d6c530a]'
+2013-07-13 22:42:47,703 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   403) - borrowed user input of type 'mrcpv2'
+2013-07-13 22:42:55,417 [Thread-19           ] INFO   mentation.mrcpv2.Mrcpv2SynthesizedOutput (   537) - Queue count decremented, now 0
+2013-07-13 22:42:55,419 [Thread-19           ] WARN   .implementation.mrcpv2.Mrcpv2SpokenInput (   526) - Speech Synth event received not implemented in SpokenInput: SPEAK_COMPLETE
+2013-07-13 22:42:55,643 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 lementation.jvxml.BufferedCharacterInput (   189) - started DTMF recognition
+2013-07-13 22:42:55,643 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state TRANSITIONING
+2013-07-13 22:42:55,643 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .interpreter.FormInterpretationAlgorithm (   653) - processing 'answer'...
+2013-07-13 22:42:55,643 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.VoiceXmlInterpreter (   142) - entered state WAITING
+2013-07-13 22:42:56,569 [Thread-20           ] WARN   mentation.mrcpv2.Mrcpv2SynthesizedOutput (   558) - mrcpv2synthesized output received a recog event.Discarding it.
+2013-07-13 22:42:56,586 [Thread-20           ] WARN   plementation.jvxml.JVoiceXmlSystemOutput (    97) - implementation platform does not support barge-in
+2013-07-13 22:42:58,209 [Thread-20           ] WARN   mentation.mrcpv2.Mrcpv2SynthesizedOutput (   558) - mrcpv2synthesized output received a recog event.Discarding it.
+2013-07-13 22:42:58,210 [Thread-20           ] INFO   on.jvxml.JVoiceXmlImplementationPlatform (   666) - accepted recognition 'yes'
+2013-07-13 22:42:58,211 [Thread-20           ] INFO   .interpreter.event.JVoiceXmlEventHandler (   532) - notified event 'org.jvoicexml.event.plain.jvxml.RecognitionEvent'
+2013-07-13 22:42:58,216 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 lementation.jvxml.BufferedCharacterInput (   222) - stopped DTMF recognition
+2013-07-13 22:42:58,221 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 ter.event.AbstractInputItemEventStrategy (   210) - all input items of 'answer' are filled
+2013-07-13 22:42:58,226 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 mentation.mrcpv2.Mrcpv2SynthesizedOutput (   183) - Queue count incremented,, now 1
+2013-07-13 22:42:58,306 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .interpreter.FormInterpretationAlgorithm (   556) - selecting next form item in dialog 'D13fd9c58029S000001'...
+2013-07-13 22:42:58,315 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 .interpreter.FormInterpretationAlgorithm (   463) - no next element in dialog 'D13fd9c58029S000001'. Exiting mainLoop...
+2013-07-13 22:42:58,315 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'dialog'...
+2013-07-13 22:42:58,316 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'document'...
+2013-07-13 22:42:58,316 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 l.interpreter.VoiceXmlInterpreterContext (   512) - no more documents to process for 'Unknown application'
+2013-07-13 22:42:58,316 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'application'...
+2013-07-13 22:42:58,316 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 g.jvoicexml.interpreter.JVoiceXmlSession (   363) - closing session...
+2013-07-13 22:42:58,316 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   559) - closing implementation platform
+2013-07-13 22:43:02,712 [Thread-19           ] INFO   mentation.mrcpv2.Mrcpv2SynthesizedOutput (   537) - Queue count decremented, now 0
+2013-07-13 22:43:02,712 [Thread-19           ] WARN   .implementation.mrcpv2.Mrcpv2SpokenInput (   526) - Speech Synth event received not implemented in SpokenInput: SPEAK_COMPLETE
+2013-07-13 22:43:02,713 [4e-97cf-d21230841678] WARN  aac1ca82-cd17-4d4e-97cf-d21230841678 .implementation.mrcpv2.Mrcpv2SpokenInput (   446) - isBusy check is not implemented.
+2013-07-13 22:43:02,713 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   583) - returning aqcuired resources
+2013-07-13 22:43:02,713 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput)
+2013-07-13 22:43:02,713 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SynthesizedOutput) to pool
+2013-07-13 22:43:02,713 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   337) - returned system output of type 'mrcpv2'
+2013-07-13 22:43:02,714 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput)
+2013-07-13 22:43:02,714 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'mrcpv2' (org.jvoicexml.implementation.mrcpv2.Mrcpv2SpokenInput) to pool
+2013-07-13 22:43:02,714 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   447) - returned user input of type 'mrcpv2'
+2013-07-13 22:43:02,714 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   908) - telephony connection closed
+2013-07-13 22:43:02,714 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 ml.implementation.pool.KeyedResourcePool (   158) - returned object of type 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport)
+2013-07-13 22:43:02,714 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   811) - returned external resource 'dummy' (org.jvoicexml.implementation.jvxml.DummyTelephonySupport) to pool
+2013-07-13 22:43:02,714 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   532) - returned call control of type 'dummy'
+2013-07-13 22:43:02,715 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 on.jvxml.JVoiceXmlImplementationPlatform (   587) - implementation platform closed
+2013-07-13 22:43:02,715 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 voicexml.interpreter.scope.ScopeObserver (   106) - exiting scope 'session'...
+2013-07-13 22:43:02,715 [4e-97cf-d21230841678] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 g.jvoicexml.interpreter.JVoiceXmlSession (   371) - ...session closed
+2013-07-13 22:43:10,722 [EventScannerThread  ] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event
+2013-07-13 22:43:10,739 [EventScannerThread  ] INFO  aac1ca82-cd17-4d4e-97cf-d21230841678 rg.speechforge.cairo.sip.SipListenerImpl (    78) - Got a dialog terminated event

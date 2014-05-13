@@ -1,0 +1,49 @@
+2013-07-06 20:41:55,226 [main                ] INFO             org.jvoicexml.startup.Shutdown (    93) - security manager set to java.rmi.RMISecurityManager@4a41cd79
+2013-07-06 20:41:55,283 [main                ] INFO   .jvoicexml.config.JVoiceXmlConfiguration (   140) - loading configurations from '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-07-06 20:41:56,079 [main                ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   135) - default fetch timeout: 5000
+2013-07-06 20:41:56,080 [main                ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   146) - serializer: 'class org.jvoicexml.documentserver.schemestrategy.scriptableobjectserializer.KeyValueSerializer'
+2013-07-06 20:41:56,094 [main                ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   135) - default fetch timeout: 5000
+2013-07-06 20:41:56,095 [main                ] DEBUG  server.schemestrategy.HttpSchemeStrategy (   146) - serializer: 'class org.jvoicexml.documentserver.schemestrategy.scriptableobjectserializer.KeyValueSerializer'
+2013-07-06 20:41:56,132 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.BooleanGrammarCreator' for type 'boolean'
+2013-07-06 20:41:56,132 [main                ] INFO   mestrategy.builtin.BuiltinSchemeStrategy (   109) - added builtin grammar creator 'class org.jvoicexml.documentserver.schemestrategy.builtin.DigitsGrammarCreator' for type 'digits'
+2013-07-06 20:41:56,170 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'jvxmlmap': org.jvoicexml.documentserver.schemestrategy.MappedDocumentStrategy
+2013-07-06 20:41:56,171 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'file': org.jvoicexml.documentserver.schemestrategy.FileSchemeStrategy
+2013-07-06 20:41:56,171 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'http': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-06 20:41:56,171 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'https': org.jvoicexml.documentserver.schemestrategy.HttpSchemeStrategy
+2013-07-06 20:41:56,172 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   283) - adding scheme strategy for scheme 'builtin': org.jvoicexml.documentserver.schemestrategy.builtin.BuiltinSchemeStrategy
+2013-07-06 20:41:56,172 [main                ] INFO   l.documentserver.JVoiceXmlDocumentServer (   115) - default fetch timeout: 5000msec
+2013-07-06 20:41:56,205 [main                ] DEBUG  nterpreter.dialog.JVoiceXmlDialogFactory (    84) - added dialog template 'class org.jvoicexml.interpreter.dialog.ExecutablePlainForm' to handle tag 'form'
+2013-07-06 20:41:56,205 [main                ] DEBUG  nterpreter.dialog.JVoiceXmlDialogFactory (    84) - added dialog template 'class org.jvoicexml.interpreter.dialog.ExecutableMenuForm' to handle tag 'menu'
+2013-07-06 20:41:56,241 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.DataStrategy' for tag 'data'
+2013-07-06 20:41:56,241 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.GrammarStrategy' for tag 'grammar'
+2013-07-06 20:41:56,241 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.MetaStrategy' for tag 'meta'
+2013-07-06 20:41:56,242 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.PropertyStrategy' for tag 'property'
+2013-07-06 20:41:56,242 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.ScriptStrategy' for tag 'script'
+2013-07-06 20:41:56,242 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.TextStrategy' for tag '#text'
+2013-07-06 20:41:56,242 [main                ] DEBUG  VoiceXmlInitializationTagStrategyFactory (    79) - added tag strategy 'class org.jvoicexml.interpreter.tagstrategy.VarStrategy' for tag 'var'
+2013-07-06 20:41:56,267 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   116) - scanning configuration folder '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config'
+2013-07-06 20:41:56,268 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-07-06 20:41:56,268 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/log4j.xml'
+2013-07-06 20:41:56,272 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-07-06 20:41:56,273 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/sphinx4.jsapi10.config.xml'
+2013-07-06 20:41:56,273 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-06 20:41:56,273 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-implementation.xml'
+2013-07-06 20:41:56,273 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-07-06 20:41:56,274 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvoicexml.xml'
+2013-07-06 20:41:56,274 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-07-06 20:41:56,278 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/vxml2.1-tagsupport.xml'
+2013-07-06 20:41:56,279 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-06 20:41:56,279 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-variableprovider.xml'
+2013-07-06 20:41:56,279 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-07-06 20:41:56,279 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-grammar.xml'
+2013-07-06 20:41:56,280 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-07-06 20:41:56,280 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/mrcpv2-callmanager.xml'
+2013-07-06 20:41:56,280 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-06 20:41:56,280 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jvxml-implementation.xml'
+2013-07-06 20:41:56,281 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-06 20:41:56,281 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/text-implementation.xml'
+2013-07-06 20:41:56,281 [Thread-0            ] DEBUG  icexml.config.ConfigurationFolderMonitor (   189) - added '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-06 20:41:56,282 [Thread-0            ] INFO   jvoicexml.config.ConfigurationRepository (   239) - added config file '/home/tjr/JVXML-testingversion/JVXML_HOME/org.jvoicexml/config/jsapi10-implementation.xml'
+2013-07-06 20:41:56,286 [main                ] DEBUG  .jvoicexml.config.JVoiceXmlConfiguration (   271) - looking for configurations 'jndi'
+2013-07-06 20:41:56,287 [main                ] DEBUG  jvoicexml.config.ConfigurationRepository (   140) - looking for configurations 'jndi'
+2013-07-06 20:41:56,454 [main                ] FATAL            org.jvoicexml.startup.Shutdown (   105) - no remote shutdown configured
