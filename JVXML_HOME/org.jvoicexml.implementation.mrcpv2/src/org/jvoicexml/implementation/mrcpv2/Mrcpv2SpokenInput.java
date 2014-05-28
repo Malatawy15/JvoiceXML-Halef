@@ -273,7 +273,7 @@ public final class Mrcpv2SpokenInput
             long noInputTimeout = 0;
             boolean hotword = false;
             boolean attachGrammar = true;
-	    LOGGER.info("speechClient.recognize is executed");
+            LOGGER.info("speechClient.recognize is executed");
             //todo: add a method in speechclient to take a string (rather than constructing readers on the fly to match the API).
             speechClient.recognize(new StringReader(activatedGrammar.getDocument()), hotword, 
                     attachGrammar, noInputTimeout);
