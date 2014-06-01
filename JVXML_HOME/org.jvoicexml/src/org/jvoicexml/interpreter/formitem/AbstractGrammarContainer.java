@@ -120,4 +120,9 @@ abstract class AbstractGrammarContainer
         }
         return grammars;
     }
+    
+    public int countGrammars(){
+    	return getGrammars().size();
+    }
+    
 }

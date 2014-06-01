@@ -27,6 +27,7 @@
 package org.jvoicexml;
 
 import java.io.Reader;
+import java.net.URI;
 import java.util.Collection;
 
 import org.jvoicexml.event.error.BadFetchError;
@@ -34,6 +35,7 @@ import org.jvoicexml.event.error.NoresourceError;
 import org.jvoicexml.event.error.UnsupportedFormatError;
 import org.jvoicexml.event.error.UnsupportedLanguageError;
 import org.jvoicexml.implementation.GrammarImplementation;
+import org.jvoicexml.xml.srgs.Grammar;
 import org.jvoicexml.xml.srgs.GrammarType;
 import org.jvoicexml.xml.srgs.ModeType;
 import org.jvoicexml.xml.vxml.BargeInType;
@@ -193,4 +195,6 @@ public interface UserInput {
      * collection, if no types are supported.
      */
     Collection<BargeInType> getSupportedBargeInTypes();
+
+	void activateGrammarUrls(Collection<URI> grammars);
 }

@@ -388,4 +388,10 @@ final class TextSpokenInput implements SpokenInput, ObservableSpokenInput {
             }
         }
     }
+
+	@Override
+	public void activateGrammarUrls(Collection<URI> grammarsUri) {
+		// TODO Auto-generated method stub
+		
+	}
 }

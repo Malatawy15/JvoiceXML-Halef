@@ -293,20 +293,9 @@ public final class JVoiceXmlDocumentServer
     public GrammarDocument getGrammarDocument(final String sessionId,
             final URI uri, final FetchAttributes attrs)
             throws BadFetchError {
-	String Grammarlog="";
         if (LOGGER.isDebugEnabled()) {
             LOGGER.debug("retrieving grammar '" + uri + "'");
-	    Grammarlog ="\n"+"Used Grammar : ("+ uri+")";
         }
-	 try{
-                 FileWriter fstream = new FileWriter("recog.txt",true);
-                 BufferedWriter out = new BufferedWriter(fstream);
-                 out.write(Grammarlog);
-                 out.close();
-         }catch (Exception e){
-                 System.err.println("Error: " + e.getMessage());
-        }
-
 
         final DocumentDescriptor descriptor = new DocumentDescriptor(uri);
         final ReadBuffer buffer =

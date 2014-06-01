@@ -117,6 +117,10 @@ public final class Mrcpv2SpokenInput
    
     /** The ASR client. */
     private SpeechClient speechClient;
+    
+    private boolean sendUrl = true;
+    
+    private URI activatedGrammarURI;
 
     /**
      * Constructs a new object.
@@ -229,6 +233,13 @@ public final class Mrcpv2SpokenInput
             }
         }
     }
+    
+    @Override
+	public void activateGrammarUrls(Collection<URI> grammarsUri) {
+		for (URI uri : grammarsUri){
+			activatedGrammarURI = uri;
+		}
+	}
 
     /**
      * {@inheritDoc}
@@ -275,8 +286,14 @@ public final class Mrcpv2SpokenInput
             boolean attachGrammar = true;
             LOGGER.info("speechClient.recognize is executed");
             //todo: add a method in speechclient to take a string (rather than constructing readers on the fly to match the API).
-            speechClient.recognize(new StringReader(activatedGrammar.getDocument()), hotword, 
-                    attachGrammar, noInputTimeout);
+            if (sendUrl){
+            	speechClient.recognize(new StringReader(activatedGrammarURI.toString()), hotword, 
+                        attachGrammar, noInputTimeout);
+            }
+            else {
+            	speechClient.recognize(new StringReader(activatedGrammar.getDocument()), hotword, 
+                        attachGrammar, noInputTimeout);
+            }
         } catch (MrcpInvocationException e) {
             if (LOGGER.isDebugEnabled()) {
                 LOGGER.debug("Mrcpv2 invocation exception while initiating a "
@@ -558,4 +575,5 @@ public final class Mrcpv2SpokenInput
     public void setSessionManager(final SessionManager manager) {
         sessionManager = manager;
     }
+
 }

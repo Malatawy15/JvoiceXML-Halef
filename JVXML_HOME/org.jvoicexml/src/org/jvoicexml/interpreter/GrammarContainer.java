@@ -58,5 +58,7 @@ public interface GrammarContainer extends InputItem {
      * @since 0.7
      */
     void addGrammar(final GrammarDocument document);
+    
+    int countGrammars();
 
 }

@@ -29,6 +29,7 @@ package org.jvoicexml.implementation.jvxml;
 
 import java.io.IOException;
 import java.io.Reader;
+import java.net.URI;
 import java.util.Collection;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -49,6 +50,7 @@ import org.jvoicexml.implementation.SpokenInput;
 import org.jvoicexml.implementation.SpokenInputListener;
 import org.jvoicexml.implementation.SpokenInputProvider;
 import org.jvoicexml.implementation.SrgsXmlGrammarImplementation;
+import org.jvoicexml.xml.srgs.Grammar;
 import org.jvoicexml.xml.srgs.GrammarType;
 import org.jvoicexml.xml.srgs.ModeType;
 import org.jvoicexml.xml.srgs.SrgsXmlDocument;
@@ -150,7 +152,13 @@ final class JVoiceXmlUserInput
             characterInput.activateGrammars(dtmfGrammars);
         }
     }
-
+    
+    @Override
+    public void activateGrammarUrls(Collection<URI> grammarsUri) {
+		spokenInput.activateGrammarUrls(grammarsUri);
+		characterInput.activateGrammarUrls(grammarsUri);
+	}
+    
     /**
      * {@inheritDoc}
      */
@@ -299,4 +307,5 @@ final class JVoiceXmlUserInput
     public boolean isBusy() {
         return spokenInput.isBusy();
     }
+
 }

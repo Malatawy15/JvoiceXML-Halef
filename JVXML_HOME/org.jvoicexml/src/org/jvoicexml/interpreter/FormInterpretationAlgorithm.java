@@ -31,6 +31,7 @@ import java.io.OutputStream;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.Collection;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
@@ -174,6 +175,8 @@ public final class FormInterpretationAlgorithm
 
     /** <code>true</code> if the FIA is currently queuing prompts. */
     private boolean queuingPrompts;
+    
+    private boolean sendUrl;
 
     /**
      * Construct a new FIA object.
@@ -207,6 +210,9 @@ public final class FormInterpretationAlgorithm
         }
         localGrammars = new java.util.HashSet<GrammarDocument>();
         localProperties = new java.util.HashMap<String, String>();
+        
+        // TODO get sendUrl from config
+        sendUrl = true;
     }
 
     /**
@@ -624,11 +630,17 @@ public final class FormInterpretationAlgorithm
         // Execute local tags.
         executeLocalTags(formItem);
 
-        // Activate grammars for the form item.
-        if (formItem.isModal()) {
-            activateModalGrammars(formItem);
-        } else {
-            activateGrammars(formItem);
+        
+        if (sendUrl){
+        	activateGrammarsUrl(formItem);
+        }
+        else {
+        	// Activate grammars for the form item.
+            if (formItem.isModal()) {
+                activateModalGrammars(formItem);
+            } else {
+                activateGrammars(formItem);
+            }
         }
 
         // Execute the form item.
@@ -1061,8 +1073,66 @@ public final class FormInterpretationAlgorithm
             LOGGER.debug("...grammar(s) activated");
         }
     }
+    
+    public void activateGrammarsUrl(final FormItem formItem) throws SemanticError, NoresourceError, ConnectionDisconnectHangupEvent{
+    	final boolean isInitialItem = formItem instanceof InitialFormItem;
+        final boolean isGrammarContainer = formItem instanceof GrammarContainer;
+        if (!isGrammarContainer && !isInitialItem) {
+            return;
+        }
 
-    /**
+        int numGrammars = 0;
+        Collection<Grammar> grammars = null;
+        
+        if (isGrammarContainer) {
+            // Add the grammars of the current form item
+        	GrammarContainer grammarContainer = (GrammarContainer) formItem;
+            grammars = grammarContainer.getGrammars();
+            numGrammars = grammars.size();
+        }
+
+        // Activate grammars only if there are already grammars with dialog
+        // scope or grammars in the field.
+        if (numGrammars == 0) {
+            throw new SemanticError(
+                    "No grammars defined for the input of form item '"
+                    + formItem.getName() + "'!");
+        }
+        
+        LOGGER.info("Num grammars: " + numGrammars);
+        // TODO Manage a way such that getGrammars() is called only once 
+        // TODO Support loading multiple grammar documents
+        
+        final ImplementationPlatform platform =
+            context.getImplementationPlatform();
+        final UserInput input = platform.getUserInput();
+        
+        input.activateGrammarUrls(getGrammarUris(grammars));
+        if (LOGGER.isDebugEnabled()) {
+            LOGGER.debug("...grammar(s) activated");
+        }
+
+
+    }
+
+    private Collection<URI> getGrammarUris(Collection<Grammar> grammars) {
+		// TODO Auto-generated method stub
+    	Application application = context.getApplication();
+    	Collection<URI> grammarUris = new HashSet<URI>();
+    	for (Grammar grammar : grammars){
+    		URI uri;
+			try {
+				uri = application.resolve(grammar.getSrcUri());
+				LOGGER.info("Load Uri: " + uri.toString());
+				grammarUris.add(uri);
+			} catch (URISyntaxException e) {
+				LOGGER.error("Couldn't resolve grammar Uri: " + e.getMessage());
+			}
+    	}
+		return grammarUris;
+	}
+
+	/**
      * Deactivates the given grammars.
      * @param grammarsToDeactivate the grammars to activate
      * @throws BadFetchError

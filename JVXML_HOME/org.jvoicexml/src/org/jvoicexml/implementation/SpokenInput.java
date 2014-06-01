@@ -174,4 +174,6 @@ public interface SpokenInput
      *         error creating the URI
      */
     URI getUriForNextSpokenInput() throws NoresourceError, URISyntaxException;
+
+	void activateGrammarUrls(Collection<URI> grammarsUri);
 }

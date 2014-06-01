@@ -26,6 +26,7 @@
 
 package org.jvoicexml.implementation.jvxml;
 
+import java.net.URI;
 import java.util.Collection;
 import java.util.concurrent.BlockingQueue;
 
@@ -257,4 +258,9 @@ public final class BufferedCharacterInput
             current.inputStatusChanged(event);
         }
     }
+
+	public void activateGrammarUrls(Collection<URI> grammarsUri) {
+		// TODO Auto-generated method stub
+		
+	}
 }
