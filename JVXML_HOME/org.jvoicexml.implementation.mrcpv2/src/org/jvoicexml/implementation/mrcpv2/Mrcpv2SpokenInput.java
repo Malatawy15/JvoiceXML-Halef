@@ -310,7 +310,7 @@ public final class Mrcpv2SpokenInput
             //todo: add a method in speechclient to take a string (rather than constructing readers on the fly to match the API).
             if (sendUrl){
             	LOGGER.info("Starting recognition with url: " + activatedGrammarURI.toString());
-            	
+            	LOGGER.info("Grammar type: " + activeGrammar.getTypename());
             	speechClient.setContentType(activeGrammar.getTypename());
             	
             	speechClient.recognize(new StringReader(activatedGrammarURI.toString()), hotword, 
