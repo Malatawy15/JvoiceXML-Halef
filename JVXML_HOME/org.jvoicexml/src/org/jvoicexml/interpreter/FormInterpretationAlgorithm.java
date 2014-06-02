@@ -176,7 +176,7 @@ public final class FormInterpretationAlgorithm
     /** <code>true</code> if the FIA is currently queuing prompts. */
     private boolean queuingPrompts;
     
-    private boolean sendUrl;
+    private boolean sendUrl = true;
 
     /**
      * Construct a new FIA object.
