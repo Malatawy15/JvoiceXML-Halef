@@ -236,8 +236,10 @@ public final class Mrcpv2SpokenInput
     
 	public void activateGrammarUrls(Collection<URI> grammarsUri) {
 		for (URI uri : grammarsUri){
-			activatedGrammarURI = uri;
-			numActiveGrammars = 1;
+			if (uri != null){
+				activatedGrammarURI = uri;
+				numActiveGrammars = 1;
+			}
 		}
 	}
 
@@ -275,7 +277,7 @@ public final class Mrcpv2SpokenInput
         }
         
         if (sendUrl){
-        	if (numActiveGrammars == 0){
+        	if ((activatedGrammarURI == null) || (numActiveGrammars == 0)){
         		if (LOGGER.isDebugEnabled()) {
                     LOGGER.warn("No active grammars");
                 }
@@ -299,6 +301,7 @@ public final class Mrcpv2SpokenInput
             LOGGER.info("speechClient.recognize is executed");
             //todo: add a method in speechclient to take a string (rather than constructing readers on the fly to match the API).
             if (sendUrl){
+            	LOGGER.info("Starting recognition with url: " + activatedGrammarURI.toString());
             	speechClient.recognize(new StringReader(activatedGrammarURI.toString()), hotword, 
                         attachGrammar, noInputTimeout);
             }
