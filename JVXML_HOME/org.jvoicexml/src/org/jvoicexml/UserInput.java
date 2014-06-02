@@ -196,5 +196,6 @@ public interface UserInput {
      */
     Collection<BargeInType> getSupportedBargeInTypes();
 
-	void activateGrammarUrls(Collection<URI> grammars);
+	void activateGrammarUrls(Collection<URI> grammarUris,
+			Collection<Grammar> grammars);
 }

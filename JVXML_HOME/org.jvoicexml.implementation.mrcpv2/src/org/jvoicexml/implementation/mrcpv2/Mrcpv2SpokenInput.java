@@ -53,6 +53,7 @@ import org.jvoicexml.implementation.SpokenInput;
 import org.jvoicexml.implementation.SpokenInputEvent;
 import org.jvoicexml.implementation.SpokenInputListener;
 import org.jvoicexml.implementation.SrgsXmlGrammarImplementation;
+import org.jvoicexml.xml.srgs.Grammar;
 import org.jvoicexml.xml.srgs.GrammarType;
 import org.jvoicexml.xml.vxml.BargeInType;
 import org.mrcp4j.client.MrcpInvocationException;
@@ -121,6 +122,8 @@ public final class Mrcpv2SpokenInput
     private boolean sendUrl = true;
     
     private URI activatedGrammarURI;
+
+	private Grammar activeGrammar;
 
     /**
      * Constructs a new object.
@@ -234,11 +237,16 @@ public final class Mrcpv2SpokenInput
         }
     }
     
-	public void activateGrammarUrls(Collection<URI> grammarsUri) {
+	public void activateGrammarUrls(Collection<URI> grammarsUri, Collection<Grammar> grammars) {
 		for (URI uri : grammarsUri){
 			if (uri != null){
 				activatedGrammarURI = uri;
 				numActiveGrammars = 1;
+			}
+		}
+		for (Grammar grammar : grammars){
+			if (grammar != null){
+				activeGrammar = grammar;
 			}
 		}
 	}
@@ -302,6 +310,9 @@ public final class Mrcpv2SpokenInput
             //todo: add a method in speechclient to take a string (rather than constructing readers on the fly to match the API).
             if (sendUrl){
             	LOGGER.info("Starting recognition with url: " + activatedGrammarURI.toString());
+            	
+            	speechClient.setContentType(activeGrammar.getTypename());
+            	
             	speechClient.recognize(new StringReader(activatedGrammarURI.toString()), hotword, 
                         attachGrammar, noInputTimeout);
             }

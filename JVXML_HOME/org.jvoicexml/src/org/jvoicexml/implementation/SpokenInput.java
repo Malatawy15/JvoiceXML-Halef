@@ -35,6 +35,7 @@ import org.jvoicexml.event.error.BadFetchError;
 import org.jvoicexml.event.error.NoresourceError;
 import org.jvoicexml.event.error.UnsupportedFormatError;
 import org.jvoicexml.event.error.UnsupportedLanguageError;
+import org.jvoicexml.xml.srgs.Grammar;
 import org.jvoicexml.xml.srgs.GrammarType;
 import org.jvoicexml.xml.vxml.BargeInType;
 
@@ -175,5 +176,5 @@ public interface SpokenInput
      */
     URI getUriForNextSpokenInput() throws NoresourceError, URISyntaxException;
 
-	void activateGrammarUrls(Collection<URI> grammarsUri);
+	void activateGrammarUrls(Collection<URI> grammarsUri, Collection<Grammar> grammars);
 }

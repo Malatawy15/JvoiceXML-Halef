@@ -43,6 +43,7 @@ import org.jvoicexml.implementation.InputDevice;
 import org.jvoicexml.implementation.ObservableSpokenInput;
 import org.jvoicexml.implementation.SpokenInputEvent;
 import org.jvoicexml.implementation.SpokenInputListener;
+import org.jvoicexml.xml.srgs.Grammar;
 
 /**
  * Buffered DTMF input.
@@ -259,7 +260,7 @@ public final class BufferedCharacterInput
         }
     }
 
-	public void activateGrammarUrls(Collection<URI> grammarsUri) {
+	public void activateGrammarUrls(Collection<URI> grammarsUri, Collection<Grammar> grammars) {
 		// TODO Auto-generated method stub
 		
 	}

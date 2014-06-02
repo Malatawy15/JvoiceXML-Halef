@@ -154,9 +154,9 @@ final class JVoiceXmlUserInput
     }
     
     @Override
-    public void activateGrammarUrls(Collection<URI> grammarsUri) {
-		spokenInput.activateGrammarUrls(grammarsUri);
-		characterInput.activateGrammarUrls(grammarsUri);
+    public void activateGrammarUrls(Collection<URI> grammarsUri, Collection<Grammar> grammars) {
+		spokenInput.activateGrammarUrls(grammarsUri, grammars);
+		characterInput.activateGrammarUrls(grammarsUri, grammars);
 	}
     
     /**

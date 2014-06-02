@@ -1107,7 +1107,7 @@ public final class FormInterpretationAlgorithm
             context.getImplementationPlatform();
         final UserInput input = platform.getUserInput();
         
-        input.activateGrammarUrls(getGrammarUris(grammars));
+        input.activateGrammarUrls(getGrammarUris(grammars), grammars);
         if (LOGGER.isDebugEnabled()) {
             LOGGER.debug("...grammar(s) activated");
         }
