@@ -234,10 +234,10 @@ public final class Mrcpv2SpokenInput
         }
     }
     
-    @Override
 	public void activateGrammarUrls(Collection<URI> grammarsUri) {
 		for (URI uri : grammarsUri){
 			activatedGrammarURI = uri;
+			numActiveGrammars = 1;
 		}
 	}
 
@@ -273,12 +273,24 @@ public final class Mrcpv2SpokenInput
         if (LOGGER.isDebugEnabled()) {
             LOGGER.debug("starting recognition...");
         }
-        if ((activatedGrammar == null) || (numActiveGrammars == 0)) {
-            if (LOGGER.isDebugEnabled()) {
-                LOGGER.warn("No active grammars");
-            }
-            throw new NoresourceError("No Active Grammars");   
+        
+        if (sendUrl){
+        	if (numActiveGrammars == 0){
+        		if (LOGGER.isDebugEnabled()) {
+                    LOGGER.warn("No active grammars");
+                }
+                throw new NoresourceError("No Active Grammars");
+        	}
         }
+        else {
+        	if ((activatedGrammar == null) || (numActiveGrammars == 0)) {
+                if (LOGGER.isDebugEnabled()) {
+                    LOGGER.warn("No active grammars");
+                }
+                throw new NoresourceError("No Active Grammars");   
+            }
+        }
+        
         try {
 
             long noInputTimeout = 0;
